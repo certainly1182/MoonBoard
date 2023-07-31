@@ -3639,8 +3639,8 @@
     (property "Datasheet" "~" (at 254 74.93 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 40cd1f44-b23c-4c95-a3a8-16e9e6d2e4d2))
-    (pin "2" (uuid 4f821625-75c8-4d8a-9a72-89555a2b317a))
+    (pin "1" (uuid c17b54d7-29e6-4432-9574-993afbe2a022))
+    (pin "2" (uuid d33acdc5-8101-4fb9-9d11-5c9bee90937b))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
@@ -3668,15 +3668,15 @@
     (property "Datasheet" "~" (at 256.54 120.65 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 23492f95-df05-4132-85a7-160572c5af7e))
-    (pin "2" (uuid 22633d13-9afd-41dd-a8c5-0c47a8f24621))
+    (pin "1" (uuid 4b88defb-58ca-4ead-8ef1-54064736589d))
+    (pin "2" (uuid 758f9b37-0e26-45a5-a754-21fe82de9495))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "R4") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "R69") (unit 1)
+          (reference "R71") (unit 1)
         )
       )
     )
@@ -3697,14 +3697,14 @@
     (property "Datasheet" "" (at 142.24 77.47 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 7c3d0986-3c9f-44ee-9b5f-84c56607a56b))
+    (pin "1" (uuid 07d8abe9-db1f-4de0-a1a2-08ab16e0ca73))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "#PWR058") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "#PWR0252") (unit 1)
+          (reference "#PWR0258") (unit 1)
         )
       )
     )
@@ -3725,15 +3725,15 @@
     (property "Datasheet" "~" (at 449.58 74.93 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 403dc543-30b1-4eb8-ba48-33655d94ea8d))
-    (pin "2" (uuid d24bcbb0-0632-4140-9a0c-f00160d96a0a))
+    (pin "1" (uuid 876ebf7a-8567-47a9-9150-6a0abede7b66))
+    (pin "2" (uuid b4ede229-3192-47b1-bdcc-a40d2f843f8a))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "C27") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "C271") (unit 1)
+          (reference "C151") (unit 1)
         )
       )
     )
@@ -3754,15 +3754,15 @@
     (property "Datasheet" "~" (at 421.64 123.19 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 7530b3af-e3dc-4675-a283-ae83b1166e21))
-    (pin "2" (uuid 5b014acb-fadc-4841-be9b-e7877cda40d0))
+    (pin "1" (uuid f556f34d-0b4e-4888-b292-1f607ca314a6))
+    (pin "2" (uuid 7ffaa153-9153-4e34-98db-556d421fa452))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "C27") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "C179") (unit 1)
+          (reference "C181") (unit 1)
         )
       )
     )
@@ -3783,14 +3783,14 @@
     (property "Datasheet" "" (at 58.42 125.73 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid aa5185dc-53a2-4871-a634-7bc834c9613b))
+    (pin "1" (uuid b1baf366-15dc-4c82-af06-687edfd9686c))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "#PWR058") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "#PWR0278") (unit 1)
+          (reference "#PWR0286") (unit 1)
         )
       )
     )
@@ -3811,14 +3811,14 @@
     (property "Datasheet" "" (at 365.76 77.47 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c6959d67-c21e-468e-8d95-46fed6601a38))
+    (pin "1" (uuid 72702829-eef8-4165-9a65-8e39c0e65d99))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "#PWR058") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "#PWR0260") (unit 1)
+          (reference "#PWR0266") (unit 1)
         )
       )
     )
@@ -3839,8 +3839,8 @@
     (property "Datasheet" "~" (at 198.12 50.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 2d44185a-62c1-4ddf-8646-07017febfb5d))
-    (pin "2" (uuid 3ba5be2d-5230-42f6-b955-85f36b54b26b))
+    (pin "1" (uuid 8855cc21-2eec-4363-b575-d9b0265b65e1))
+    (pin "2" (uuid e185155f-35a6-4b6f-86d5-696b9b50189c))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
@@ -3868,8 +3868,8 @@
     (property "Datasheet" "~" (at 337.185 26.67 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4183639d-5615-4176-80ef-85e76817cc35))
-    (pin "2" (uuid 39f85e4b-2181-4722-a741-2d020b6c7d67))
+    (pin "1" (uuid bf672043-0abd-4ae3-8f68-8aeedd52de5e))
+    (pin "2" (uuid 1b7bbd88-64c2-47b6-8daa-93a4c23e17b6))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
@@ -3897,8 +3897,8 @@
     (property "Datasheet" "~" (at 256.54 72.39 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 7c55c6b1-5063-4646-9f75-0261a3ae2c27))
-    (pin "2" (uuid 37d034e4-2154-447d-8c27-57eee1ea14eb))
+    (pin "1" (uuid aacc3aae-214c-42ee-a30c-9dd86b814ee5))
+    (pin "2" (uuid b82e8056-e3d1-4173-a991-f1b0c574c8d4))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
@@ -3926,8 +3926,8 @@
     (property "Datasheet" "~" (at 200.025 24.13 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid cd0f6e4e-e176-4681-a873-0070f871953f))
-    (pin "2" (uuid 31f23975-3a0d-4a20-ba2e-1ac537353839))
+    (pin "1" (uuid 2346fe15-432e-4000-9e66-44b22ac39feb))
+    (pin "2" (uuid d06cf84f-df85-41bd-83b7-f924a3e550e9))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
@@ -3955,8 +3955,8 @@
     (property "Datasheet" "~" (at 116.84 72.39 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 60f99eaa-28c7-4d61-8c3f-94204e52e418))
-    (pin "2" (uuid 11f850e8-260e-4df2-a7f8-649b610708e0))
+    (pin "1" (uuid 0e1d5540-48da-417c-b302-fc77e7e6a9d6))
+    (pin "2" (uuid a5636f96-1fb1-4754-b1a0-dce629796d63))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
@@ -3984,14 +3984,14 @@
     (property "Datasheet" "" (at 337.82 101.6 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ae6184c7-eca4-42eb-8694-a317801e771c))
+    (pin "1" (uuid 696453c3-3998-4d4f-abda-f6ec67073e38))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "#PWR058") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "#PWR0274") (unit 1)
+          (reference "#PWR0281") (unit 1)
         )
       )
     )
@@ -4012,15 +4012,15 @@
     (property "Datasheet" "~" (at 144.78 120.65 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 61a7e16d-29f7-4398-9e65-608227e3b263))
-    (pin "2" (uuid 707bfba7-a133-44ff-a2b6-c4883b060de3))
+    (pin "1" (uuid 0e49f4f8-b545-41d7-b289-05b3c270e2e4))
+    (pin "2" (uuid 50366dff-0f8a-45cd-8618-0175ec6b97fb))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "R4") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "R65") (unit 1)
+          (reference "R67") (unit 1)
         )
       )
     )
@@ -4041,8 +4041,8 @@
     (property "Datasheet" "~" (at 172.72 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e3a28a79-e5ac-470d-897f-8ddf61865bc9))
-    (pin "2" (uuid 54e8b441-904f-4259-b13a-b79f772aafae))
+    (pin "1" (uuid 418b0bdc-720b-4b1c-a0d7-e874ead67dc1))
+    (pin "2" (uuid 0e636010-1987-44db-9f16-de9b86a83b9c))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
@@ -4070,14 +4070,14 @@
     (property "Datasheet" "" (at 86.36 53.34 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 20a91494-f16f-4148-9b6f-49ce29c0cf9f))
+    (pin "1" (uuid d678f549-818a-4ed8-a629-198532d04c4d))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "#PWR058") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "#PWR0235") (unit 1)
+          (reference "#PWR0241") (unit 1)
         )
       )
     )
@@ -4098,8 +4098,8 @@
     (property "Datasheet" "~" (at 169.545 26.67 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 009e8530-0ad8-4899-99cd-0d24c5a21d43))
-    (pin "2" (uuid a1abe537-a9a9-4bbc-8201-d29d16c8d91c))
+    (pin "1" (uuid 465e372c-55ae-4260-85c3-8d81a92ede5f))
+    (pin "2" (uuid 4d487272-0348-4d58-8ff7-36d83bb1874e))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
@@ -4127,14 +4127,14 @@
     (property "Datasheet" "" (at 421.64 77.47 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f535d727-909a-460a-81c5-5904039636ee))
+    (pin "1" (uuid bcd407a4-2796-48e4-a1ab-f3e560d0ef2b))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "#PWR058") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "#PWR0262") (unit 1)
+          (reference "#PWR0268") (unit 1)
         )
       )
     )
@@ -4155,8 +4155,8 @@
     (property "Datasheet" "~" (at 311.785 24.13 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 69cd0fc9-709d-4b64-87ab-f56ef50a5336))
-    (pin "2" (uuid a4156ecc-d4c7-43ae-ade1-3024d9504a9f))
+    (pin "1" (uuid 53cd8cc6-3353-4419-a1be-5dd74433a763))
+    (pin "2" (uuid 695b6e9e-8eb8-4d59-b54a-96b0c2ae2ee1))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
@@ -4184,14 +4184,14 @@
     (property "Datasheet" "" (at 281.94 101.6 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 7fe66c96-8a8c-463e-b7b8-884a05cd5bd1))
+    (pin "1" (uuid 9fee5c66-5d58-4649-bb5f-2704c8e39190))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "#PWR058") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "#PWR0272") (unit 1)
+          (reference "#PWR0279") (unit 1)
         )
       )
     )
@@ -4212,15 +4212,15 @@
     (property "Datasheet" "~" (at 33.02 96.52 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b00b2f05-5078-4629-8de6-7fdb1fc0bc48))
-    (pin "2" (uuid adcab315-23b9-4ff8-a63f-9428e1c7d8c8))
+    (pin "1" (uuid aaf2e32f-8d65-49ae-8bef-5383bbe93443))
+    (pin "2" (uuid b3b97daa-a359-4870-90bb-a5996cc9d3c8))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "R4") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "R47") (unit 1)
+          (reference "R48") (unit 1)
         )
       )
     )
@@ -4241,8 +4241,8 @@
     (property "Datasheet" "~" (at 200.66 72.39 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 36d1019e-9d4d-4051-9e65-d2ee93242360))
-    (pin "2" (uuid 79bbe969-a4f7-4eae-8283-877d4ceabc2f))
+    (pin "1" (uuid 7e2b58b2-ea34-4ded-8bd1-1f184ccf3973))
+    (pin "2" (uuid 728acd49-6972-496d-b39a-3d8aa5d9028a))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
@@ -4270,14 +4270,14 @@
     (property "Datasheet" "" (at 114.3 53.34 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 1568cec4-e2c6-482e-90be-6e6ae35bf4ee))
+    (pin "1" (uuid 193b9873-00c7-447b-88d3-00c5684c8f9f))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "#PWR058") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "#PWR0236") (unit 1)
+          (reference "#PWR0242") (unit 1)
         )
       )
     )
@@ -4298,14 +4298,14 @@
     (property "Datasheet" "" (at 30.48 101.6 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid cb7acaec-d3b5-4e49-b064-69305ad6818f))
+    (pin "1" (uuid aace90ee-a022-4a94-b2e5-18d115a17131))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "#PWR058") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "#PWR0263") (unit 1)
+          (reference "#PWR0270") (unit 1)
         )
       )
     )
@@ -4326,14 +4326,14 @@
     (property "Datasheet" "" (at 393.7 101.6 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 9f5ac3b7-385f-44fe-9e39-3ade56d45871))
+    (pin "1" (uuid b0d29447-22f4-48ee-867f-231e0b7e9f9b))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "#PWR058") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "#PWR0276") (unit 1)
+          (reference "#PWR0283") (unit 1)
         )
       )
     )
@@ -4354,14 +4354,14 @@
     (property "Datasheet" "" (at 58.42 149.86 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b52413d5-ef0c-4ca2-b7fb-f809c4beafec))
+    (pin "1" (uuid e5f669f1-bad2-4b8e-9209-7292fe2aaddc))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "#PWR058") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "#PWR0293") (unit 1)
+          (reference "#PWR0302") (unit 1)
         )
       )
     )
@@ -4382,15 +4382,15 @@
     (property "Datasheet" "~" (at 88.9 144.78 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ef0454c0-8523-40b3-868b-961bb9dd30eb))
-    (pin "2" (uuid 6be638f0-aa2f-4ad0-9d9f-9a5b351a79de))
+    (pin "1" (uuid e7ca6194-a19d-422f-8eb2-9460ae5579b3))
+    (pin "2" (uuid 84826d31-5304-4856-93b6-0fa4369eb823))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "R4") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "R78") (unit 1)
+          (reference "R81") (unit 1)
         )
       )
     )
@@ -4411,8 +4411,8 @@
     (property "Datasheet" "~" (at 309.245 26.67 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 1ee95a54-373b-4d1f-813d-d460142c1318))
-    (pin "2" (uuid 26486dcf-70b5-4737-8d4d-d023cc59ddf6))
+    (pin "1" (uuid d0f299c8-b459-4de1-a050-f28e9bd10bf5))
+    (pin "2" (uuid fb596275-2023-4f1d-9329-a51d4072c886))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
@@ -4440,8 +4440,8 @@
     (property "Datasheet" "~" (at 424.18 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 551e9ac3-4d5a-44e5-98a0-cd86e647f395))
-    (pin "2" (uuid 026d9d31-f351-4a07-9a4f-4f4b2d62a145))
+    (pin "1" (uuid f5736d2b-5e66-4bba-a437-b753b4f04548))
+    (pin "2" (uuid 6ad97406-d306-4b22-83a9-d13a23c048c9))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
@@ -4469,8 +4469,8 @@
     (property "Datasheet" "~" (at 144.145 24.13 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 2cdd7b6a-ac33-4f19-bc43-21566f6b5c82))
-    (pin "2" (uuid 00444ccb-7f9d-4742-a5d7-ad54c70b85f7))
+    (pin "1" (uuid 2747f53b-0f92-4435-a162-0864448121d5))
+    (pin "2" (uuid d9fb48fb-d6e9-4a50-a0e3-85da36440f9c))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
@@ -4498,15 +4498,15 @@
     (property "Datasheet" "~" (at 142.24 123.19 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b1c4cc50-a432-421f-87e9-49f92edd87af))
-    (pin "2" (uuid dd15b1cc-cad1-4c07-bb15-9d42c077193b))
+    (pin "1" (uuid a7f8415c-88e8-48a3-ae26-1d5c075ccddb))
+    (pin "2" (uuid ed82e1dc-4b38-4153-bf50-5e0cd6f33359))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "C27") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "C169") (unit 1)
+          (reference "C171") (unit 1)
         )
       )
     )
@@ -4527,14 +4527,14 @@
     (property "Datasheet" "" (at 142.24 53.34 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d29cb2d2-c239-4f8b-b868-4906bc74157d))
+    (pin "1" (uuid 39631213-8813-4a3b-afb9-9b07c582dc6c))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "#PWR058") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "#PWR0237") (unit 1)
+          (reference "#PWR0243") (unit 1)
         )
       )
     )
@@ -4555,15 +4555,15 @@
     (property "Datasheet" "~" (at 170.18 123.19 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 886655a1-0196-4a7c-9471-7903d750d167))
-    (pin "2" (uuid 12174c6c-90ca-4795-a4e8-32e04c35dad8))
+    (pin "1" (uuid 42a80b02-4aec-43fe-be59-7a7ac7807d57))
+    (pin "2" (uuid b75aff98-2e46-401a-8cdc-4eae488ff916))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "C27") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "C170") (unit 1)
+          (reference "C172") (unit 1)
         )
       )
     )
@@ -4584,8 +4584,8 @@
     (property "Datasheet" "~" (at 421.64 74.93 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ef280409-0e52-413e-8024-86f4732e3730))
-    (pin "2" (uuid 8f8fc55d-4d33-4825-adce-756b26dee58e))
+    (pin "1" (uuid 9ae148fb-cbaf-4798-9d97-b4e3d24b0804))
+    (pin "2" (uuid 0c00cab5-2ce4-4563-9b5c-d85226a6c693))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
@@ -4613,15 +4613,15 @@
     (property "Datasheet" "~" (at 226.06 99.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d95f3162-fa5f-405b-a117-162547f1736b))
-    (pin "2" (uuid fbec418c-abd1-4e88-9416-a2a3be409178))
+    (pin "1" (uuid 84a7fea3-4047-4e32-8ad9-42ea5dac3951))
+    (pin "2" (uuid 6d444310-f3bc-468f-ab8b-ab0fb96f3442))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "C27") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "C158") (unit 1)
+          (reference "C159") (unit 1)
         )
       )
     )
@@ -4642,15 +4642,15 @@
     (property "Datasheet" "~" (at 228.6 96.52 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 72ee1940-27be-4cb0-99a6-f9dbe11c5b7e))
-    (pin "2" (uuid dedb9dec-f120-4139-85af-d4da8456769f))
+    (pin "1" (uuid 4254d312-0769-4fe4-ba26-4d7ae743a24f))
+    (pin "2" (uuid 8a35fed7-2160-4558-b5f2-ddb670a44dcc))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "R4") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "R54") (unit 1)
+          (reference "R55") (unit 1)
         )
       )
     )
@@ -4671,8 +4671,8 @@
     (property "Datasheet" "~" (at 339.725 24.13 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f466b7ab-7f58-48fa-85ba-24f284c3b4f5))
-    (pin "2" (uuid 83fa2105-ffd5-4399-882b-627bf698da79))
+    (pin "1" (uuid 498ad2c4-3f1e-4759-85b2-9de1125ea18e))
+    (pin "2" (uuid 56943350-5257-47fc-b340-ef58f9785586))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
@@ -4700,8 +4700,8 @@
     (property "Datasheet" "~" (at 144.78 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 09609963-d082-439a-bcc2-6391ddb00b1f))
-    (pin "2" (uuid 9936bd38-b51a-437a-bba8-927dc9042669))
+    (pin "1" (uuid 059d4bf8-72a4-45a5-8176-20a2250936c3))
+    (pin "2" (uuid 79868184-d8e9-438d-99b2-a52c18d539d5))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
@@ -4729,15 +4729,15 @@
     (property "Datasheet" "~" (at 421.64 99.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d19d9314-58c9-43a6-ba0c-5f06036f2701))
-    (pin "2" (uuid b099da68-7923-40f6-99a3-0bbe481c378e))
+    (pin "1" (uuid 0d59cec7-b778-43e9-8dde-754a5f905870))
+    (pin "2" (uuid bd04b75c-b85c-4093-b2f2-dd57d70af4f0))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "C27") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "C272") (unit 1)
+          (reference "C166") (unit 1)
         )
       )
     )
@@ -4758,8 +4758,8 @@
     (property "Datasheet" "~" (at 60.325 24.13 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 6ff0ddea-a6dc-4a59-a17c-c9679bc212fe))
-    (pin "2" (uuid bbf1a9e8-1d19-4019-99c8-2bc9be960460))
+    (pin "1" (uuid 945f2c8b-1c56-4819-b9e6-07b4e5ea8f72))
+    (pin "2" (uuid 4d327d71-7007-4924-aa01-ffc658a051af))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
@@ -4787,8 +4787,8 @@
     (property "Datasheet" "~" (at 337.82 50.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 23879acf-2c31-4e01-ae5b-16f0d950194a))
-    (pin "2" (uuid 9c030a8c-5284-4441-a2ba-b7043a53dd04))
+    (pin "1" (uuid 655053fc-1157-4f44-bc2b-847841ea8d55))
+    (pin "2" (uuid 957335ac-3fbf-4ad2-9e80-c112aab11a8c))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
@@ -4816,15 +4816,15 @@
     (property "Datasheet" "~" (at 337.82 99.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 2c4ca0a7-7a7a-457c-823d-2993599a58e3))
-    (pin "2" (uuid 4b6ad778-a593-4d7c-8669-b465dbf66fb0))
+    (pin "1" (uuid 734211f6-a21c-477d-a4a8-44208136bf6d))
+    (pin "2" (uuid 68fe06bf-c8c3-4beb-a1e5-649d3719cc78))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "C27") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "C162") (unit 1)
+          (reference "C163") (unit 1)
         )
       )
     )
@@ -4845,8 +4845,8 @@
     (property "Datasheet" "~" (at 33.02 72.39 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 595a6ed3-6787-4087-8b7e-286630aeb3ec))
-    (pin "2" (uuid b47546f5-84d4-461b-82ee-9830613fc0ec))
+    (pin "1" (uuid 5d0a5ced-21fe-4de0-a9f8-fc1418c65b75))
+    (pin "2" (uuid c1d11fb8-f5c1-4adf-a7a0-21aebc411eac))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
@@ -4874,15 +4874,15 @@
     (property "Datasheet" "~" (at 58.42 123.19 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4fb6ba39-49df-4760-8166-bb6d3a6f378d))
-    (pin "2" (uuid 043443a1-8c10-4569-8b66-220fa06a3357))
+    (pin "1" (uuid 33f0b6b3-93cd-456b-a6c4-4817e7f37e2c))
+    (pin "2" (uuid 6ca60703-f0a5-424b-8830-12d18ea5288b))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "C27") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "C166") (unit 1)
+          (reference "C168") (unit 1)
         )
       )
     )
@@ -4903,8 +4903,8 @@
     (property "Datasheet" "~" (at 172.085 24.13 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 6f563359-a65c-4816-a1bb-ce0b9d7575b9))
-    (pin "2" (uuid 56d7861f-b69c-4238-a454-52032ad11e66))
+    (pin "1" (uuid 91d6f78a-10fd-4766-869d-9cba35913452))
+    (pin "2" (uuid 170bb77a-1a1e-448e-b447-456cfe83d388))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
@@ -4932,15 +4932,15 @@
     (property "Datasheet" "~" (at 60.96 144.78 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 0c1de573-fe8f-4241-8be3-f1d9235a54e9))
-    (pin "2" (uuid 82db9fa4-6d2a-47da-bae0-a80f7acccc5d))
+    (pin "1" (uuid 1e40281d-2aa9-451c-9d8a-fdaef79d9741))
+    (pin "2" (uuid aeb503cb-6a41-4e12-88bb-d6b1636755cc))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "R4") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "R77") (unit 1)
+          (reference "R80") (unit 1)
         )
       )
     )
@@ -4961,8 +4961,8 @@
     (property "Datasheet" "~" (at 88.265 24.13 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid feff0667-f3d6-4045-bd94-068e4fc3a72c))
-    (pin "2" (uuid 0f5b56f3-bd12-49ab-9145-676c80dbb5f7))
+    (pin "1" (uuid 0c9d8f41-a0a8-4d22-9fa3-c3710b0a5919))
+    (pin "2" (uuid f38a752e-1a3b-4bff-9e08-0fe9d9000a94))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
@@ -4990,15 +4990,15 @@
     (property "Datasheet" "~" (at 281.94 147.32 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 5d8dbdde-65c0-4d84-ac0b-1264b0996ac4))
-    (pin "2" (uuid f79925db-6ba8-4895-b68b-8a8b31a33ff6))
+    (pin "1" (uuid a319cc59-4f32-4e29-b6ac-17b044a1b977))
+    (pin "2" (uuid 81ecf68a-3e52-4d88-9752-b6a9ec2bc677))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "C27") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "C189") (unit 1)
+          (reference "C192") (unit 1)
         )
       )
     )
@@ -5019,15 +5019,15 @@
     (property "Datasheet" "~" (at 86.36 123.19 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 15fe9bf5-cdad-468b-b65b-d3d08069509c))
-    (pin "2" (uuid ab3019e1-e430-496a-a0ee-7c96012ec946))
+    (pin "1" (uuid 9bb3175c-ce68-4015-b7b8-27798bb7b713))
+    (pin "2" (uuid ab21dc8e-5693-4532-955f-f780405b4f8c))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "C27") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "C167") (unit 1)
+          (reference "C169") (unit 1)
         )
       )
     )
@@ -5048,14 +5048,14 @@
     (property "Datasheet" "" (at 58.42 77.47 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a3ef7450-2700-4f17-a8fd-3a5ed009f8c5))
+    (pin "1" (uuid dd7fec78-8424-4af2-8c1d-9522643b6856))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "#PWR058") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "#PWR0249") (unit 1)
+          (reference "#PWR0255") (unit 1)
         )
       )
     )
@@ -5076,8 +5076,8 @@
     (property "Datasheet" "~" (at 228.6 72.39 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 3b8b47a5-eed3-4458-99c1-3d744dc8e6ed))
-    (pin "2" (uuid 46ee535c-61af-4ae9-9745-7c355f4eb5e3))
+    (pin "1" (uuid 83a5123a-b2c6-4e39-a1dc-5be0e4faef5a))
+    (pin "2" (uuid 38c4fc3f-754c-42d6-8930-6d9b0e32d6fc))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
@@ -5105,14 +5105,14 @@
     (property "Datasheet" "" (at 170.18 149.86 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 27e9d072-a96e-484f-b47a-75d43a9536f0))
+    (pin "1" (uuid b920e9c5-87b8-4b91-adc2-d54b2884875c))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "#PWR058") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "#PWR0297") (unit 1)
+          (reference "#PWR0306") (unit 1)
         )
       )
     )
@@ -5133,14 +5133,14 @@
     (property "Datasheet" "" (at 142.24 125.73 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 9a04f77a-f6fc-44df-a3ef-22845f00f5cd))
+    (pin "1" (uuid 953ae40b-ac36-4e68-8326-b5b9cc8ab3cd))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "#PWR058") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "#PWR0281") (unit 1)
+          (reference "#PWR0289") (unit 1)
         )
       )
     )
@@ -5161,15 +5161,15 @@
     (property "Datasheet" "~" (at 142.24 99.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ccb07000-b243-4fe0-8ed1-829618d606bb))
-    (pin "2" (uuid b56136ab-8822-4992-ba83-5f14fb6f5b23))
+    (pin "1" (uuid f0fb8958-e754-4dad-a8b5-4b7b43c78c75))
+    (pin "2" (uuid b54d53e1-e912-4df7-9785-f7505b0a4855))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "C27") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "C155") (unit 1)
+          (reference "C156") (unit 1)
         )
       )
     )
@@ -5190,15 +5190,15 @@
     (property "Datasheet" "~" (at 60.96 96.52 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 7f1f1dce-9a1e-4f64-8e15-5dd3109dd4ff))
-    (pin "2" (uuid e5cba1f9-5b07-4372-afd5-4c42662ce2ab))
+    (pin "1" (uuid 6fa8c155-0988-4544-8621-b6079f242411))
+    (pin "2" (uuid 3faee0d2-b3a4-4cb4-adab-0b48a46d806f))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "R4") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "R48") (unit 1)
+          (reference "R49") (unit 1)
         )
       )
     )
@@ -5219,14 +5219,14 @@
     (property "Datasheet" "" (at 393.7 53.34 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid bcd5a34e-7504-4c87-aab3-11a3f240dec8))
+    (pin "1" (uuid 72a95c17-45c9-4403-b93e-02387d20ca25))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "#PWR058") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "#PWR0246") (unit 1)
+          (reference "#PWR0252") (unit 1)
         )
       )
     )
@@ -5247,14 +5247,14 @@
     (property "Datasheet" "" (at 198.12 101.6 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid cdc7cefe-1821-43c9-8d6d-20ab55da6690))
+    (pin "1" (uuid 3268f81d-6ed3-4ab5-a642-03e40d603e03))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "#PWR058") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "#PWR0269") (unit 1)
+          (reference "#PWR0276") (unit 1)
         )
       )
     )
@@ -5275,14 +5275,14 @@
     (property "Datasheet" "" (at 58.42 53.34 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a103c638-dc7d-42e8-a856-005755739a62))
+    (pin "1" (uuid f54e0a5d-8d7f-41dc-a532-3897102264d5))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "#PWR058") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "#PWR0234") (unit 1)
+          (reference "#PWR0240") (unit 1)
         )
       )
     )
@@ -5303,15 +5303,15 @@
     (property "Datasheet" "~" (at 254 147.32 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 9ca1a447-a69b-4a3b-bd56-09ec9d6be063))
-    (pin "2" (uuid 4d316a26-7d08-412f-a2e0-9ac9b2052b98))
+    (pin "1" (uuid 78d4e75b-9047-4739-bd0d-8f96454c1a02))
+    (pin "2" (uuid 8f2a4e30-3350-42f3-984b-c0529c3ec47f))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "C27") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "C188") (unit 1)
+          (reference "C191") (unit 1)
         )
       )
     )
@@ -5332,14 +5332,14 @@
     (property "Datasheet" "" (at 30.48 53.34 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 2c474b95-c3dc-4834-a5c9-7008d391ca78))
+    (pin "1" (uuid 30168cd7-bc11-4831-ab25-1e4a74b39e23))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "#PWR058") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "#PWR0233") (unit 1)
+          (reference "#PWR0239") (unit 1)
         )
       )
     )
@@ -5360,8 +5360,8 @@
     (property "Datasheet" "~" (at 281.94 50.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 7c6b8b2c-15d7-4d8b-9648-244aaa999151))
-    (pin "2" (uuid 52f60a81-239a-4c94-9732-543ddd223a67))
+    (pin "1" (uuid 68ec7e7b-248d-4fc3-9323-ce53d08294c8))
+    (pin "2" (uuid 1d78167e-5408-4f61-9b43-952803642f7f))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
@@ -5389,14 +5389,14 @@
     (property "Datasheet" "" (at 114.3 101.6 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 5010f2cb-c7bc-4179-b8fc-6eb788d7da9a))
+    (pin "1" (uuid 68463adf-357b-4848-abcd-f7135ef6e2a2))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "#PWR058") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "#PWR0266") (unit 1)
+          (reference "#PWR0273") (unit 1)
         )
       )
     )
@@ -5417,14 +5417,14 @@
     (property "Datasheet" "" (at 169.545 29.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid cd9ed93e-551a-4622-9fe9-91389f8700bd))
+    (pin "1" (uuid b5214faf-63c4-4a5d-96de-8a4cdba0c587))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "#PWR058") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "#PWR0225") (unit 1)
+          (reference "#PWR0231") (unit 1)
         )
       )
     )
@@ -5445,14 +5445,14 @@
     (property "Datasheet" "" (at 421.64 53.34 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 6ee01832-25c9-4a38-a751-ec22498a96c3))
+    (pin "1" (uuid 65753384-ae7e-49ce-9b5a-c56126174823))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "#PWR058") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "#PWR0247") (unit 1)
+          (reference "#PWR0253") (unit 1)
         )
       )
     )
@@ -5473,14 +5473,14 @@
     (property "Datasheet" "" (at 309.88 101.6 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f42d35c8-5279-46c9-b387-76a0cf64f6fc))
+    (pin "1" (uuid 25a92901-198e-4526-940b-088942352b3e))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "#PWR058") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "#PWR0273") (unit 1)
+          (reference "#PWR0280") (unit 1)
         )
       )
     )
@@ -5501,8 +5501,8 @@
     (property "Datasheet" "~" (at 309.88 74.93 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 7fee315f-0479-47e5-af74-8d14468a3748))
-    (pin "2" (uuid 94eefd93-c2c8-4ab2-9e32-ddc8377c3d5c))
+    (pin "1" (uuid 2b2693a4-579a-4709-81aa-09eeee94a9f7))
+    (pin "2" (uuid 71070864-4435-4c32-87ba-afb934418814))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
@@ -5530,8 +5530,8 @@
     (property "Datasheet" "~" (at 365.76 74.93 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid cba2673e-405f-4393-9f06-fb6525edd128))
-    (pin "2" (uuid f3d1269c-6423-4b46-94c3-47b0b324bd2f))
+    (pin "1" (uuid 719c83df-3af9-459e-b951-ef3e1d307481))
+    (pin "2" (uuid a25917a1-5158-4ce1-b1d5-330048d7cf08))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
@@ -5559,15 +5559,15 @@
     (property "Datasheet" "~" (at 228.6 120.65 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ddf55381-4632-497f-882a-d8328031dc85))
-    (pin "2" (uuid f49fe10c-1441-4402-9ebc-1b4e63e02861))
+    (pin "1" (uuid 56546a28-92b5-4e05-8e45-46e9e3d99ff8))
+    (pin "2" (uuid ba16c32e-b9b0-4974-aedd-75cf1a0f9e67))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "R4") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "R68") (unit 1)
+          (reference "R70") (unit 1)
         )
       )
     )
@@ -5588,14 +5588,14 @@
     (property "Datasheet" "" (at 198.12 149.86 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f576cfdc-db98-46af-872a-8844c051091c))
+    (pin "1" (uuid fad067d3-e167-4f6e-83f9-9ead68a45d2e))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "#PWR058") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "#PWR0298") (unit 1)
+          (reference "#PWR0307") (unit 1)
         )
       )
     )
@@ -5616,8 +5616,8 @@
     (property "Datasheet" "~" (at 228.6 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ec279bd3-bb05-4abc-b04e-7d85f0823cb0))
-    (pin "2" (uuid 53c9c191-4470-4536-b205-0a6446a28743))
+    (pin "1" (uuid 6ab57920-9a59-460d-93f1-9474af801fef))
+    (pin "2" (uuid 3e04eb9e-78d3-42e6-86c1-717d20e4657b))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
@@ -5645,8 +5645,8 @@
     (property "Datasheet" "~" (at 58.42 74.93 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b9dc5be4-6a5b-483d-b1f5-db36145bb28d))
-    (pin "2" (uuid ff0f4fc1-214f-4154-93b8-14892e970cb3))
+    (pin "1" (uuid 93040fde-4c72-4846-ba5a-049dfae1e6d6))
+    (pin "2" (uuid 7d5f11ff-918d-4117-ab9d-9c6ce1c66264))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
@@ -5674,14 +5674,14 @@
     (property "Datasheet" "" (at 86.36 125.73 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 7875f36c-5579-4dc3-8dfc-a19b57fc2acb))
+    (pin "1" (uuid 1d51ea42-ac19-472f-b8bc-2ffbcb731004))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "#PWR058") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "#PWR0279") (unit 1)
+          (reference "#PWR0287") (unit 1)
         )
       )
     )
@@ -5702,14 +5702,14 @@
     (property "Datasheet" "" (at 30.48 77.47 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d7a41c90-3c4c-4580-a53b-04743bd13353))
+    (pin "1" (uuid 8ec39564-ae1b-4fb0-9f61-08cdc0c25b1c))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "#PWR058") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "#PWR0248") (unit 1)
+          (reference "#PWR0254") (unit 1)
         )
       )
     )
@@ -5730,14 +5730,14 @@
     (property "Datasheet" "" (at 226.06 77.47 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a7d431a6-4b0a-47fc-82b0-b62ba2017f4e))
+    (pin "1" (uuid 80fc7f69-5817-4bc2-9057-f770bd1ce7a5))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "#PWR058") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "#PWR0255") (unit 1)
+          (reference "#PWR0261") (unit 1)
         )
       )
     )
@@ -5758,15 +5758,15 @@
     (property "Datasheet" "~" (at 449.58 123.19 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4013843e-7dd8-4c42-a815-676201a26a3a))
-    (pin "2" (uuid 5d9c1d70-bf6e-4c79-942d-af12669d1ecb))
+    (pin "1" (uuid fb2aaf23-2e14-430a-8eb6-979ec696d299))
+    (pin "2" (uuid 3417f92f-00a7-49ff-a28e-a81e8d691a60))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "C27") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "C273") (unit 1)
+          (reference "C182") (unit 1)
         )
       )
     )
@@ -5787,14 +5787,14 @@
     (property "Datasheet" "" (at 365.76 53.34 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 5a3f01f6-883b-4c39-8d96-f45aa8c4201a))
+    (pin "1" (uuid f46d309b-ce6b-461a-b074-76baef754223))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "#PWR058") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "#PWR0245") (unit 1)
+          (reference "#PWR0251") (unit 1)
         )
       )
     )
@@ -5815,8 +5815,8 @@
     (property "Datasheet" "~" (at 60.96 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 6da6458e-9896-4226-9ea3-1c54f376cbdb))
-    (pin "2" (uuid 463ca69a-0fc6-438f-8b60-698b473c46f7))
+    (pin "1" (uuid ba2ec4e4-8328-4156-a76f-f2ea7d447ea1))
+    (pin "2" (uuid 44e5196b-bac9-4103-affd-9790f03b7832))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
@@ -5844,15 +5844,15 @@
     (property "Datasheet" "~" (at 340.36 96.52 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f88cb7e4-5c24-4933-82ad-66c1d49ab7a9))
-    (pin "2" (uuid 4765c112-e11c-4db0-9807-9c0f103fe45d))
+    (pin "1" (uuid f1d6eb9b-33e3-480f-987e-3a3649aaedc2))
+    (pin "2" (uuid f039c9e6-ae3c-4146-a5c2-3de22d0cfece))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "R4") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "R58") (unit 1)
+          (reference "R59") (unit 1)
         )
       )
     )
@@ -5873,14 +5873,14 @@
     (property "Datasheet" "" (at 198.12 77.47 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 66adc2d0-86a9-4259-aa79-fe531cedfd0d))
+    (pin "1" (uuid a1474e96-bc0a-442d-a9b7-5d16da964577))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "#PWR058") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "#PWR0254") (unit 1)
+          (reference "#PWR0260") (unit 1)
         )
       )
     )
@@ -5901,15 +5901,15 @@
     (property "Datasheet" "~" (at 254 99.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 98c8b816-6876-4f77-862c-04c5e62b6856))
-    (pin "2" (uuid bc04f9d0-3b39-421c-b213-b84c3ff8c7f4))
+    (pin "1" (uuid d82f87b0-abfc-42b9-bcc4-440577f2f11b))
+    (pin "2" (uuid 5fea745f-7f33-428b-a31b-750d8f422a09))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "C27") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "C159") (unit 1)
+          (reference "C160") (unit 1)
         )
       )
     )
@@ -5930,8 +5930,8 @@
     (property "Datasheet" "~" (at 88.9 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c4d202b5-30c9-48ca-96f3-d824129d63e1))
-    (pin "2" (uuid 4f78fb2a-a6b2-4cf9-9783-dade3a6b19f3))
+    (pin "1" (uuid 025e1163-3511-4e3f-b6b8-db85eb0174eb))
+    (pin "2" (uuid 2b2f5217-8398-4a32-be0e-bded3147a3f4))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
@@ -5959,15 +5959,15 @@
     (property "Datasheet" "~" (at 256.54 144.78 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 7c019911-c772-4e08-b39f-0192ac79ccb1))
-    (pin "2" (uuid 7e2e848f-479a-448d-aec4-02ab6a8a9cf6))
+    (pin "1" (uuid ca22d10e-e7f8-4366-8f10-b969dfbeda43))
+    (pin "2" (uuid 7828b288-f703-464e-accb-2f648a6e1a0a))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "R4") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "R84") (unit 1)
+          (reference "R87") (unit 1)
         )
       )
     )
@@ -5988,14 +5988,14 @@
     (property "Datasheet" "" (at 225.425 29.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b1748cf5-3f37-4b82-8e36-d8683f204304))
+    (pin "1" (uuid 97dcaa60-003e-4cda-ba5c-ad83343766dc))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "#PWR058") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "#PWR0227") (unit 1)
+          (reference "#PWR0233") (unit 1)
         )
       )
     )
@@ -6016,14 +6016,14 @@
     (property "Datasheet" "" (at 281.94 125.73 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 0eb0ee95-bd50-435b-bb66-221ce48972f6))
+    (pin "1" (uuid 45bf071e-e2b0-4aea-830f-dc2c53376092))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "#PWR058") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "#PWR0286") (unit 1)
+          (reference "#PWR0294") (unit 1)
         )
       )
     )
@@ -6044,14 +6044,14 @@
     (property "Datasheet" "" (at 226.06 149.86 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 981b85dc-0fd0-4b82-8b1e-4dfd7a9a7e54))
+    (pin "1" (uuid 2d91ce0e-e421-49b4-934e-bd1325a3366b))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "#PWR058") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "#PWR0299") (unit 1)
+          (reference "#PWR0308") (unit 1)
         )
       )
     )
@@ -6072,15 +6072,15 @@
     (property "Datasheet" "~" (at 33.02 120.65 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 7c149c16-ac11-4e83-bedf-3bf166bc9f3f))
-    (pin "2" (uuid aff9628f-9d64-480e-84f6-8a905e49a136))
+    (pin "1" (uuid e5fd8ced-c4d8-40e5-b702-615b0e9488a1))
+    (pin "2" (uuid e946174d-3d7c-4109-b31e-283717d000e1))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "R4") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "R61") (unit 1)
+          (reference "R63") (unit 1)
         )
       )
     )
@@ -6101,8 +6101,8 @@
     (property "Datasheet" "~" (at 114.3 74.93 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid bb60938a-44e2-4201-9041-29811ccf199a))
-    (pin "2" (uuid 15ca1558-6610-4187-ae1a-177a967cfa58))
+    (pin "1" (uuid 61d48a7d-d42f-4001-b629-cdf78852f5a5))
+    (pin "2" (uuid ea1b5d4c-1b69-48cc-a51a-38383e9cac33))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
@@ -6130,8 +6130,8 @@
     (property "Datasheet" "~" (at 113.665 26.67 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 3f4f058e-db3a-4f21-ba67-e66ba4b9644d))
-    (pin "2" (uuid 7dbd774e-b7a8-43e5-a03a-88cfbe91bd0f))
+    (pin "1" (uuid 2866aa78-575c-40da-a425-d5ee73ccdafd))
+    (pin "2" (uuid 4d91b702-3e7d-4359-a894-912aadf635a9))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
@@ -6159,8 +6159,8 @@
     (property "Datasheet" "~" (at 29.845 26.67 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 75cdf383-d0e6-4588-9425-7e799adfbe99))
-    (pin "2" (uuid 7b188d90-bbf9-4da3-9f5b-aa76a2705bfc))
+    (pin "1" (uuid 64950373-cb6c-4140-b95e-b6f7667c5c6f))
+    (pin "2" (uuid feb12924-8dc1-4109-af71-6f635150b8d8))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
@@ -6188,15 +6188,15 @@
     (property "Datasheet" "~" (at 172.72 96.52 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 6cd4bf9d-24b5-493b-9e70-eb9b4c292d81))
-    (pin "2" (uuid f3a5112a-1e34-46a3-a2ce-66d6adec93c7))
+    (pin "1" (uuid 41fe2d0e-fd0d-4ea0-94c7-776bf1d4cad7))
+    (pin "2" (uuid a860dcb9-8d31-4154-a533-840351f9a231))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "R4") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "R52") (unit 1)
+          (reference "R53") (unit 1)
         )
       )
     )
@@ -6217,15 +6217,15 @@
     (property "Datasheet" "~" (at 60.96 120.65 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 0b541acc-22e5-4a97-a856-a91ba129377a))
-    (pin "2" (uuid 0f94719c-b73a-49c6-8baa-3108ee7a9ed8))
+    (pin "1" (uuid 3ff72b31-66c7-4c04-b49e-8f1cd16a05fb))
+    (pin "2" (uuid b4f05ec7-a65f-4ece-b981-c028a6eb2af4))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "R4") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "R62") (unit 1)
+          (reference "R64") (unit 1)
         )
       )
     )
@@ -6246,14 +6246,14 @@
     (property "Datasheet" "" (at 254 149.86 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 1ad43a54-90a8-4a98-a618-fb63dc368d6b))
+    (pin "1" (uuid 6f6344c0-68d2-403e-a766-76dd4f976c19))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "#PWR058") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "#PWR0300") (unit 1)
+          (reference "#PWR0309") (unit 1)
         )
       )
     )
@@ -6274,15 +6274,15 @@
     (property "Datasheet" "~" (at 30.48 147.32 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 182292d4-73c7-4200-a5ff-3f00a9e41718))
-    (pin "2" (uuid 32efe40b-8283-46e9-89f9-7fdb3f0e0f9e))
+    (pin "1" (uuid bc10e07d-8160-43c8-90a5-73645ca7160b))
+    (pin "2" (uuid 7787619e-592b-4350-9aa5-fdd1750de016))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "C27") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "C180") (unit 1)
+          (reference "C183") (unit 1)
         )
       )
     )
@@ -6303,8 +6303,8 @@
     (property "Datasheet" "~" (at 281.305 26.67 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 393c6e6d-aaa2-41da-a712-e41307b5d26f))
-    (pin "2" (uuid 7f562912-5328-4b4f-9c77-4ef77b5c44a6))
+    (pin "1" (uuid ff2ae1a2-c2aa-4d8a-8c3b-d960c2802864))
+    (pin "2" (uuid eb007863-c515-4445-ae06-a7b03654437b))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
@@ -6332,14 +6332,14 @@
     (property "Datasheet" "" (at 197.485 29.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e052f40f-3fc0-4d2a-9eb8-cf05fee2a947))
+    (pin "1" (uuid f3bb7ce7-5eaa-45f7-b466-b8ca809b14d1))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "#PWR058") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "#PWR0226") (unit 1)
+          (reference "#PWR0232") (unit 1)
         )
       )
     )
@@ -6360,14 +6360,14 @@
     (property "Datasheet" "" (at 309.88 125.73 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 55425a9d-0e98-41ba-a322-ff57a54695e0))
+    (pin "1" (uuid 4b795074-0648-4d8c-a484-3558d10b6eb7))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "#PWR058") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "#PWR0287") (unit 1)
+          (reference "#PWR0295") (unit 1)
         )
       )
     )
@@ -6388,15 +6388,15 @@
     (property "Datasheet" "~" (at 312.42 96.52 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 86b79dfe-86ea-44e1-8a0b-d6f4b60512fe))
-    (pin "2" (uuid f065f811-bb86-4cc9-8ae4-8cdf24ed6a37))
+    (pin "1" (uuid 392144c5-cc30-474c-aac6-49dbad8340ed))
+    (pin "2" (uuid 1f980c52-658e-4324-974d-3e07d4336896))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "R4") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "R57") (unit 1)
+          (reference "R58") (unit 1)
         )
       )
     )
@@ -6417,14 +6417,14 @@
     (property "Datasheet" "" (at 141.605 29.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4ba61470-7cb4-459b-a707-0acaa1a7fbf7))
+    (pin "1" (uuid c83199ff-699d-45dc-bee7-c3d7d6c02231))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "#PWR058") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "#PWR0224") (unit 1)
+          (reference "#PWR0230") (unit 1)
         )
       )
     )
@@ -6445,14 +6445,14 @@
     (property "Datasheet" "" (at 142.24 149.86 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4dde97d4-847e-4216-8f1f-0c176b921781))
+    (pin "1" (uuid 41e8848e-b97a-4b9b-9227-a927405d5e62))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "#PWR058") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "#PWR0296") (unit 1)
+          (reference "#PWR0305") (unit 1)
         )
       )
     )
@@ -6473,14 +6473,14 @@
     (property "Datasheet" "" (at 226.06 101.6 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b29cf765-e7c2-4975-b49a-6d761395f59e))
+    (pin "1" (uuid c9e97913-3fb6-4de6-b00b-1d783c091d30))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "#PWR058") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "#PWR0270") (unit 1)
+          (reference "#PWR0277") (unit 1)
         )
       )
     )
@@ -6501,8 +6501,8 @@
     (property "Datasheet" "~" (at 225.425 26.67 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 47798e55-c227-456a-a931-f2dd60bd6d9c))
-    (pin "2" (uuid 2fd92db5-2b8e-4fbc-a415-1225da6fe87e))
+    (pin "1" (uuid 6606cf02-63a8-43dd-a5c9-8052643a0035))
+    (pin "2" (uuid 044f11a9-c942-45f4-b919-726108dda211))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
@@ -6530,15 +6530,15 @@
     (property "Datasheet" "~" (at 340.36 120.65 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 6081f93b-0185-4de6-bc55-52f0dc6ee5a8))
-    (pin "2" (uuid 9a489ab9-6aeb-4047-a8fc-c915420c5353))
+    (pin "1" (uuid 1421999d-3f32-460d-a3e1-f8d5e97d149e))
+    (pin "2" (uuid 2fe30caf-0ac6-489b-9f3a-18b3446bae1c))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "R4") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "R72") (unit 1)
+          (reference "R74") (unit 1)
         )
       )
     )
@@ -6559,8 +6559,8 @@
     (property "Datasheet" "~" (at 393.7 74.93 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 2868f3fa-3e44-4340-bbd2-2a47e9f3bf0b))
-    (pin "2" (uuid f109f23c-1080-4722-b902-d2aebbcc54fd))
+    (pin "1" (uuid 66e91839-7635-44bf-9b62-b4a6ae4593b1))
+    (pin "2" (uuid c9d4b0b3-c24f-46d1-aa3f-7a75ab04f9f7))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
@@ -6588,8 +6588,8 @@
     (property "Datasheet" "~" (at 32.385 24.13 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 2c9db89e-0011-4b92-a607-1b6c5d956d7c))
-    (pin "2" (uuid 965b8ffd-3dac-474a-a3b1-26dc6b69cedf))
+    (pin "1" (uuid fa7e1294-ceff-4923-81c3-8f1b2273d78f))
+    (pin "2" (uuid ad8b1302-fe6e-4de0-8c87-6e4707b14711))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
@@ -6617,14 +6617,14 @@
     (property "Datasheet" "" (at 170.18 125.73 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 74cf087e-4cde-402c-a129-735e85e0e90c))
+    (pin "1" (uuid 868bc041-b50c-4df0-a749-010b0cd3397c))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "#PWR058") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "#PWR0282") (unit 1)
+          (reference "#PWR0290") (unit 1)
         )
       )
     )
@@ -6645,15 +6645,15 @@
     (property "Datasheet" "~" (at 393.7 99.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 2c8bfcfa-9d1c-41ca-a3a5-34d191c1613c))
-    (pin "2" (uuid 87289b4a-ab04-4e39-8fa4-abe9139a09db))
+    (pin "1" (uuid 437e245e-adff-4a6f-8a05-275a5329da45))
+    (pin "2" (uuid 9d37c64d-769d-4ef5-a0f6-88253f235baf))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "C27") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "C164") (unit 1)
+          (reference "C165") (unit 1)
         )
       )
     )
@@ -6674,15 +6674,15 @@
     (property "Datasheet" "~" (at 396.24 120.65 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f17d2855-2af8-46f9-9b55-2314c783d9f3))
-    (pin "2" (uuid 61a26159-7449-4a45-822e-b5af65a20ab1))
+    (pin "1" (uuid 9842c1a8-2abf-4a82-bd84-60d46f40e7be))
+    (pin "2" (uuid 535d6f63-4fc8-42a4-b81e-65516a6f815e))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "R4") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "R74") (unit 1)
+          (reference "R76") (unit 1)
         )
       )
     )
@@ -6703,15 +6703,15 @@
     (property "Datasheet" "~" (at 284.48 120.65 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4502a2b5-b516-4df6-8753-22fb17149cbb))
-    (pin "2" (uuid dc82ebb9-17e8-4745-9f37-cf6522e21c49))
+    (pin "1" (uuid 54b4c872-c92c-4408-9cce-8da67e9ab8ce))
+    (pin "2" (uuid 59f3a869-95ed-40dc-80f1-9dd2b849dcf5))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "R4") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "R70") (unit 1)
+          (reference "R72") (unit 1)
         )
       )
     )
@@ -6732,15 +6732,15 @@
     (property "Datasheet" "~" (at 200.66 144.78 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ff52c5cb-88f1-47ba-b1d8-4e0edd2dea96))
-    (pin "2" (uuid e0bcd8d2-744c-4d37-9984-0eb922c10656))
+    (pin "1" (uuid b4531a91-d9dd-40eb-8302-3fc35bee14a7))
+    (pin "2" (uuid 03fe1e00-4bae-4be4-bcb5-b29baeac26fa))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "R4") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "R82") (unit 1)
+          (reference "R85") (unit 1)
         )
       )
     )
@@ -6761,8 +6761,8 @@
     (property "Datasheet" "~" (at 421.64 50.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ebff6959-98ed-4b3b-b5ba-4d13fed8cf0a))
-    (pin "2" (uuid 12a5c58a-bc40-41c3-a666-4779dc26a4e9))
+    (pin "1" (uuid af1b8f28-38ed-46d9-bf8d-3d9cf06b4d0a))
+    (pin "2" (uuid c4f02b2f-df77-4cc4-8c46-26ebf0d24ab8))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
@@ -6790,15 +6790,15 @@
     (property "Datasheet" "~" (at 424.18 96.52 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f96961ec-9cb9-44dc-bd05-9aaa9f12a057))
-    (pin "2" (uuid c23bd325-7d14-4cd4-9626-447892d1a608))
+    (pin "1" (uuid cce59861-aa69-4a43-ba99-92b900275ae8))
+    (pin "2" (uuid 2939d2f7-31f3-4518-a72e-eb30ee24a225))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "R4") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "R89") (unit 1)
+          (reference "R62") (unit 1)
         )
       )
     )
@@ -6819,8 +6819,8 @@
     (property "Datasheet" "~" (at 283.845 24.13 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid db964d72-8f45-47f1-a650-8d18f01a336a))
-    (pin "2" (uuid 644ead5f-f8b6-4357-89ae-34ffd78d3318))
+    (pin "1" (uuid 1db32146-12e6-46cf-b6e3-b6330f02bdac))
+    (pin "2" (uuid bd842744-c184-4a63-b8d8-b52bcc2527b0))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
@@ -6848,14 +6848,14 @@
     (property "Datasheet" "" (at 198.12 125.73 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 9773feff-45dc-40a1-b277-942c2aeb97c3))
+    (pin "1" (uuid 9b84f522-0705-4b4f-af7e-b370984aa03c))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "#PWR058") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "#PWR0283") (unit 1)
+          (reference "#PWR0291") (unit 1)
         )
       )
     )
@@ -6876,15 +6876,15 @@
     (property "Datasheet" "~" (at 424.18 120.65 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 723513af-c91b-46ad-89a1-1b3b86d9c198))
-    (pin "2" (uuid f0a10fd9-df93-47bc-89ec-9dead19d46b4))
+    (pin "1" (uuid 6c21945d-5aac-41e3-8d99-5ad7a329d510))
+    (pin "2" (uuid 14e57c5d-9cac-4deb-a504-584be84a87c5))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "R4") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "R75") (unit 1)
+          (reference "R77") (unit 1)
         )
       )
     )
@@ -6905,15 +6905,15 @@
     (property "Datasheet" "~" (at 114.3 123.19 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e912fcbf-c9c1-4ab2-af4d-487b063c3511))
-    (pin "2" (uuid 76d1d4c2-331e-4998-b372-415e712ad310))
+    (pin "1" (uuid 8fdf9c23-f74f-43fd-8d3a-900fb336f839))
+    (pin "2" (uuid 0f7386ba-1d29-4030-84b4-8e862a073374))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "C27") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "C168") (unit 1)
+          (reference "C170") (unit 1)
         )
       )
     )
@@ -6934,15 +6934,15 @@
     (property "Datasheet" "~" (at 368.3 96.52 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 3ffb92bb-7986-4a17-810d-79afa5a2d13f))
-    (pin "2" (uuid 64713784-80e0-4ab1-bf14-da09d5e79329))
+    (pin "1" (uuid 8d18c042-d01d-430a-8ba7-10774fa9c019))
+    (pin "2" (uuid 4297e764-8aa8-4991-9a93-de87a5e0dc2f))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "R4") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "R59") (unit 1)
+          (reference "R60") (unit 1)
         )
       )
     )
@@ -6963,15 +6963,15 @@
     (property "Datasheet" "~" (at 365.76 123.19 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 61dea16b-76c6-4eee-bc99-febd0b23f837))
-    (pin "2" (uuid 66786ca3-2ab8-4f4d-8ab5-3b30c2c612aa))
+    (pin "1" (uuid b6806d4f-03fa-4a00-bf1f-d11ae65b77a2))
+    (pin "2" (uuid 1c0cf2c4-75ca-4d51-a8e4-1e09d289be8e))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "C27") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "C177") (unit 1)
+          (reference "C179") (unit 1)
         )
       )
     )
@@ -6992,8 +6992,8 @@
     (property "Datasheet" "~" (at 227.965 24.13 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid cd6a1aa1-f9b5-4363-a002-ebbefbd88e6b))
-    (pin "2" (uuid 336fe099-965c-4f7a-9419-4ba7361fb2cc))
+    (pin "1" (uuid b25dffbe-a4f1-41dd-bfd8-aa76c7dfeecb))
+    (pin "2" (uuid 3469f154-494e-47a5-961f-ef104b663c55))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
@@ -7021,8 +7021,8 @@
     (property "Datasheet" "~" (at 337.82 74.93 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f624ecfc-8223-4765-90e0-e0f1086b5268))
-    (pin "2" (uuid 72fa1395-d121-4a8d-a255-cad8e95365ba))
+    (pin "1" (uuid 393d916e-5f8b-401c-9f4f-a7641eb5e8c4))
+    (pin "2" (uuid e802fd80-ba82-47e6-831d-07c3feec885a))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
@@ -7050,15 +7050,15 @@
     (property "Datasheet" "~" (at 172.72 144.78 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d1bf3a89-1490-4d61-9e89-9c6e2c88f4fe))
-    (pin "2" (uuid 5441bd6e-a63b-49fe-814f-4079acb87854))
+    (pin "1" (uuid b151e373-f0e1-4675-9cdc-65fe1e9163b7))
+    (pin "2" (uuid fd3f360f-ab07-4b8a-b2d5-0cb1523c6ad6))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "R4") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "R81") (unit 1)
+          (reference "R84") (unit 1)
         )
       )
     )
@@ -7079,14 +7079,14 @@
     (property "Datasheet" "" (at 281.94 53.34 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d20a5aab-596d-48d6-b2cc-603d9abcbab6))
+    (pin "1" (uuid 0e42fcc9-ddbb-47d6-81bc-44da590e9336))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "#PWR058") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "#PWR0242") (unit 1)
+          (reference "#PWR0248") (unit 1)
         )
       )
     )
@@ -7107,15 +7107,15 @@
     (property "Datasheet" "~" (at 368.3 120.65 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid df636469-e18f-4483-9c9e-7dfbd1fe4023))
-    (pin "2" (uuid 88ee17bf-6bfc-4b0c-bbe2-463d496d5e3a))
+    (pin "1" (uuid 78dd4f93-6780-4e53-ac68-048ff7c56295))
+    (pin "2" (uuid f1e8407d-68d6-4dd9-9765-592e7e795727))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "R4") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "R73") (unit 1)
+          (reference "R75") (unit 1)
         )
       )
     )
@@ -7136,14 +7136,14 @@
     (property "Datasheet" "" (at 30.48 149.86 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 3e9d9ddf-bcc4-4555-9224-bdf25180411b))
+    (pin "1" (uuid 29925f6b-6275-42ce-8ab7-021c19c3a664))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "#PWR058") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "#PWR0292") (unit 1)
+          (reference "#PWR0301") (unit 1)
         )
       )
     )
@@ -7164,15 +7164,15 @@
     (property "Datasheet" "~" (at 256.54 96.52 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 6211e237-ad99-4b6f-96e8-418ae4a32a9b))
-    (pin "2" (uuid 92deb9b9-d8fd-49e9-a182-e4935aa2d9e8))
+    (pin "1" (uuid e41da383-28b1-41f5-96e3-80d28b81560f))
+    (pin "2" (uuid 1676c1a9-2eb9-44da-91bf-f8b95b0dfe79))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "R4") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "R55") (unit 1)
+          (reference "R56") (unit 1)
         )
       )
     )
@@ -7193,8 +7193,8 @@
     (property "Datasheet" "~" (at 85.725 26.67 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 14f2d491-1c14-4efe-9c92-5bc063cfedd3))
-    (pin "2" (uuid 644f625e-2efc-4f1a-9352-c174fa0a1d5f))
+    (pin "1" (uuid f7073020-c5d9-45a9-b8ce-13ef97eb5f0d))
+    (pin "2" (uuid fad791dd-9479-4015-86ee-83ddd9cf5b0b))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
@@ -7222,8 +7222,8 @@
     (property "Datasheet" "~" (at 396.24 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 49b0773f-d95a-4669-8bc5-42e2459aa096))
-    (pin "2" (uuid b93440bf-6e99-41dd-ae8f-327edafcdeb6))
+    (pin "1" (uuid a26e644d-4b68-4de0-8e7e-542600333140))
+    (pin "2" (uuid 718727a9-0ab3-4d5b-887e-a35dc246f9ee))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
@@ -7251,15 +7251,15 @@
     (property "Datasheet" "~" (at 281.94 123.19 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b69c23ca-ccdb-4ae1-ab2e-62bb209407fb))
-    (pin "2" (uuid 83945038-d851-4c54-8b95-a8177aaf6847))
+    (pin "1" (uuid 40cfcbac-6800-4b69-bd90-be6802f45749))
+    (pin "2" (uuid 84b73ebf-3109-4a3f-a665-cb5effecc2c6))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "C27") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "C174") (unit 1)
+          (reference "C176") (unit 1)
         )
       )
     )
@@ -7280,8 +7280,8 @@
     (property "Datasheet" "~" (at 58.42 50.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 6fe64a13-5a5b-41dd-9a53-ecbb6f456c01))
-    (pin "2" (uuid fdb7a691-24fe-4041-aed8-6d3615205020))
+    (pin "1" (uuid 67f185bf-3418-4e9e-bdbb-2ec49263aade))
+    (pin "2" (uuid e5831f02-733c-4013-b762-10a2e0c80fa9))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
@@ -7309,15 +7309,15 @@
     (property "Datasheet" "~" (at 170.18 99.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 7f5ac615-ecc4-4b6b-8e7f-86743cca1d41))
-    (pin "2" (uuid 7d4277b6-8f2d-4700-8fa0-681f89c23946))
+    (pin "1" (uuid 06b30d52-7379-453c-863b-5f50993ba1e9))
+    (pin "2" (uuid eb90e9b5-6209-4b25-90a6-305522386d7b))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "C27") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "C156") (unit 1)
+          (reference "C157") (unit 1)
         )
       )
     )
@@ -7338,14 +7338,14 @@
     (property "Datasheet" "" (at 337.82 77.47 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 97df4381-71c2-4ce4-909a-e3287201f997))
+    (pin "1" (uuid 36868ffc-1fc0-44f3-81b0-a98bae557bc8))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "#PWR058") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "#PWR0259") (unit 1)
+          (reference "#PWR0265") (unit 1)
         )
       )
     )
@@ -7366,15 +7366,15 @@
     (property "Datasheet" "~" (at 284.48 96.52 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 77cf17b7-3358-4a87-b717-62f56676d276))
-    (pin "2" (uuid d943622a-f1a9-4257-b3f5-3d3a3c9061e0))
+    (pin "1" (uuid d179ce7c-1076-4b35-856d-26a42da51e3e))
+    (pin "2" (uuid b5ddc693-989b-4966-af0a-f3d009eea1cb))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "R4") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "R56") (unit 1)
+          (reference "R57") (unit 1)
         )
       )
     )
@@ -7395,15 +7395,15 @@
     (property "Datasheet" "~" (at 198.12 99.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 7aa5a498-7be8-4855-914c-54cc6a4d6635))
-    (pin "2" (uuid 8e4d2189-c589-4e8d-bb2e-06a6130e7289))
+    (pin "1" (uuid 337bdca0-570f-4c27-8751-801fcde72260))
+    (pin "2" (uuid 82b9b439-7833-4bd2-903f-3aeb0ecd7e99))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "C27") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "C157") (unit 1)
+          (reference "C158") (unit 1)
         )
       )
     )
@@ -7424,8 +7424,8 @@
     (property "Datasheet" "~" (at 114.3 50.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid bd6bdb5f-963e-490a-93aa-df95542d425e))
-    (pin "2" (uuid 17d11a98-52b5-4410-8fa8-548d05abe173))
+    (pin "1" (uuid 6d3bf397-798c-4f22-ac39-8041501bf96c))
+    (pin "2" (uuid 979afa54-40c5-43ce-adcd-803c62e36712))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
@@ -7453,8 +7453,8 @@
     (property "Datasheet" "~" (at 393.7 50.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 34fa78c8-8adb-4336-bde5-c2bc03b86c33))
-    (pin "2" (uuid 8b4ae534-dfa1-4870-b97d-5319f6b23643))
+    (pin "1" (uuid d5a08c29-a979-4c0c-a3b6-556cd8aec7d9))
+    (pin "2" (uuid 526173d5-306c-420f-93ca-c3badcd6b5fb))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
@@ -7482,8 +7482,8 @@
     (property "Datasheet" "~" (at 30.48 74.93 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 9a240d3b-bbb4-48b7-bae5-89930ba320f5))
-    (pin "2" (uuid b7c63f5a-fd5e-45ff-889f-ead158a1db92))
+    (pin "1" (uuid 1519e7c3-6758-4c2e-8c71-b46c10e085b2))
+    (pin "2" (uuid cc579b0d-be13-43f0-a775-45b920b19e27))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
@@ -7511,15 +7511,15 @@
     (property "Datasheet" "~" (at 396.24 96.52 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4f39edd6-2268-403c-94f4-ca0980a2ae2d))
-    (pin "2" (uuid a306eeb8-2cb0-4856-8468-f86ac4428016))
+    (pin "1" (uuid 09b4a48f-df1c-4191-a170-86e5518f73bd))
+    (pin "2" (uuid c907bf63-be37-4ebb-ba1b-0d0bd03c3d4a))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "R4") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "R60") (unit 1)
+          (reference "R61") (unit 1)
         )
       )
     )
@@ -7540,15 +7540,15 @@
     (property "Datasheet" "~" (at 198.12 147.32 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c69410ad-4737-4081-80c5-57250f2da4ea))
-    (pin "2" (uuid 7dd8e763-7d9c-4b75-94db-d4636275b692))
+    (pin "1" (uuid 5b02739d-115e-441a-b1ee-60f490f14ee0))
+    (pin "2" (uuid 55b39772-2116-42b6-99b7-c213838b8123))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "C27") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "C186") (unit 1)
+          (reference "C189") (unit 1)
         )
       )
     )
@@ -7569,14 +7569,14 @@
     (property "Datasheet" "" (at 57.785 29.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b496ce4d-7bc6-4ea5-8faf-0fa65a360ab6))
+    (pin "1" (uuid 8f9d4ebe-d9be-4de6-aacf-dc7e4be2c90f))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "#PWR058") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "#PWR0221") (unit 1)
+          (reference "#PWR0227") (unit 1)
         )
       )
     )
@@ -7597,8 +7597,8 @@
     (property "Datasheet" "~" (at 253.365 26.67 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 0507fc0f-cd62-4cae-aa83-8d6191c49a1d))
-    (pin "2" (uuid 25aa3b42-e3d3-4438-a0e7-2e135515783c))
+    (pin "1" (uuid 656b59ae-dbff-45c1-a81f-b35692ed837e))
+    (pin "2" (uuid 4f8ebef0-047d-4585-9e28-3e394220869c))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
@@ -7626,8 +7626,8 @@
     (property "Datasheet" "~" (at 86.36 74.93 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 9e68ffff-0a03-4509-bdfa-8d6af36182e0))
-    (pin "2" (uuid 05374343-7d63-4b04-86e7-3f63e9f90a6a))
+    (pin "1" (uuid 3ba88122-5582-4b1a-af7f-4caf7615908b))
+    (pin "2" (uuid fa4865ba-8ab9-4d16-b145-baa575b22d5a))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
@@ -7655,8 +7655,8 @@
     (property "Datasheet" "~" (at 284.48 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 50c0d926-8b80-4fe6-b945-4deb7ac34995))
-    (pin "2" (uuid 9999b812-dae9-4608-86cb-fc44f645811b))
+    (pin "1" (uuid cc04af9e-f935-4abb-9d57-f2ae2e6c24b5))
+    (pin "2" (uuid eb1f287e-e2ae-4239-b9fb-d301aa480103))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
@@ -7684,14 +7684,14 @@
     (property "Datasheet" "" (at 170.18 101.6 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f9cbfba2-897e-418c-960c-032a100a7d46))
+    (pin "1" (uuid c46e5a06-0ce2-46ef-a94c-dcb0e571ab22))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "#PWR058") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "#PWR0268") (unit 1)
+          (reference "#PWR0275") (unit 1)
         )
       )
     )
@@ -7712,15 +7712,15 @@
     (property "Datasheet" "~" (at 254 123.19 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4233ce0a-a3cc-4171-941c-0e7e4d9f0770))
-    (pin "2" (uuid 28c91a6a-89f1-4c8d-b6ee-e0bde51da475))
+    (pin "1" (uuid b0a58ef7-dfd7-4a79-a443-91f6c4a2e460))
+    (pin "2" (uuid 9881b29c-6afc-4fc7-bdb4-ccf963bc4894))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "C27") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "C173") (unit 1)
+          (reference "C175") (unit 1)
         )
       )
     )
@@ -7741,14 +7741,14 @@
     (property "Datasheet" "" (at 449.58 77.47 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid af1787bf-efc4-402a-9f4d-6654d80f7435))
+    (pin "1" (uuid 26ec621e-a521-4b96-932e-467f771e3a33))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "#PWR058") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "#PWR0552") (unit 1)
+          (reference "#PWR0269") (unit 1)
         )
       )
     )
@@ -7769,8 +7769,8 @@
     (property "Datasheet" "~" (at 256.54 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 84228ef2-c8f8-4e72-b986-432b975bce24))
-    (pin "2" (uuid 5977b01a-5cce-4be0-95b5-aede883a3c19))
+    (pin "1" (uuid 430701bf-fdd7-4905-a070-04f1c89457a4))
+    (pin "2" (uuid 7af7d569-e4b3-4070-9dc3-41fa146d1dc0))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
@@ -7798,15 +7798,15 @@
     (property "Datasheet" "~" (at 284.48 144.78 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 0881064b-9f30-42bd-a53d-c8dec648abf0))
-    (pin "2" (uuid 69863ea2-981d-485a-9657-084b3bd97ac9))
+    (pin "1" (uuid 6bedc76e-b82f-475e-b35b-0f2019e15aa6))
+    (pin "2" (uuid ee8bdb9e-97bf-40d1-8411-ae40b0790216))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "R4") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "R85") (unit 1)
+          (reference "R88") (unit 1)
         )
       )
     )
@@ -7827,8 +7827,8 @@
     (property "Datasheet" "~" (at 57.785 26.67 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 2f75ad60-5000-45cf-a705-3f784c54cebf))
-    (pin "2" (uuid 7bb79b1c-ee2f-4bf2-b128-55ec28f5a765))
+    (pin "1" (uuid fb93c995-05ae-4342-a7eb-a961ad1ee90f))
+    (pin "2" (uuid a3ae5119-d52e-4639-a495-a238d3977cbb))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
@@ -7856,14 +7856,14 @@
     (property "Datasheet" "" (at 393.7 77.47 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ec75eef5-8b0b-4bf8-9ee3-bb4840bf4f92))
+    (pin "1" (uuid 55c86009-6387-4028-a753-e3812815ec5b))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "#PWR058") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "#PWR0261") (unit 1)
+          (reference "#PWR0267") (unit 1)
         )
       )
     )
@@ -7884,15 +7884,15 @@
     (property "Datasheet" "~" (at 312.42 120.65 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid fe61904a-3134-4238-920f-f7edccd538fc))
-    (pin "2" (uuid b8d96ac3-fab4-4d28-af96-8fb935852680))
+    (pin "1" (uuid fcf10310-aea9-4d7c-b5a3-553ef08e6c46))
+    (pin "2" (uuid 6327498a-bc89-47d5-9e12-7480518f2474))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "R4") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "R71") (unit 1)
+          (reference "R73") (unit 1)
         )
       )
     )
@@ -7913,15 +7913,15 @@
     (property "Datasheet" "~" (at 393.7 123.19 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 47a28a7b-8329-4403-8554-962768a45c0e))
-    (pin "2" (uuid c6592f12-0d47-4e65-8294-4965f64779e8))
+    (pin "1" (uuid a032b551-d32e-4c4d-8627-bef29243ffd1))
+    (pin "2" (uuid 41be516f-139a-414d-9e9b-53d8ef46c4ea))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "C27") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "C178") (unit 1)
+          (reference "C180") (unit 1)
         )
       )
     )
@@ -7942,8 +7942,8 @@
     (property "Datasheet" "~" (at 312.42 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 959828ab-7b55-403a-88c6-3306a582aae7))
-    (pin "2" (uuid 43da72bc-c93a-4dad-afc9-342126503856))
+    (pin "1" (uuid 161f16c8-006b-4a80-87b2-c93bb001b276))
+    (pin "2" (uuid f494c084-84ff-4d1d-a7e7-3ec52626e927))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
@@ -7971,14 +7971,14 @@
     (property "Datasheet" "" (at 142.24 101.6 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b77bb965-cf60-4fbf-837b-48df689c1d5f))
+    (pin "1" (uuid 92b467a3-6df8-4553-adac-20ab195227fd))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "#PWR058") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "#PWR0267") (unit 1)
+          (reference "#PWR0274") (unit 1)
         )
       )
     )
@@ -7999,15 +7999,15 @@
     (property "Datasheet" "~" (at 88.9 120.65 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 91741b3a-50e6-4a4a-941f-745646e64806))
-    (pin "2" (uuid a0f80e23-604a-4ec6-a077-243c27272f83))
+    (pin "1" (uuid 9519a5db-e6e3-43f7-b6f8-dd1e38682dd8))
+    (pin "2" (uuid 8569e280-9e28-46c4-ae57-874963b60415))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "R4") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "R63") (unit 1)
+          (reference "R65") (unit 1)
         )
       )
     )
@@ -8028,14 +8028,14 @@
     (property "Datasheet" "" (at 365.125 29.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid bcbf5d06-df42-4dc8-bd6c-7e7b13974816))
+    (pin "1" (uuid 7cecf9e2-186a-4c7b-86fa-8926150041a4))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "#PWR058") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "#PWR0232") (unit 1)
+          (reference "#PWR0238") (unit 1)
         )
       )
     )
@@ -8056,14 +8056,14 @@
     (property "Datasheet" "" (at 309.88 77.47 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 9d737c0e-b825-48eb-8847-ba72641d2551))
+    (pin "1" (uuid 082eed54-ff68-4a60-b2b3-3bc42929bd07))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "#PWR058") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "#PWR0258") (unit 1)
+          (reference "#PWR0264") (unit 1)
         )
       )
     )
@@ -8084,8 +8084,8 @@
     (property "Datasheet" "~" (at 281.94 74.93 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a421323a-3c28-4efe-abb8-6b6d3077f2cb))
-    (pin "2" (uuid 7630154c-04a1-42b8-b1ac-1d79d86f60f5))
+    (pin "1" (uuid 1de0e007-b400-4053-bdba-ac8b4170fca8))
+    (pin "2" (uuid 0c4e531f-cede-479c-9eda-d10acb79254c))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
@@ -8113,15 +8113,15 @@
     (property "Datasheet" "~" (at 200.66 120.65 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid aa3b485f-b8a6-4ae3-b198-4ffeb3e0c495))
-    (pin "2" (uuid faceb918-f324-4a11-bf71-50e30a019133))
+    (pin "1" (uuid e137def5-f137-4a10-a6a6-979f376d04ab))
+    (pin "2" (uuid 52040d90-ff05-45a4-8ae6-4551766129e9))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "R4") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "R67") (unit 1)
+          (reference "R69") (unit 1)
         )
       )
     )
@@ -8142,14 +8142,14 @@
     (property "Datasheet" "" (at 114.3 125.73 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 2a0326e1-25b8-43e6-a69a-63943f37eb38))
+    (pin "1" (uuid 01c5c7b5-f71d-4979-a1fe-66bd5080e562))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "#PWR058") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "#PWR0280") (unit 1)
+          (reference "#PWR0288") (unit 1)
         )
       )
     )
@@ -8170,15 +8170,15 @@
     (property "Datasheet" "~" (at 114.3 147.32 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 663d2549-7dea-48b7-8bf6-d67840125b1d))
-    (pin "2" (uuid 6e758a55-7acb-4e5a-a40c-371d38c71a9c))
+    (pin "1" (uuid b88a0b2d-1086-492a-8ace-c202b07e821d))
+    (pin "2" (uuid c890d4f1-cb77-46e7-9716-838ff1145050))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "C27") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "C183") (unit 1)
+          (reference "C186") (unit 1)
         )
       )
     )
@@ -8199,8 +8199,8 @@
     (property "Datasheet" "~" (at 172.72 72.39 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c8eb1858-adae-462f-afc9-d68aea5550c8))
-    (pin "2" (uuid da59a7c7-22b3-4c7f-8b57-26122dbe0232))
+    (pin "1" (uuid 6ade550f-c770-44f3-84d1-02759021e784))
+    (pin "2" (uuid 6e49caf4-c9fb-408a-8208-72f2b02f8a56))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
@@ -8228,14 +8228,14 @@
     (property "Datasheet" "" (at 86.36 101.6 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 63486456-a633-4bf8-ab79-890a2255d10b))
+    (pin "1" (uuid a1884a98-6482-491e-819b-faa9a92c5932))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "#PWR058") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "#PWR0265") (unit 1)
+          (reference "#PWR0272") (unit 1)
         )
       )
     )
@@ -8256,15 +8256,15 @@
     (property "Datasheet" "~" (at 33.02 144.78 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 211348d9-49fd-4da6-8b09-807d7a735d44))
-    (pin "2" (uuid bc6b0141-1d01-48ab-8e83-0cca0329ece3))
+    (pin "1" (uuid 1bd20242-b28e-4ca8-8c9c-3eab0761b475))
+    (pin "2" (uuid 61665880-2953-44fc-8391-32ee5b9e98bd))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "R4") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "R76") (unit 1)
+          (reference "R79") (unit 1)
         )
       )
     )
@@ -8285,15 +8285,15 @@
     (property "Datasheet" "~" (at 452.12 72.39 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 28b65b14-1eb7-41cc-b9ac-98dc5e5d68cc))
-    (pin "2" (uuid fc293342-595d-4dd4-9a23-a467dbaa3259))
+    (pin "1" (uuid 0f351623-5ae9-4786-a439-258b98e19e93))
+    (pin "2" (uuid de83c6d5-d877-493e-abfe-75c9b0c0a431))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "R4") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "R88") (unit 1)
+          (reference "R47") (unit 1)
         )
       )
     )
@@ -8314,15 +8314,15 @@
     (property "Datasheet" "~" (at 116.84 96.52 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid abfded96-952f-497b-8a51-be091914cd0c))
-    (pin "2" (uuid 7fe3e733-c3f5-405b-86f9-67aec2e5fa43))
+    (pin "1" (uuid fe24866d-5a61-4390-b7d6-37791c1f36c3))
+    (pin "2" (uuid f69d0023-7026-4aa8-a6cf-38948c602639))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "R4") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "R50") (unit 1)
+          (reference "R51") (unit 1)
         )
       )
     )
@@ -8343,8 +8343,8 @@
     (property "Datasheet" "~" (at 33.02 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 40bd1a0f-bdad-4271-b096-a543359fb3f8))
-    (pin "2" (uuid 63a254be-043b-4270-b337-d5e7d782023e))
+    (pin "1" (uuid 1dbc299c-3b47-40ca-a9cf-80a18bc11b78))
+    (pin "2" (uuid 2ddc17c6-c9be-4163-be51-5a2d369edf05))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
@@ -8372,15 +8372,15 @@
     (property "Datasheet" "~" (at 86.36 99.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 81fad44e-2e74-4a14-84db-6b8519ef16d1))
-    (pin "2" (uuid a51d2159-b212-4348-9c9a-ac15c5493d9a))
+    (pin "1" (uuid fd66be60-7478-41e9-95c3-0055a43d70c7))
+    (pin "2" (uuid ad7df54c-b7e9-497a-b697-5a037096e17d))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "C27") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "C153") (unit 1)
+          (reference "C154") (unit 1)
         )
       )
     )
@@ -8401,15 +8401,15 @@
     (property "Datasheet" "~" (at 226.06 123.19 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 3db152f1-ccb1-4cc7-8393-04d3ae7d74bc))
-    (pin "2" (uuid f6aee334-4dd3-4ed4-9ea5-d3991ff0fc9d))
+    (pin "1" (uuid 67460f24-fb48-4291-a6a5-d448f2bc85f1))
+    (pin "2" (uuid 438ce6f2-fe11-4cc3-9732-25fe5b17ad5a))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "C27") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "C172") (unit 1)
+          (reference "C174") (unit 1)
         )
       )
     )
@@ -8430,14 +8430,14 @@
     (property "Datasheet" "" (at 365.76 125.73 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 1ee0be3c-fdb5-4508-ba73-d9daffb1d347))
+    (pin "1" (uuid 3db3f67e-d61e-43b4-b801-9e2e8b5febe5))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "#PWR058") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "#PWR0289") (unit 1)
+          (reference "#PWR0297") (unit 1)
         )
       )
     )
@@ -8458,14 +8458,14 @@
     (property "Datasheet" "" (at 29.845 29.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid df0ddda7-192a-4c28-b89e-7d2caae97959))
+    (pin "1" (uuid 02708f49-b4a3-434c-84af-bb30bcbc7ae7))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "#PWR058") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "#PWR0220") (unit 1)
+          (reference "#PWR0226") (unit 1)
         )
       )
     )
@@ -8486,15 +8486,15 @@
     (property "Datasheet" "~" (at 309.88 123.19 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 0b2c3ba9-b7b5-4603-8007-a1917d6748e3))
-    (pin "2" (uuid 16ba35d6-c37d-4e8c-9b70-2a203e09d032))
+    (pin "1" (uuid 406bbe57-3255-49eb-990c-f590904330d8))
+    (pin "2" (uuid 5971e3bc-4c5b-4700-936c-32869a9cadd0))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "C27") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "C175") (unit 1)
+          (reference "C177") (unit 1)
         )
       )
     )
@@ -8515,15 +8515,15 @@
     (property "Datasheet" "~" (at 58.42 147.32 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4e69a413-6c86-43cc-9fc0-81878fa24ed2))
-    (pin "2" (uuid 2b681236-024e-4b3c-b2c7-f5b4d8dd2c49))
+    (pin "1" (uuid 570c6813-5f94-4b25-bb99-e0f784dbec57))
+    (pin "2" (uuid b4bc50db-8060-4c09-b1c6-cc9e674a50de))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "C27") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "C181") (unit 1)
+          (reference "C184") (unit 1)
         )
       )
     )
@@ -8544,15 +8544,15 @@
     (property "Datasheet" "~" (at 365.76 99.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 12785b88-5eff-4085-93b3-eca0bdc7cd5b))
-    (pin "2" (uuid a345bb2b-5e5e-48c7-bde6-891d4ecaccc9))
+    (pin "1" (uuid 450f9a27-93fe-4ac0-ac4b-2417441c9b55))
+    (pin "2" (uuid 59938721-c0b3-4ce3-8c39-504127ae33f0))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "C27") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "C163") (unit 1)
+          (reference "C164") (unit 1)
         )
       )
     )
@@ -8573,8 +8573,8 @@
     (property "Datasheet" "~" (at 88.9 72.39 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c1f36d03-e8b0-4e29-adb8-b1bc2686f179))
-    (pin "2" (uuid 6a69f2c4-8b22-472c-a709-55910228aa76))
+    (pin "1" (uuid c73c235d-8d15-4a18-8739-860930635cc8))
+    (pin "2" (uuid 36cdce63-85a2-486d-82e0-ba0943782a58))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
@@ -8602,8 +8602,8 @@
     (property "Datasheet" "~" (at 86.36 50.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ccac65ea-95a6-46c5-b26c-04ef29f3f449))
-    (pin "2" (uuid b333ae0d-d91e-4f68-9aab-6346732b9e11))
+    (pin "1" (uuid e1062630-49b6-4b0a-8190-0628302886ef))
+    (pin "2" (uuid 122b84c6-2b6c-4b26-a08f-2ff5581cba2c))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
@@ -8631,8 +8631,8 @@
     (property "Datasheet" "~" (at 198.12 74.93 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid aa673a08-8d04-4000-8fd4-223fb127d81a))
-    (pin "2" (uuid 06397757-a340-41be-9793-c08b2480d75f))
+    (pin "1" (uuid 1ade46b2-271b-4dab-b065-333bc2bc75bf))
+    (pin "2" (uuid e40b749f-907a-4002-a4b5-1d96a4344e0b))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
@@ -8660,8 +8660,8 @@
     (property "Datasheet" "~" (at 368.3 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 28175057-90df-4b41-afda-3e09e45768f6))
-    (pin "2" (uuid 6a5f72b5-2df1-4b14-aedd-7251b620e2f5))
+    (pin "1" (uuid c507ec50-f30a-499a-9411-d294313e2a87))
+    (pin "2" (uuid b5a56493-7607-4d21-b1c2-a157fefec72f))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
@@ -8689,14 +8689,14 @@
     (property "Datasheet" "" (at 86.36 149.86 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 0471873b-e832-4f79-9b77-210635aa1f86))
+    (pin "1" (uuid 9cb11daa-8f0e-41c8-ae0b-9ea33476e600))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "#PWR058") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "#PWR0294") (unit 1)
+          (reference "#PWR0303") (unit 1)
         )
       )
     )
@@ -8717,15 +8717,15 @@
     (property "Datasheet" "~" (at 228.6 144.78 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ef611a76-9328-4b14-a39f-17f81710022f))
-    (pin "2" (uuid 3c2c6342-5bdb-4f65-80e8-3aaeaa7115ab))
+    (pin "1" (uuid 6415aa90-b5af-49c8-acc3-4b962ccb461f))
+    (pin "2" (uuid 60538082-efbc-41cd-a31c-d150456fd4ff))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "R4") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "R83") (unit 1)
+          (reference "R86") (unit 1)
         )
       )
     )
@@ -8746,8 +8746,8 @@
     (property "Datasheet" "~" (at 144.78 72.39 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid bca9ab8e-ca7b-4aa4-b224-b7d6653bfcb4))
-    (pin "2" (uuid 706158b0-2728-4275-adb4-c8a008dfb1f6))
+    (pin "1" (uuid 8122a467-3135-42c7-8bf5-6d7cb6c723d3))
+    (pin "2" (uuid d0e98549-83aa-4314-8e2e-44ce4f5ac554))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
@@ -8775,14 +8775,14 @@
     (property "Datasheet" "" (at 309.245 29.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 3d8c71e6-c3d4-4091-a777-5ae1da54064a))
+    (pin "1" (uuid c946c9ca-366b-4254-9910-7887c1bc946b))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "#PWR058") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "#PWR0230") (unit 1)
+          (reference "#PWR0236") (unit 1)
         )
       )
     )
@@ -8803,14 +8803,14 @@
     (property "Datasheet" "" (at 421.64 125.73 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f4b41161-b313-4dc2-b6b5-30e81712252a))
+    (pin "1" (uuid 7bbc94b0-8fb7-4564-917d-588ff35cb4df))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "#PWR058") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "#PWR0291") (unit 1)
+          (reference "#PWR0299") (unit 1)
         )
       )
     )
@@ -8831,15 +8831,15 @@
     (property "Datasheet" "~" (at 142.24 147.32 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d591e35f-4c79-4b29-bfe2-5acb78a99909))
-    (pin "2" (uuid 7cfda3f8-0d78-4765-bc21-7e01170dce6d))
+    (pin "1" (uuid 2f5b8da2-a535-4537-a261-a08980c1c19c))
+    (pin "2" (uuid 268a4b11-ba86-4890-afab-8c5285ef544e))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "C27") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "C184") (unit 1)
+          (reference "C187") (unit 1)
         )
       )
     )
@@ -8860,14 +8860,14 @@
     (property "Datasheet" "" (at 254 101.6 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid af532a4b-379f-45ef-adf6-8f78cbee44ac))
+    (pin "1" (uuid 2d4f2f85-0f81-4390-ba6b-c85b20db9ee0))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "#PWR058") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "#PWR0271") (unit 1)
+          (reference "#PWR0278") (unit 1)
         )
       )
     )
@@ -8888,14 +8888,14 @@
     (property "Datasheet" "" (at 281.305 29.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e19d4e9e-304e-4edb-a5ce-5035abb700b3))
+    (pin "1" (uuid 84c8d62f-223b-44de-b567-8832ec26c9c2))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "#PWR058") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "#PWR0229") (unit 1)
+          (reference "#PWR0235") (unit 1)
         )
       )
     )
@@ -8916,15 +8916,15 @@
     (property "Datasheet" "~" (at 30.48 99.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 2e8b480b-25be-4ea1-912a-084c563540a2))
-    (pin "2" (uuid 70793f98-f448-48ff-b040-8a830cb70a4a))
+    (pin "1" (uuid cd0fc891-ceb9-451f-bad0-5aabf70ff841))
+    (pin "2" (uuid cbfb0946-48cb-4a65-b3bf-e1c6c4e84969))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "C27") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "C151") (unit 1)
+          (reference "C152") (unit 1)
         )
       )
     )
@@ -8945,15 +8945,15 @@
     (property "Datasheet" "~" (at 116.84 120.65 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 9e599b84-2d39-41ed-b608-0a0af7199f44))
-    (pin "2" (uuid a56e97bd-d7fd-4387-a843-5270216f5ec2))
+    (pin "1" (uuid e23d2c4f-d125-46c6-8f9d-e1b2344a826b))
+    (pin "2" (uuid cbf981ec-f9de-4f8f-b6f6-74d032d9474f))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "R4") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "R64") (unit 1)
+          (reference "R66") (unit 1)
         )
       )
     )
@@ -8974,15 +8974,15 @@
     (property "Datasheet" "~" (at 30.48 123.19 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c190fdae-0ed9-428c-8dd6-5cfd5055e130))
-    (pin "2" (uuid 1a08e8df-3b26-4dcc-96fe-e7cafbc88e61))
+    (pin "1" (uuid 403fdf33-7278-4bc2-8eed-c04357960ba2))
+    (pin "2" (uuid c7bd4da2-623c-4243-abaa-9da994097afe))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "C27") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "C165") (unit 1)
+          (reference "C167") (unit 1)
         )
       )
     )
@@ -9003,15 +9003,15 @@
     (property "Datasheet" "~" (at 200.66 96.52 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 34ade4e9-0c69-482e-876b-2192959fbd2d))
-    (pin "2" (uuid 7c4545d6-ea8c-4afa-8516-2108c7b4e924))
+    (pin "1" (uuid 56060a77-6e6d-4ed9-b405-faf1b4ce0b88))
+    (pin "2" (uuid 9ac48635-d935-4968-814e-739ccec17c49))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "R4") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "R53") (unit 1)
+          (reference "R54") (unit 1)
         )
       )
     )
@@ -9032,15 +9032,15 @@
     (property "Datasheet" "~" (at 86.36 147.32 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 0139c441-8940-4723-963d-544f00df4da7))
-    (pin "2" (uuid d1cd36bd-5a4f-4408-9c96-a0595044e1f4))
+    (pin "1" (uuid e956d6a2-da17-412c-83be-ede70cf9c7af))
+    (pin "2" (uuid 08a96c1a-c139-4d7c-9455-aff0231034ee))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "C27") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "C182") (unit 1)
+          (reference "C185") (unit 1)
         )
       )
     )
@@ -9061,14 +9061,14 @@
     (property "Datasheet" "" (at 170.18 77.47 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid bea1e5e6-e65c-4899-b0a3-7fed97d1161e))
+    (pin "1" (uuid b3f7a955-7e5b-4f66-9afa-8a40c8c8341c))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "#PWR058") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "#PWR0253") (unit 1)
+          (reference "#PWR0259") (unit 1)
         )
       )
     )
@@ -9089,15 +9089,15 @@
     (property "Datasheet" "~" (at 309.88 99.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 7aaea0f4-2efc-4f6f-a1a8-3a4ba34c6c7d))
-    (pin "2" (uuid e78b5147-1bfe-44cd-8cf6-8b0da9475ad7))
+    (pin "1" (uuid 41d0a7ad-5ee2-49c2-857d-88570d7d5e3b))
+    (pin "2" (uuid 3969bd27-ad6f-4178-a137-5d8fe1b2f9c2))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "C27") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "C161") (unit 1)
+          (reference "C162") (unit 1)
         )
       )
     )
@@ -9118,8 +9118,8 @@
     (property "Datasheet" "~" (at 255.905 24.13 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ae8374a8-fb27-4dd3-9fb2-2232a9c007de))
-    (pin "2" (uuid ef6427c9-7836-4a07-b237-1dd7ef92305b))
+    (pin "1" (uuid f9cbbedf-5f8c-438a-a358-79648cdf7ce2))
+    (pin "2" (uuid 5547057c-68b1-4bf6-97af-35825611b149))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
@@ -9147,8 +9147,8 @@
     (property "Datasheet" "~" (at 365.125 26.67 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 447a6775-277c-4c4d-b09a-6066ecb966d7))
-    (pin "2" (uuid 34e7ec81-328d-4998-a7e4-0114608f01a1))
+    (pin "1" (uuid fdefa887-59af-4968-ba91-b3d108c571a1))
+    (pin "2" (uuid 44d91504-190c-4cfa-84b4-0ff11c781b51))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
@@ -9176,14 +9176,14 @@
     (property "Datasheet" "" (at 337.185 29.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e376ad8a-1b87-4fd9-b835-17c722f9d35b))
+    (pin "1" (uuid 59ebcf96-c4da-4b86-8499-ac00cc227f8e))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "#PWR058") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "#PWR0231") (unit 1)
+          (reference "#PWR0237") (unit 1)
         )
       )
     )
@@ -9204,8 +9204,8 @@
     (property "Datasheet" "~" (at 365.76 50.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 03768e38-5333-42bb-a88e-f0ad4b25656f))
-    (pin "2" (uuid 84982d80-2dcc-422a-b3f5-988424c6fdbe))
+    (pin "1" (uuid 14b18ded-c5b2-47c7-b598-833ca3766b19))
+    (pin "2" (uuid e542c195-7c88-4351-874b-e1cb9d362cad))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
@@ -9233,8 +9233,8 @@
     (property "Datasheet" "~" (at 396.24 72.39 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 9051d443-9e97-4df7-85ab-c158bb01250d))
-    (pin "2" (uuid dfbb1b36-bd38-495f-ad33-69b8bf639e6b))
+    (pin "1" (uuid ba64015a-3aaf-4466-a77c-f4536cb15533))
+    (pin "2" (uuid 25970c03-85c0-4bec-8389-2d9f1041cfbb))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
@@ -9262,8 +9262,8 @@
     (property "Datasheet" "~" (at 200.66 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 3b186028-e81f-474d-a142-c23600c96644))
-    (pin "2" (uuid f6385fd3-ac27-4875-894f-0e901393befd))
+    (pin "1" (uuid bba925aa-1372-45b6-a1b4-8cca295e4d27))
+    (pin "2" (uuid 6a385103-69d5-460b-a8aa-9625d59cbc27))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
@@ -9291,8 +9291,8 @@
     (property "Datasheet" "~" (at 142.24 74.93 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 05728fc6-9646-4e31-bf5f-2a18db5000f1))
-    (pin "2" (uuid 324a5e20-8cde-4f38-a591-003acecae2d8))
+    (pin "1" (uuid 44caf367-0cdc-456c-8149-227370abd9b2))
+    (pin "2" (uuid 3c5561f7-3239-42ca-b05a-c75cd6ddf457))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
@@ -9320,8 +9320,8 @@
     (property "Datasheet" "~" (at 226.06 74.93 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 5cefac03-c655-43bb-9a94-8a060c870681))
-    (pin "2" (uuid b107563c-29b7-4809-ba3e-aaf970329af2))
+    (pin "1" (uuid 30763d5d-14da-4d51-a450-1f3c547cc76c))
+    (pin "2" (uuid 75896354-f244-4bf9-b4d4-3f61a8067f2b))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
@@ -9349,8 +9349,8 @@
     (property "Datasheet" "~" (at 340.36 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 5e2ba065-ebad-4754-91a0-2b31e326827c))
-    (pin "2" (uuid 86a5c993-b2d7-4cad-a32c-6ed8ac5bcf08))
+    (pin "1" (uuid 770b7095-3cb2-4faf-9218-08a6ac7bc869))
+    (pin "2" (uuid 74aa063b-832f-4094-a734-ab8545d6375e))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
@@ -9378,14 +9378,14 @@
     (property "Datasheet" "" (at 337.82 53.34 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f3b061c7-2a5e-4b2c-91c0-0d3ad9aef674))
+    (pin "1" (uuid ced617e3-a891-472e-b5d7-2bf49d35f8f6))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "#PWR058") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "#PWR0244") (unit 1)
+          (reference "#PWR0250") (unit 1)
         )
       )
     )
@@ -9406,14 +9406,14 @@
     (property "Datasheet" "" (at 170.18 53.34 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 9965200d-7dd2-45e9-8347-fd6d4f39c973))
+    (pin "1" (uuid 30ce7f05-d9a2-4132-82b8-a6fc20f9c5aa))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "#PWR058") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "#PWR0238") (unit 1)
+          (reference "#PWR0244") (unit 1)
         )
       )
     )
@@ -9434,8 +9434,8 @@
     (property "Datasheet" "~" (at 30.48 50.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f70e03eb-71a3-4806-8be3-733aff59f798))
-    (pin "2" (uuid 05208560-31de-48ab-8b42-3a828f856d2b))
+    (pin "1" (uuid 56c20ee0-6718-4596-b3e4-2de5d77ccb65))
+    (pin "2" (uuid a9c18747-12d2-49d1-aa0f-0ef8c4eb0fc9))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
@@ -9463,15 +9463,15 @@
     (property "Datasheet" "~" (at 144.78 96.52 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 18827cbf-7abd-49b5-807d-ce088e539861))
-    (pin "2" (uuid d9c54d1d-e6f6-44dc-84ad-ee2ee07b66e4))
+    (pin "1" (uuid d2eb9e7a-8747-4e4a-bff0-1ce9f866182c))
+    (pin "2" (uuid c0d81084-4ab3-4644-9665-17ca9890c509))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "R4") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "R51") (unit 1)
+          (reference "R52") (unit 1)
         )
       )
     )
@@ -9492,8 +9492,8 @@
     (property "Datasheet" "~" (at 309.88 50.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e036880b-c935-47b3-9f6b-36e61349a2be))
-    (pin "2" (uuid 27dbb1d3-7d11-446d-b335-3d74dfa18ce0))
+    (pin "1" (uuid 4a04af2f-f6bb-4cc4-9c0a-623b153de0f2))
+    (pin "2" (uuid 79887aa2-8eed-4d1b-897e-1ad125cd3d5d))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
@@ -9521,15 +9521,15 @@
     (property "Datasheet" "~" (at 452.12 120.65 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 34905378-f75d-4a39-9512-6a4cbe8e15d7))
-    (pin "2" (uuid d3a54a4a-5441-4729-95fa-d4da2675abc7))
+    (pin "1" (uuid 16344435-e6ef-45fe-b4ad-aadc40b149d9))
+    (pin "2" (uuid e718281d-5d0e-40b5-b027-5d221cf377da))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "R4") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "R90") (unit 1)
+          (reference "R78") (unit 1)
         )
       )
     )
@@ -9550,8 +9550,8 @@
     (property "Datasheet" "~" (at 60.96 72.39 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a3f1f52e-644e-431e-a2d4-9f1c225c3f79))
-    (pin "2" (uuid 99f7695f-7769-4b73-8810-6f218ec6161b))
+    (pin "1" (uuid 03701a72-d6b8-4ff4-a63a-167b7ea56747))
+    (pin "2" (uuid baad0cd2-8ab0-4ac4-bbad-8e1cd10a2b6f))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
@@ -9579,14 +9579,14 @@
     (property "Datasheet" "" (at 393.7 125.73 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 0f685d1b-e77a-4de3-8434-6932998b2580))
+    (pin "1" (uuid 594fae26-f8ae-4593-86b4-6028091fd3ef))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "#PWR058") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "#PWR0290") (unit 1)
+          (reference "#PWR0298") (unit 1)
         )
       )
     )
@@ -9607,14 +9607,14 @@
     (property "Datasheet" "" (at 86.36 77.47 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 8aa617a6-6751-45af-bf57-55ebed5fa5bb))
+    (pin "1" (uuid ad89ae3c-e8a3-4faf-971b-461a7d54cd0e))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "#PWR058") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "#PWR0250") (unit 1)
+          (reference "#PWR0256") (unit 1)
         )
       )
     )
@@ -9635,14 +9635,14 @@
     (property "Datasheet" "" (at 309.88 53.34 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid cf7c9849-1a0a-42a0-a4e0-3c0d3230be01))
+    (pin "1" (uuid 4fe85667-7f39-4edf-9221-fd3808ea30b7))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "#PWR058") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "#PWR0243") (unit 1)
+          (reference "#PWR0249") (unit 1)
         )
       )
     )
@@ -9663,15 +9663,15 @@
     (property "Datasheet" "~" (at 172.72 120.65 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 869366a5-d0e8-47e1-a543-6df785207226))
-    (pin "2" (uuid 91fdb36a-4785-4ede-9066-e44c3f534216))
+    (pin "1" (uuid 386b4b28-6300-4419-b420-3774d1a7e5a6))
+    (pin "2" (uuid fc38ffbe-af9a-4c2b-9cd6-66eb15988a1d))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "R4") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "R66") (unit 1)
+          (reference "R68") (unit 1)
         )
       )
     )
@@ -9692,15 +9692,15 @@
     (property "Datasheet" "~" (at 281.94 99.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d5825108-59c9-4798-91ab-141a335f9301))
-    (pin "2" (uuid 4d864e3e-b8db-421b-80ce-feb1509b27c7))
+    (pin "1" (uuid e5017936-6a5a-460e-b28e-592a91e9cc6a))
+    (pin "2" (uuid 9c7d147e-e9cb-474b-9c13-60a18000a0cb))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "C27") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "C160") (unit 1)
+          (reference "C161") (unit 1)
         )
       )
     )
@@ -9721,14 +9721,14 @@
     (property "Datasheet" "" (at 58.42 101.6 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 60376611-89ec-4bde-bb9a-11f40efb13f3))
+    (pin "1" (uuid b53190ca-5d8e-4313-ab6a-1687ea49bd08))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "#PWR058") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "#PWR0264") (unit 1)
+          (reference "#PWR0271") (unit 1)
         )
       )
     )
@@ -9749,15 +9749,15 @@
     (property "Datasheet" "~" (at 337.82 123.19 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid df13bc3b-adfa-4ea2-a55b-70747d49db8d))
-    (pin "2" (uuid fd818efe-8dd8-4891-833d-914710750105))
+    (pin "1" (uuid fed4bfe8-8f17-473a-ac00-86b106b5b375))
+    (pin "2" (uuid 4183634e-a37f-415a-9882-87d82bd0a99e))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "C27") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "C176") (unit 1)
+          (reference "C178") (unit 1)
         )
       )
     )
@@ -9778,14 +9778,14 @@
     (property "Datasheet" "" (at 198.12 53.34 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b4c39806-f0f7-403c-ae60-8c53a6c8492f))
+    (pin "1" (uuid ceb079be-4f7a-44fe-ba76-0e7e18954c35))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "#PWR058") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "#PWR0239") (unit 1)
+          (reference "#PWR0245") (unit 1)
         )
       )
     )
@@ -9806,14 +9806,14 @@
     (property "Datasheet" "" (at 30.48 125.73 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 874aba87-3689-44a1-8d55-ad170dcbc740))
+    (pin "1" (uuid c584985e-a3d5-4bdd-a8d6-f6d1618c4559))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "#PWR058") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "#PWR0277") (unit 1)
+          (reference "#PWR0285") (unit 1)
         )
       )
     )
@@ -9834,8 +9834,8 @@
     (property "Datasheet" "~" (at 197.485 26.67 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a36f49a0-98e3-4fad-a99c-5eb473a912c0))
-    (pin "2" (uuid ce0cb3a2-b0e2-4a3b-be9a-27d20cb5505c))
+    (pin "1" (uuid 3d710b8d-a174-433e-ab8b-664fad565551))
+    (pin "2" (uuid 13e8a826-27d5-4432-9aaf-d41f1968fad6))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
@@ -9863,14 +9863,14 @@
     (property "Datasheet" "" (at 421.64 101.6 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 2aa1be01-6192-4153-a639-1bbc6340c558))
+    (pin "1" (uuid 4f783829-59b5-4d9f-a21a-c4e016376359))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "#PWR058") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "#PWR0553") (unit 1)
+          (reference "#PWR0284") (unit 1)
         )
       )
     )
@@ -9891,8 +9891,8 @@
     (property "Datasheet" "~" (at 170.18 50.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 5e3f8760-751c-40da-8388-f13194d35050))
-    (pin "2" (uuid d8917c1f-8e54-42ff-8da4-b0cc82ce18b1))
+    (pin "1" (uuid f3170236-0084-4c60-a15d-afe22abd31e5))
+    (pin "2" (uuid c782c71e-0afd-435a-8403-04dc58465f6b))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
@@ -9920,8 +9920,8 @@
     (property "Datasheet" "~" (at 142.24 50.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a92ac304-be3e-4a54-971d-a1fd7fec3b1e))
-    (pin "2" (uuid cd743425-c69c-4dd2-b32d-6f29bf6576c7))
+    (pin "1" (uuid e74f4aba-583e-4e9c-b7a4-8bc9b21212c5))
+    (pin "2" (uuid 364065e6-56e3-4e62-bd18-456bf29b45c3))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
@@ -9949,15 +9949,15 @@
     (property "Datasheet" "~" (at 58.42 99.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 7e27844a-65ca-4a40-80af-ed983048bf20))
-    (pin "2" (uuid 171f83ae-fecc-4237-b02b-56fd7ce40695))
+    (pin "1" (uuid 209ae35b-8d73-4ca8-a069-f2ff34a63b67))
+    (pin "2" (uuid 2ae9cf37-e5cb-4d4d-a391-0e6a4c20e388))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "C27") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "C152") (unit 1)
+          (reference "C153") (unit 1)
         )
       )
     )
@@ -9978,14 +9978,14 @@
     (property "Datasheet" "" (at 85.725 29.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 714408a2-f0ae-41fc-8bd8-2204ae5f75c3))
+    (pin "1" (uuid d368e65e-97be-44d2-9ad2-c8233b84a69c))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "#PWR058") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "#PWR0222") (unit 1)
+          (reference "#PWR0228") (unit 1)
         )
       )
     )
@@ -10006,8 +10006,8 @@
     (property "Datasheet" "~" (at 368.3 72.39 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 01b2f2f5-68f0-4d48-9421-f458d675c987))
-    (pin "2" (uuid 316b7dea-0e7a-41b1-bed6-7ed1951cb15c))
+    (pin "1" (uuid 54a0608c-b92a-48b4-91dc-7c9ab350f470))
+    (pin "2" (uuid 1276fff0-d125-4d50-8928-b8e937f07c4a))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
@@ -10035,14 +10035,14 @@
     (property "Datasheet" "" (at 226.06 53.34 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f3345c9e-1454-45ce-ac52-a61df6733968))
+    (pin "1" (uuid 1dada730-bb39-4f06-81e7-fa2106610efc))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "#PWR058") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "#PWR0240") (unit 1)
+          (reference "#PWR0246") (unit 1)
         )
       )
     )
@@ -10063,8 +10063,8 @@
     (property "Datasheet" "~" (at 284.48 72.39 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 89a1082d-af37-49b6-bc05-677576b10fe0))
-    (pin "2" (uuid 5806ef8c-7faf-4c4a-b80d-64ea2716f4eb))
+    (pin "1" (uuid 16745bda-23d5-48b7-ae5c-ef2b55630f15))
+    (pin "2" (uuid f5926361-d766-47e4-911a-cfd096be0a9c))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
@@ -10092,14 +10092,14 @@
     (property "Datasheet" "" (at 254 125.73 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid db61a200-036f-4c7e-a9e1-253a84fb963b))
+    (pin "1" (uuid 65c51148-cd4b-4f20-8a89-39741cb4d0e6))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "#PWR058") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "#PWR0285") (unit 1)
+          (reference "#PWR0293") (unit 1)
         )
       )
     )
@@ -10120,14 +10120,14 @@
     (property "Datasheet" "" (at 449.58 125.73 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 22a9eeb2-c903-472c-b367-8575dcfd6eb5))
+    (pin "1" (uuid 58dbbdc1-4a7c-4811-a356-11c49e9f990d))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "#PWR058") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "#PWR0554") (unit 1)
+          (reference "#PWR0300") (unit 1)
         )
       )
     )
@@ -10148,14 +10148,14 @@
     (property "Datasheet" "" (at 337.82 125.73 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 941a98f6-46a4-4992-9585-02877ae0cb39))
+    (pin "1" (uuid 8b0ed7ea-1af3-4cae-96db-3175e7295500))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "#PWR058") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "#PWR0288") (unit 1)
+          (reference "#PWR0296") (unit 1)
         )
       )
     )
@@ -10176,8 +10176,8 @@
     (property "Datasheet" "~" (at 170.18 74.93 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 14e88008-6c49-43b0-b3c7-2c3e88d5e977))
-    (pin "2" (uuid 8c1e3ebf-79ee-48aa-bd45-5667df78e44a))
+    (pin "1" (uuid 7e367497-3adf-4f9b-af3b-4c8a2fe4d58a))
+    (pin "2" (uuid 5d6c3515-7d0b-476d-b5db-aafa2633da8b))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
@@ -10205,14 +10205,14 @@
     (property "Datasheet" "" (at 254 53.34 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid da140722-9920-4a37-b8f3-88d8e39d2412))
+    (pin "1" (uuid 546f2126-33ea-4523-80bf-2b3d1bb6b00f))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "#PWR058") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "#PWR0241") (unit 1)
+          (reference "#PWR0247") (unit 1)
         )
       )
     )
@@ -10233,14 +10233,14 @@
     (property "Datasheet" "" (at 281.94 149.86 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 20c2cc65-387d-4b60-a912-bad768988966))
+    (pin "1" (uuid bfd5e1f6-479b-4f9f-b5cd-44609fc3d88d))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "#PWR058") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "#PWR0301") (unit 1)
+          (reference "#PWR0310") (unit 1)
         )
       )
     )
@@ -10261,14 +10261,14 @@
     (property "Datasheet" "" (at 253.365 29.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 7f743dba-51ad-4822-9586-add3fbd2e2ed))
+    (pin "1" (uuid 1a9c7f19-7899-42f7-9dd5-e1ec2db75169))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "#PWR058") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "#PWR0228") (unit 1)
+          (reference "#PWR0234") (unit 1)
         )
       )
     )
@@ -10289,8 +10289,8 @@
     (property "Datasheet" "~" (at 312.42 72.39 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e718685c-8217-4617-881a-09199f7be328))
-    (pin "2" (uuid 8c5e4753-a23f-4155-8368-16415e79531a))
+    (pin "1" (uuid b6ab6458-5323-40e0-a19e-53a80d484575))
+    (pin "2" (uuid cf101715-357f-4f10-888e-df181909fcb1))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
@@ -10318,15 +10318,15 @@
     (property "Datasheet" "~" (at 198.12 123.19 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4f6c4713-0acf-4cf2-a818-07ca28d279c6))
-    (pin "2" (uuid 67ca0ac8-c422-4b5c-add1-946053123129))
+    (pin "1" (uuid 760a26c8-2ab0-4fff-bc85-fb79eb06bf29))
+    (pin "2" (uuid b98a5f28-3a3d-4e62-8f71-fa8e55dd0912))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "C27") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "C171") (unit 1)
+          (reference "C173") (unit 1)
         )
       )
     )
@@ -10347,15 +10347,15 @@
     (property "Datasheet" "~" (at 88.9 96.52 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid baa2afdf-6851-4f3c-8c10-4acc13ac8b68))
-    (pin "2" (uuid 0fcfb903-ae6c-41f4-853b-022a71ecbdda))
+    (pin "1" (uuid 7d433d98-9e80-43f0-9228-6f56643546ff))
+    (pin "2" (uuid 9a52cca4-5db6-436c-adeb-9b715f16861e))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "R4") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "R49") (unit 1)
+          (reference "R50") (unit 1)
         )
       )
     )
@@ -10376,14 +10376,14 @@
     (property "Datasheet" "" (at 254 77.47 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 9b61f869-6089-4cca-ba34-7575a337e959))
+    (pin "1" (uuid c4b30cd5-8b64-4c69-ad1c-1a833ef1d4a8))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "#PWR058") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "#PWR0256") (unit 1)
+          (reference "#PWR0262") (unit 1)
         )
       )
     )
@@ -10404,8 +10404,8 @@
     (property "Datasheet" "~" (at 424.18 72.39 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 7afc152b-9945-4684-9421-b24275a1a2c9))
-    (pin "2" (uuid 4726f1d1-a925-49d1-80f0-1172e399195a))
+    (pin "1" (uuid 3d59742c-89f6-488d-9f0c-313a7800c83b))
+    (pin "2" (uuid c3622d83-ba7d-4f20-b49e-738555a59d91))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
@@ -10433,15 +10433,15 @@
     (property "Datasheet" "~" (at 116.84 144.78 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 95b8267c-5f87-4332-afbe-63d6fdc08b75))
-    (pin "2" (uuid b64fdd79-707b-408f-ad6a-226e6d060334))
+    (pin "1" (uuid 27e0aac0-9197-4edd-b4dd-eebd25a5d8af))
+    (pin "2" (uuid be63ecc1-5560-4451-925d-bd7afa25f2ad))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "R4") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "R79") (unit 1)
+          (reference "R82") (unit 1)
         )
       )
     )
@@ -10462,15 +10462,15 @@
     (property "Datasheet" "~" (at 114.3 99.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d9181a8c-69d5-4121-b36d-bc9ae85470ab))
-    (pin "2" (uuid e86ad088-c2dc-4246-a783-79f8d8a854eb))
+    (pin "1" (uuid 591dd789-9099-426f-9e7d-1d488205f8a9))
+    (pin "2" (uuid a3df8674-1734-4389-8cef-6b3dfb9c9915))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "C27") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "C154") (unit 1)
+          (reference "C155") (unit 1)
         )
       )
     )
@@ -10491,8 +10491,8 @@
     (property "Datasheet" "~" (at 116.84 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 5838a74e-3107-4ff4-a2bb-73abd6b57149))
-    (pin "2" (uuid 7f436d09-356e-4f16-a50a-3a7d2de4f8d3))
+    (pin "1" (uuid fc6b0d8c-5520-4079-97e8-a6c054377eca))
+    (pin "2" (uuid aac4e10e-850f-45eb-971c-6b6d3b8b6dd4))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
@@ -10520,15 +10520,15 @@
     (property "Datasheet" "~" (at 144.78 144.78 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 6c8334f4-135b-426d-8caf-f898b7eb39c0))
-    (pin "2" (uuid 1b2cd64e-7ba6-43b5-8d07-148595166f62))
+    (pin "1" (uuid 2e52db35-5f30-4918-b5eb-0b2fea794663))
+    (pin "2" (uuid ba47389d-ceb6-4a7b-afa3-7a45a65c310c))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "R4") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "R80") (unit 1)
+          (reference "R83") (unit 1)
         )
       )
     )
@@ -10549,15 +10549,15 @@
     (property "Datasheet" "~" (at 170.18 147.32 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f1accbb3-dbc4-4e36-addf-1d2a581a3c63))
-    (pin "2" (uuid 7f9997d8-c1c5-4768-828b-b69a75dbfe65))
+    (pin "1" (uuid 47d80590-9387-4329-969a-370cb299f55d))
+    (pin "2" (uuid 1ae58904-338f-440e-94fc-0bdc53c32aa8))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "C27") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "C185") (unit 1)
+          (reference "C188") (unit 1)
         )
       )
     )
@@ -10578,14 +10578,14 @@
     (property "Datasheet" "" (at 114.3 77.47 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 1e47c502-dbb2-430b-9f56-46bf5aca103b))
+    (pin "1" (uuid 745b7e77-92d1-459d-ad6a-6fa91c19aca8))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "#PWR058") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "#PWR0251") (unit 1)
+          (reference "#PWR0257") (unit 1)
         )
       )
     )
@@ -10606,14 +10606,14 @@
     (property "Datasheet" "" (at 365.76 101.6 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 04f125a5-0f17-4126-86c9-cf8236e7aa13))
+    (pin "1" (uuid e668ff53-4514-431d-83af-4686356b38d1))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "#PWR058") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "#PWR0275") (unit 1)
+          (reference "#PWR0282") (unit 1)
         )
       )
     )
@@ -10634,14 +10634,14 @@
     (property "Datasheet" "" (at 114.3 149.86 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d7201511-fa35-405e-869d-28c3a5980d94))
+    (pin "1" (uuid 35215201-93a8-4cdc-978e-d61e3bb3112a))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "#PWR058") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "#PWR0295") (unit 1)
+          (reference "#PWR0304") (unit 1)
         )
       )
     )
@@ -10662,8 +10662,8 @@
     (property "Datasheet" "~" (at 116.205 24.13 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 2a109018-2f90-445c-9c4d-27ee0f16fb10))
-    (pin "2" (uuid e282e5ba-d5b5-4782-b9d7-1d5130644ad0))
+    (pin "1" (uuid e0d40a73-de5f-4356-8a4d-9a20de3ea4fa))
+    (pin "2" (uuid 280549a4-3b6d-43eb-82b0-ed74af8527da))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
@@ -10691,8 +10691,8 @@
     (property "Datasheet" "~" (at 226.06 50.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 89da5267-514e-4e2f-bf67-f0f70006cd40))
-    (pin "2" (uuid 04d3c001-02a7-43ec-9200-e6c1af80a9ba))
+    (pin "1" (uuid b261a13e-e66d-4a2b-9cd7-abfc10693228))
+    (pin "2" (uuid cc987e78-1491-44ab-a04d-430031edb936))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
@@ -10720,8 +10720,8 @@
     (property "Datasheet" "~" (at 254 50.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 14ff1b9a-eb00-4962-ba25-a43da11516bc))
-    (pin "2" (uuid ae864477-7f79-4ef2-89d7-7b0263d0c33e))
+    (pin "1" (uuid 9d0093df-18f9-47ac-b3ef-b80cae64827c))
+    (pin "2" (uuid 2fdd159e-d794-4fb3-89c8-358ac7001199))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
@@ -10749,8 +10749,8 @@
     (property "Datasheet" "~" (at 141.605 26.67 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 3e0f2b0e-aff7-44e2-baf6-f838ee489417))
-    (pin "2" (uuid aee3c6c2-ac5d-4a24-b218-672241a6c37b))
+    (pin "1" (uuid dd9d4cae-670b-4900-ad74-e915ba6c10cd))
+    (pin "2" (uuid 2037578d-2b98-411a-8c0c-c3c637cdd17c))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
@@ -10778,14 +10778,14 @@
     (property "Datasheet" "" (at 226.06 125.73 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 3fc3d431-8d76-4e9c-add1-d727cc9da92d))
+    (pin "1" (uuid 7dd401fb-ec0e-470e-a779-bf039a7a6890))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "#PWR058") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "#PWR0284") (unit 1)
+          (reference "#PWR0292") (unit 1)
         )
       )
     )
@@ -10806,8 +10806,8 @@
     (property "Datasheet" "~" (at 367.665 24.13 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid fd8cbcdb-ca55-49ea-a472-b2fcc195718d))
-    (pin "2" (uuid 93c71550-0f07-42e4-bc3c-8a01228689b0))
+    (pin "1" (uuid 59b826ad-dcbb-4c11-a822-b79740ed0674))
+    (pin "2" (uuid 23f9ffff-487d-49ff-83f9-577d8afd3bc0))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
@@ -10835,14 +10835,14 @@
     (property "Datasheet" "" (at 113.665 29.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid afcbb14a-a9ac-4e6b-9d45-c486093384a7))
+    (pin "1" (uuid 48ed520e-1b94-43e9-b63e-98f18e3ffd40))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "#PWR058") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "#PWR0223") (unit 1)
+          (reference "#PWR0229") (unit 1)
         )
       )
     )
@@ -10863,15 +10863,15 @@
     (property "Datasheet" "~" (at 226.06 147.32 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d998c0a7-66f1-497c-8434-620ffffb702d))
-    (pin "2" (uuid 5ccff435-327c-4f86-893e-cc9d70e7495b))
+    (pin "1" (uuid 55a87901-e561-412d-b982-52ba4d213ce8))
+    (pin "2" (uuid e474dac1-451a-4569-b3a2-322b906250b8))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "C27") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "C187") (unit 1)
+          (reference "C190") (unit 1)
         )
       )
     )
@@ -10892,8 +10892,8 @@
     (property "Datasheet" "~" (at 340.36 72.39 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 8809a815-a080-4bd3-bbd3-5bd4c1e0f6ab))
-    (pin "2" (uuid 1a21b38b-a3b7-4086-9119-09a991802984))
+    (pin "1" (uuid e0ee190c-cf19-43f0-a4dc-26a07be400e2))
+    (pin "2" (uuid 98c313fe-36ed-463f-ac46-e9d0a7493a25))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
@@ -10921,14 +10921,14 @@
     (property "Datasheet" "" (at 281.94 77.47 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d92b31d9-2820-49a5-ba5b-8984307aaa60))
+    (pin "1" (uuid ee0bad86-6e77-4448-b656-be06fc868de0))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "#PWR058") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a8bf7a37-e675-434e-83e0-d594cc4489f2"
-          (reference "#PWR0257") (unit 1)
+          (reference "#PWR0263") (unit 1)
         )
       )
     )
