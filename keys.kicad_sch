@@ -1148,10 +1148,6 @@
     (stroke (width 0) (type default))
     (uuid 442afd03-ac46-4a90-8ba9-e6d43c68481f)
   )
-  (bus_entry (at 28.575 139.7) (size -2.54 2.54)
-    (stroke (width 0) (type default))
-    (uuid 45e59caf-eb43-417b-8b0d-97aeb182e058)
-  )
   (bus_entry (at 97.155 21.59) (size 2.54 -2.54)
     (stroke (width 0) (type default))
     (uuid 4648631c-ac5d-4c3a-b6fe-793431e35944)
@@ -1167,10 +1163,6 @@
   (bus_entry (at 347.345 81.28) (size 2.54 -2.54)
     (stroke (width 0) (type default))
     (uuid 589d0252-6eda-4d3b-9a26-ca6186141a2d)
-  )
-  (bus_entry (at 401.955 111.76) (size 2.54 -2.54)
-    (stroke (width 0) (type default))
-    (uuid 5b183ab5-b22b-4cfc-b60c-e3c22e4dd391)
   )
   (bus_entry (at 288.29 142.24) (size 2.54 -2.54)
     (stroke (width 0) (type default))
@@ -1311,10 +1303,6 @@
   (bus_entry (at 217.805 111.76) (size 2.54 -2.54)
     (stroke (width 0) (type default))
     (uuid d521e17e-d79d-4838-a205-5ab8f3fb3fc3)
-  )
-  (bus_entry (at 396.875 81.28) (size 2.54 -2.54)
-    (stroke (width 0) (type default))
-    (uuid d57621a8-3bec-4436-9f09-b5ee3f013315)
   )
   (bus_entry (at 160.02 52.07) (size 2.54 -2.54)
     (stroke (width 0) (type default))
@@ -1668,10 +1656,6 @@
   (wire (pts (xy 376.555 95.25) (xy 377.19 95.25))
     (stroke (width 0) (type default))
     (uuid 2d606884-5794-47ed-b383-1540c8969cc1)
-  )
-  (wire (pts (xy 396.875 81.28) (xy 396.875 95.25))
-    (stroke (width 0) (type default))
-    (uuid 2e29e76c-8b06-4863-a521-cf8fd562b92a)
   )
   (bus (pts (xy 263.525 109.22) (xy 285.115 109.22))
     (stroke (width 0) (type default))
@@ -2185,19 +2169,11 @@
     (stroke (width 0) (type default))
     (uuid 7e952e92-0166-43b9-ae0a-ac4c27988c2a)
   )
-  (wire (pts (xy 401.955 111.76) (xy 401.955 125.73))
-    (stroke (width 0) (type default))
-    (uuid 7efc7203-cfcf-464e-9fed-46f906f45d6e)
-  )
   (bus (pts (xy 375.285 168.91) (xy 352.425 168.91))
     (stroke (width 0) (type default))
     (uuid 8023352d-9e1c-4206-84da-33995de89668)
   )
 
-  (wire (pts (xy 26.035 154.94) (xy 26.035 142.24))
-    (stroke (width 0) (type default))
-    (uuid 805b14f9-4798-4aa8-a4d0-0ea4f07f443f)
-  )
   (wire (pts (xy 217.805 111.76) (xy 217.805 125.73))
     (stroke (width 0) (type default))
     (uuid 80b95469-2005-48d4-9283-de370c12ac10)
@@ -2429,7 +2405,7 @@
     (stroke (width 0) (type default))
     (uuid a271a74f-afcd-413a-85fd-2cba0c97e85e)
   )
-  (bus (pts (xy 379.73 109.22) (xy 404.495 109.22))
+  (bus (pts (xy 379.73 109.22) (xy 389.255 109.22))
     (stroke (width 0) (type default))
     (uuid a3b50edf-45bd-4473-abf2-b388a3b9b1af)
   )
@@ -2621,10 +2597,6 @@
     (stroke (width 0) (type default))
     (uuid b8e3508f-6010-4164-9d2a-1d8ecc5df063)
   )
-  (wire (pts (xy 25.4 154.94) (xy 26.035 154.94))
-    (stroke (width 0) (type default))
-    (uuid b9246ea2-3a18-40eb-a490-e0a9247f9494)
-  )
   (bus (pts (xy 335.915 49.53) (xy 389.255 49.53))
     (stroke (width 0) (type default))
     (uuid b9528d38-c186-4c55-93f1-73f6628edb50)
@@ -2786,7 +2758,7 @@
     (stroke (width 0) (type default))
     (uuid d222c8a4-f56a-40b8-a284-18d38c313556)
   )
-  (bus (pts (xy 379.73 78.74) (xy 399.415 78.74))
+  (bus (pts (xy 379.73 78.74) (xy 389.89 78.74))
     (stroke (width 0) (type default))
     (uuid d28dd7d8-e11b-4e66-93b0-f73c6cd2fd83)
   )
@@ -2959,11 +2931,6 @@
     (stroke (width 0) (type default))
     (uuid efce956e-9e9e-40f4-a8a9-fb4bf1fc488a)
   )
-  (bus (pts (xy 28.575 139.7) (xy 50.165 139.7))
-    (stroke (width 0) (type default))
-    (uuid f05e766e-9cbb-4cca-9217-103540b35a76)
-  )
-
   (wire (pts (xy 104.775 232.41) (xy 114.3 232.41))
     (stroke (width 0) (type default))
     (uuid f0af688f-1d21-4936-a17c-bdc651fc5a63)
@@ -3043,23 +3010,6 @@
     (uuid ffdde6c6-976e-47a0-be27-9a7bf3c5b547)
   )
 
-  (text "ANSI \\|" (at 338.455 102.235 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 6f74b5be-cc30-4659-ba33-6ef40059d774)
-  )
-  (text "ANSI ENTER" (at 368.3 132.715 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid b2506608-632b-49e2-8523-21a2c59a82aa)
-  )
-  (text "ANSI RSHIFT" (at 38.1 161.925 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid d30b2ceb-0d1d-48ee-b69c-05c1d707c0ed)
-  )
-
-  (label "KEYS_4_15" (at 26.035 144.145 0) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 022dc818-eb4a-4148-a284-bf2a3ff64ea5)
-  )
   (label "KEYS_4_7" (at 201.93 144.145 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 0326d281-85d5-4387-85c1-d82076120138)
@@ -3224,10 +3174,6 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 913c02a0-6d77-4793-b8d7-209d9056c09b)
   )
-  (label "KEYS_3_14" (at 401.955 113.665 0) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 91799059-5661-4433-aa77-fefa8b90fddb)
-  )
   (label "KEYS_2_3" (at 127 83.185 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 92cc882d-3ed5-49d3-bacb-a933e0e425cd)
@@ -3279,10 +3225,6 @@
   (label "KEYS_4_5" (at 158.115 144.145 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid b1c4a372-c89f-4137-af7d-6fa2bc70bb8d)
-  )
-  (label "KEYS_2_15" (at 396.875 83.185 0) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid b2992e2e-9283-45e6-ac6d-2ba7c47e2d06)
   )
   (label "KEYS_4_12" (at 309.245 144.145 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
@@ -3411,10 +3353,10 @@
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
-  (global_label "KEYS_3_[0..14]" (shape input) (at 404.495 109.22 0) (fields_autoplaced)
+  (global_label "KEYS_3_[0..13]" (shape input) (at 389.255 109.22 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 380f5400-5bfc-4575-90d8-d07653acbe85)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 421.8735 109.22 0)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 406.6335 109.22 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
@@ -3453,14 +3395,14 @@
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
-  (global_label "KEYS_2_[0..15]" (shape input) (at 399.415 78.74 0) (fields_autoplaced)
+  (global_label "KEYS_2_[0..14]" (shape input) (at 389.89 78.74 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid d4d2f4cd-3001-4287-a3c6-f9cf930798a8)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 416.7935 78.74 0)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 407.2685 78.74 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
-  (global_label "KEYS_4_[0..15]" (shape input) (at 390.525 139.7 0) (fields_autoplaced)
+  (global_label "KEYS_4_[0..14]" (shape input) (at 390.525 139.7 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid fba11272-b239-40b0-9681-bd4a28492611)
     (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 407.9035 139.7 0)
@@ -3518,7 +3460,7 @@
           (reference "#PWR0173") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0215") (unit 1)
+          (reference "#PWR0209") (unit 1)
         )
       )
     )
@@ -3574,7 +3516,7 @@
           (reference "#PWR0103") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0138") (unit 1)
+          (reference "#PWR0136") (unit 1)
         )
       )
     )
@@ -3602,7 +3544,7 @@
           (reference "#PWR0180") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0218") (unit 1)
+          (reference "#PWR0212") (unit 1)
         )
       )
     )
@@ -3716,7 +3658,7 @@
           (reference "#PWR093") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0127") (unit 1)
+          (reference "#PWR0126") (unit 1)
         )
       )
     )
@@ -3747,36 +3689,6 @@
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
           (reference "HALL3") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "MoonBoard:SLSS49E-3_with_switch") (at 394.97 125.73 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid 08b635e6-d27e-4e2d-9765-11c0e74497bb)
-    (property "Reference" "U63" (at 395.605 119.38 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Value" "SLSS49E-3" (at 389.89 125.095 90)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Footprint" "MoonBoard:SLSS49E-3 with MX holes" (at 394.97 142.875 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 394.97 125.73 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 6a170afa-af2f-484d-a7c4-2742e7cee4e1))
-    (pin "2" (uuid b01ecc68-fb2b-486c-8121-b593fcf4bc74))
-    (pin "3" (uuid 87cef770-9416-40eb-bfc2-628a4e7d66fd))
-    (instances
-      (project "MoonBoard"
-        (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
-          (reference "U63") (unit 1)
-        )
-        (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "HALL58") (unit 1)
         )
       )
     )
@@ -3835,7 +3747,7 @@
           (reference "U86") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "HALL84") (unit 1)
+          (reference "HALL81") (unit 1)
         )
       )
     )
@@ -3863,7 +3775,7 @@
           (reference "#PWR0141") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0177") (unit 1)
+          (reference "#PWR0172") (unit 1)
         )
       )
     )
@@ -3919,7 +3831,7 @@
           (reference "#PWR0102") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0137") (unit 1)
+          (reference "#PWR0135") (unit 1)
         )
       )
     )
@@ -3947,7 +3859,7 @@
           (reference "#PWR0113") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0150") (unit 1)
+          (reference "#PWR0147") (unit 1)
         )
       )
     )
@@ -3975,7 +3887,7 @@
           (reference "#PWR0177") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0195") (unit 1)
+          (reference "#PWR0189") (unit 1)
         )
       )
     )
@@ -4062,7 +3974,7 @@
           (reference "U71") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "HALL68") (unit 1)
+          (reference "HALL65") (unit 1)
         )
       )
     )
@@ -4119,7 +4031,7 @@
           (reference "#PWR0157") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0206") (unit 1)
+          (reference "#PWR0200") (unit 1)
         )
       )
     )
@@ -4147,7 +4059,7 @@
           (reference "#PWR0148") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0189") (unit 1)
+          (reference "#PWR0183") (unit 1)
         )
       )
     )
@@ -4175,7 +4087,7 @@
           (reference "#PWR0185") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0221") (unit 1)
+          (reference "#PWR0215") (unit 1)
         )
       )
     )
@@ -4203,7 +4115,7 @@
           (reference "#PWR087") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0121") (unit 1)
+          (reference "#PWR0120") (unit 1)
         )
       )
     )
@@ -4231,7 +4143,7 @@
           (reference "#PWR0151") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0192") (unit 1)
+          (reference "#PWR0186") (unit 1)
         )
       )
     )
@@ -4259,7 +4171,7 @@
           (reference "#PWR0177") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0194") (unit 1)
+          (reference "#PWR0188") (unit 1)
         )
       )
     )
@@ -4316,7 +4228,7 @@
           (reference "#PWR0132") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0169") (unit 1)
+          (reference "#PWR0164") (unit 1)
         )
       )
     )
@@ -4344,7 +4256,7 @@
           (reference "#PWR0122") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0159") (unit 1)
+          (reference "#PWR0156") (unit 1)
         )
       )
     )
@@ -4403,7 +4315,7 @@
           (reference "U85") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "HALL83") (unit 1)
+          (reference "HALL80") (unit 1)
         )
       )
     )
@@ -4460,7 +4372,7 @@
           (reference "#PWR088") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0122") (unit 1)
+          (reference "#PWR0121") (unit 1)
         )
       )
     )
@@ -4524,34 +4436,6 @@
     )
   )
 
-  (symbol (lib_id "power:+3V3") (at 387.985 87.63 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid 1c6d3afe-d76b-4908-99a0-f9009794e862)
-    (property "Reference" "#PWR0126" (at 387.985 91.44 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Value" "+3V3" (at 391.16 85.725 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Footprint" "" (at 387.985 87.63 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 387.985 87.63 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid d9cd400c-69f9-4375-89ca-5f5cabc32353))
-    (instances
-      (project "MoonBoard"
-        (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
-          (reference "#PWR0126") (unit 1)
-        )
-        (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0117") (unit 1)
-        )
-      )
-    )
-  )
-
   (symbol (lib_id "MoonBoard:SLSS49E-3_with_switch") (at 43.815 64.77 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 1d89840a-8b9a-44b7-a11c-1719630ee7ea)
@@ -4604,7 +4488,7 @@
           (reference "#PWR0155") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0182") (unit 1)
+          (reference "#PWR0176") (unit 1)
         )
       )
     )
@@ -4661,7 +4545,7 @@
           (reference "#PWR0167") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0212") (unit 1)
+          (reference "#PWR0206") (unit 1)
         )
       )
     )
@@ -4691,7 +4575,7 @@
           (reference "U58") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "HALL53") (unit 1)
+          (reference "HALL52") (unit 1)
         )
       )
     )
@@ -4749,7 +4633,7 @@
           (reference "U68") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "HALL65") (unit 1)
+          (reference "HALL62") (unit 1)
         )
       )
     )
@@ -4777,7 +4661,7 @@
           (reference "#PWR0101") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0136") (unit 1)
+          (reference "#PWR0134") (unit 1)
         )
       )
     )
@@ -4805,7 +4689,7 @@
           (reference "#PWR0115") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0152") (unit 1)
+          (reference "#PWR0149") (unit 1)
         )
       )
     )
@@ -4835,7 +4719,7 @@
           (reference "U77") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "HALL61") (unit 1)
+          (reference "HALL58") (unit 1)
         )
       )
     )
@@ -4863,7 +4747,7 @@
           (reference "#PWR090") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0124") (unit 1)
+          (reference "#PWR0123") (unit 1)
         )
       )
     )
@@ -5035,7 +4919,7 @@
           (reference "U80") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "HALL77") (unit 1)
+          (reference "HALL74") (unit 1)
         )
       )
     )
@@ -5050,7 +4934,7 @@
     (property "Value" "SLSS49E-3" (at 334.645 94.615 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "MoonBoard:SLSS49E-3 with 1.5u MX holes" (at 339.725 112.395 0)
+    (property "Footprint" "MoonBoard:SLSS49E-3 with MX holes" (at 339.725 112.395 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 339.725 95.25 0)
@@ -5208,7 +5092,7 @@
           (reference "#PWR0120") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0157") (unit 1)
+          (reference "#PWR0154") (unit 1)
         )
       )
     )
@@ -5237,34 +5121,6 @@
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
           (reference "#PWR061") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "power:GND") (at 16.51 161.925 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid 3159eaba-36b8-4df2-87da-182e51d5270a)
-    (property "Reference" "#PWR0127" (at 16.51 168.275 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Value" "GND" (at 19.685 163.83 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Footprint" "" (at 16.51 161.925 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 16.51 161.925 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 6f809109-4e50-4346-b8c3-ff2a87cfe1e0))
-    (instances
-      (project "MoonBoard"
-        (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
-          (reference "#PWR0127") (unit 1)
-        )
-        (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0180") (unit 1)
         )
       )
     )
@@ -5320,7 +5176,7 @@
           (reference "#PWR0181") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0219") (unit 1)
+          (reference "#PWR0213") (unit 1)
         )
       )
     )
@@ -5348,7 +5204,7 @@
           (reference "#PWR0138") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0175") (unit 1)
+          (reference "#PWR0170") (unit 1)
         )
       )
     )
@@ -5406,7 +5262,7 @@
           (reference "#PWR0147") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0188") (unit 1)
+          (reference "#PWR0182") (unit 1)
         )
       )
     )
@@ -5434,7 +5290,7 @@
           (reference "#PWR0133") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0170") (unit 1)
+          (reference "#PWR0165") (unit 1)
         )
       )
     )
@@ -5462,7 +5318,7 @@
           (reference "#PWR0136") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0173") (unit 1)
+          (reference "#PWR0168") (unit 1)
         )
       )
     )
@@ -5578,7 +5434,7 @@
           (reference "#PWR0187") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0223") (unit 1)
+          (reference "#PWR0217") (unit 1)
         )
       )
     )
@@ -5636,7 +5492,7 @@
           (reference "U67") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "HALL64") (unit 1)
+          (reference "HALL61") (unit 1)
         )
       )
     )
@@ -5723,7 +5579,7 @@
           (reference "U79") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "HALL76") (unit 1)
+          (reference "HALL73") (unit 1)
         )
       )
     )
@@ -5751,7 +5607,7 @@
           (reference "#PWR0140") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0165") (unit 1)
+          (reference "#PWR0160") (unit 1)
         )
       )
     )
@@ -5808,7 +5664,7 @@
           (reference "#PWR0130") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0167") (unit 1)
+          (reference "#PWR0162") (unit 1)
         )
       )
     )
@@ -5923,7 +5779,7 @@
           (reference "#PWR0159") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0207") (unit 1)
+          (reference "#PWR0201") (unit 1)
         )
       )
     )
@@ -6068,7 +5924,7 @@
           (reference "#PWR0125") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0149") (unit 1)
+          (reference "#PWR0146") (unit 1)
         )
       )
     )
@@ -6125,7 +5981,7 @@
           (reference "#PWR0189") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0225") (unit 1)
+          (reference "#PWR0219") (unit 1)
         )
       )
     )
@@ -6153,7 +6009,7 @@
           (reference "#PWR0179") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0209") (unit 1)
+          (reference "#PWR0203") (unit 1)
         )
       )
     )
@@ -6498,7 +6354,7 @@
           (reference "#PWR092") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0126") (unit 1)
+          (reference "#PWR0125") (unit 1)
         )
       )
     )
@@ -6584,7 +6440,7 @@
           (reference "#PWR0161") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0208") (unit 1)
+          (reference "#PWR0202") (unit 1)
         )
       )
     )
@@ -6640,7 +6496,7 @@
           (reference "#PWR0116") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0153") (unit 1)
+          (reference "#PWR0150") (unit 1)
         )
       )
     )
@@ -6668,7 +6524,7 @@
           (reference "#PWR0164") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0201") (unit 1)
+          (reference "#PWR0195") (unit 1)
         )
       )
     )
@@ -6781,7 +6637,7 @@
           (reference "#PWR0108") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0143") (unit 1)
+          (reference "#PWR0141") (unit 1)
         )
       )
     )
@@ -6809,7 +6665,7 @@
           (reference "#PWR0104") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0139") (unit 1)
+          (reference "#PWR0137") (unit 1)
         )
       )
     )
@@ -6895,7 +6751,7 @@
           (reference "U69") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "HALL66") (unit 1)
+          (reference "HALL63") (unit 1)
         )
       )
     )
@@ -7039,7 +6895,7 @@
           (reference "#PWR0146") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0187") (unit 1)
+          (reference "#PWR0181") (unit 1)
         )
       )
     )
@@ -7153,7 +7009,7 @@
           (reference "#PWR0162") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0200") (unit 1)
+          (reference "#PWR0194") (unit 1)
         )
       )
     )
@@ -7174,14 +7030,14 @@
     (property "Datasheet" "" (at 38.1 161.925 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 705f66e1-3b25-464b-8837-d1402494648e))
+    (pin "1" (uuid 6b20d1ba-56af-404f-8179-600bc8af5d23))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
           (reference "#PWR0154") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0181") (unit 1)
+          (reference "#PWR0175") (unit 1)
         )
       )
     )
@@ -7209,7 +7065,7 @@
           (reference "#PWR0131") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0168") (unit 1)
+          (reference "#PWR0163") (unit 1)
         )
       )
     )
@@ -7329,7 +7185,7 @@
           (reference "U64") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "HALL57") (unit 1)
+          (reference "HALL56") (unit 1)
         )
       )
     )
@@ -7501,7 +7357,7 @@
           (reference "#PWR095") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0129") (unit 1)
+          (reference "#PWR0128") (unit 1)
         )
       )
     )
@@ -7702,7 +7558,7 @@
           (reference "#PWR0100") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0135") (unit 1)
+          (reference "#PWR0133") (unit 1)
         )
       )
     )
@@ -7759,7 +7615,7 @@
           (reference "#PWR0128") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0147") (unit 1)
+          (reference "#PWR0145") (unit 1)
         )
       )
     )
@@ -7846,7 +7702,7 @@
           (reference "#PWR0111") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0146") (unit 1)
+          (reference "#PWR0144") (unit 1)
         )
       )
     )
@@ -7911,7 +7767,7 @@
   (symbol (lib_id "PCM_marbastlib-mx:MX_stab") (at 351.155 101.6 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 715fb33b-dd33-4936-a1f9-4427622656b8)
-    (property "Reference" "S42" (at 353.695 100.33 90)
+    (property "Reference" "S41" (at 353.695 100.33 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "STAB_MX_ISO" (at 353.695 102.87 90)
@@ -7926,7 +7782,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "S42") (unit 1)
+          (reference "S41") (unit 1)
         )
       )
     )
@@ -7954,7 +7810,7 @@
           (reference "#PWR0163") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0210") (unit 1)
+          (reference "#PWR0204") (unit 1)
         )
       )
     )
@@ -8069,7 +7925,7 @@
           (reference "#PWR0127") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0132") (unit 1)
+          (reference "#PWR0131") (unit 1)
         )
       )
     )
@@ -8097,7 +7953,7 @@
           (reference "#PWR0165") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0211") (unit 1)
+          (reference "#PWR0205") (unit 1)
         )
       )
     )
@@ -8132,30 +7988,6 @@
     )
   )
 
-  (symbol (lib_id "PCM_marbastlib-mx:MX_stab") (at 28.575 166.37 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
-    (uuid 79e6f963-055e-431a-bb59-d4fc3d14f2f5)
-    (property "Reference" "S60" (at 31.75 165.1 90)
-      (effects (font (size 1.27 1.27)) (justify right))
-    )
-    (property "Value" "MX_stab" (at 31.75 167.64 90)
-      (effects (font (size 1.27 1.27)) (justify right))
-    )
-    (property "Footprint" "PCM_marbastlib-mx:STAB_MX_P_2.25u" (at 28.575 166.37 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 28.575 166.37 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (instances
-      (project "MoonBoard"
-        (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "S60") (unit 1)
-        )
-      )
-    )
-  )
-
   (symbol (lib_id "MoonBoard:SLSS49E-3_with_switch") (at 167.005 125.73 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7ac18a81-9b9f-4e20-a70f-3e3aae503814)
@@ -8180,7 +8012,7 @@
           (reference "U54") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "HALL49") (unit 1)
+          (reference "HALL48") (unit 1)
         )
       )
     )
@@ -8210,37 +8042,7 @@
           (reference "U57") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "HALL52") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "MoonBoard:SLSS49E-3_with_switch") (at 389.89 95.25 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid 7ef67b29-7a17-4a1e-8d2b-14bfa2e0908f)
-    (property "Reference" "U63" (at 390.525 88.9 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Value" "SLSS49E-3" (at 384.81 94.615 90)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Footprint" "MoonBoard:SLSS49E-3 with MX holes" (at 389.89 112.395 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 389.89 95.25 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 19f53a90-3895-414a-a6ed-e56e2c530071))
-    (pin "2" (uuid 9db07940-35e5-4c0a-9864-93a6c53273c2))
-    (pin "3" (uuid 2329f458-424b-450a-936f-1ba5c4d10f32))
-    (instances
-      (project "MoonBoard"
-        (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
-          (reference "U63") (unit 1)
-        )
-        (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "HALL43") (unit 1)
+          (reference "HALL51") (unit 1)
         )
       )
     )
@@ -8268,7 +8070,7 @@
           (reference "#PWR0169") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0204") (unit 1)
+          (reference "#PWR0198") (unit 1)
         )
       )
     )
@@ -8473,7 +8275,7 @@
           (reference "U65") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "HALL62") (unit 1)
+          (reference "HALL59") (unit 1)
         )
       )
     )
@@ -8533,7 +8335,7 @@
           (reference "U61") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "HALL56") (unit 1)
+          (reference "HALL55") (unit 1)
         )
       )
     )
@@ -8561,7 +8363,7 @@
           (reference "#PWR0183") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0217") (unit 1)
+          (reference "#PWR0211") (unit 1)
         )
       )
     )
@@ -8591,7 +8393,7 @@
           (reference "U66") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "HALL63") (unit 1)
+          (reference "HALL60") (unit 1)
         )
       )
     )
@@ -8647,7 +8449,7 @@
           (reference "#PWR0158") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0197") (unit 1)
+          (reference "#PWR0191") (unit 1)
         )
       )
     )
@@ -8677,7 +8479,7 @@
           (reference "U88") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "HALL73") (unit 1)
+          (reference "HALL70") (unit 1)
         )
       )
     )
@@ -8732,7 +8534,7 @@
           (reference "U50") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "HALL45") (unit 1)
+          (reference "HALL44") (unit 1)
         )
       )
     )
@@ -8760,7 +8562,7 @@
           (reference "#PWR094") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0128") (unit 1)
+          (reference "#PWR0127") (unit 1)
         )
       )
     )
@@ -8848,7 +8650,7 @@
           (reference "U70") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "HALL67") (unit 1)
+          (reference "HALL64") (unit 1)
         )
       )
     )
@@ -8963,7 +8765,7 @@
           (reference "U72") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "HALL69") (unit 1)
+          (reference "HALL66") (unit 1)
         )
       )
     )
@@ -9048,7 +8850,7 @@
           (reference "#PWR0114") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0151") (unit 1)
+          (reference "#PWR0148") (unit 1)
         )
       )
     )
@@ -9078,7 +8880,7 @@
           (reference "U53") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "HALL48") (unit 1)
+          (reference "HALL47") (unit 1)
         )
       )
     )
@@ -9106,7 +8908,7 @@
           (reference "#PWR0129") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0162") (unit 1)
+          (reference "#PWR0159") (unit 1)
         )
       )
     )
@@ -9163,7 +8965,7 @@
           (reference "#PWR0153") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0193") (unit 1)
+          (reference "#PWR0187") (unit 1)
         )
       )
     )
@@ -9193,7 +8995,7 @@
           (reference "U78") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "HALL75") (unit 1)
+          (reference "HALL72") (unit 1)
         )
       )
     )
@@ -9221,7 +9023,7 @@
           (reference "#PWR0186") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0222") (unit 1)
+          (reference "#PWR0216") (unit 1)
         )
       )
     )
@@ -9337,7 +9139,7 @@
           (reference "U52") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "HALL47") (unit 1)
+          (reference "HALL46") (unit 1)
         )
       )
     )
@@ -9423,7 +9225,7 @@
           (reference "U82") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "HALL80") (unit 1)
+          (reference "HALL77") (unit 1)
         )
       )
     )
@@ -9594,7 +9396,7 @@
           (reference "#PWR0156") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0196") (unit 1)
+          (reference "#PWR0190") (unit 1)
         )
       )
     )
@@ -9622,7 +9424,7 @@
           (reference "#PWR0166") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0202") (unit 1)
+          (reference "#PWR0196") (unit 1)
         )
       )
     )
@@ -9650,7 +9452,7 @@
           (reference "#PWR0110") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0145") (unit 1)
+          (reference "#PWR0143") (unit 1)
         )
       )
     )
@@ -9732,7 +9534,7 @@
           (reference "#PWR096") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0130") (unit 1)
+          (reference "#PWR0129") (unit 1)
         )
       )
     )
@@ -9760,7 +9562,7 @@
           (reference "#PWR0172") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0214") (unit 1)
+          (reference "#PWR0208") (unit 1)
         )
       )
     )
@@ -9903,7 +9705,7 @@
           (reference "#PWR0117") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0154") (unit 1)
+          (reference "#PWR0151") (unit 1)
         )
       )
     )
@@ -9931,7 +9733,7 @@
           (reference "#PWR0171") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0213") (unit 1)
+          (reference "#PWR0207") (unit 1)
         )
       )
     )
@@ -9959,7 +9761,7 @@
           (reference "#PWR0174") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0179") (unit 1)
+          (reference "#PWR0174") (unit 1)
         )
       )
     )
@@ -9987,7 +9789,7 @@
           (reference "#PWR086") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0120") (unit 1)
+          (reference "#PWR0119") (unit 1)
         )
       )
     )
@@ -10100,7 +9902,7 @@
           (reference "#PWR0144") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0185") (unit 1)
+          (reference "#PWR0179") (unit 1)
         )
       )
     )
@@ -10186,7 +9988,7 @@
           (reference "#PWR0168") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0203") (unit 1)
+          (reference "#PWR0197") (unit 1)
         )
       )
     )
@@ -10214,7 +10016,7 @@
           (reference "#PWR0135") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0172") (unit 1)
+          (reference "#PWR0167") (unit 1)
         )
       )
     )
@@ -10242,7 +10044,7 @@
           (reference "#PWR089") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0123") (unit 1)
+          (reference "#PWR0122") (unit 1)
         )
       )
     )
@@ -10272,35 +10074,7 @@
           (reference "U60") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "HALL55") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "power:GND") (at 387.985 102.235 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid b305b2ee-4b0f-4640-b192-db7996750b85)
-    (property "Reference" "#PWR0127" (at 387.985 108.585 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Value" "GND" (at 391.16 104.14 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Footprint" "" (at 387.985 102.235 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 387.985 102.235 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 322260c5-407a-4c3d-a255-272d16f0a8c2))
-    (instances
-      (project "MoonBoard"
-        (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
-          (reference "#PWR0127") (unit 1)
-        )
-        (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0133") (unit 1)
+          (reference "HALL54") (unit 1)
         )
       )
     )
@@ -10473,7 +10247,7 @@
           (reference "#PWR0145") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0186") (unit 1)
+          (reference "#PWR0180") (unit 1)
         )
       )
     )
@@ -10531,7 +10305,7 @@
           (reference "U74") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "HALL71") (unit 1)
+          (reference "HALL68") (unit 1)
         )
       )
     )
@@ -10617,7 +10391,7 @@
           (reference "#PWR0124") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0161") (unit 1)
+          (reference "#PWR0158") (unit 1)
         )
       )
     )
@@ -10645,7 +10419,7 @@
           (reference "#PWR0118") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0155") (unit 1)
+          (reference "#PWR0152") (unit 1)
         )
       )
     )
@@ -10679,34 +10453,6 @@
     )
   )
 
-  (symbol (lib_id "power:+3V3") (at 393.065 118.11 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid bcc714ad-ee56-463c-b1b8-f735d745bf08)
-    (property "Reference" "#PWR0126" (at 393.065 121.92 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Value" "+3V3" (at 396.24 116.205 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Footprint" "" (at 393.065 118.11 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 393.065 118.11 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 3b3f8664-8baf-4326-aab1-b889ca0c9ca3))
-    (instances
-      (project "MoonBoard"
-        (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
-          (reference "#PWR0126") (unit 1)
-        )
-        (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0148") (unit 1)
-        )
-      )
-    )
-  )
-
   (symbol (lib_id "MoonBoard:SLSS49E-3_with_switch") (at 210.185 125.73 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid bd13cbef-3dcc-440e-a5d6-1b3b53b6c9d8)
@@ -10731,7 +10477,7 @@
           (reference "U56") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "HALL51") (unit 1)
+          (reference "HALL50") (unit 1)
         )
       )
     )
@@ -10789,7 +10535,7 @@
           (reference "#PWR0150") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0191") (unit 1)
+          (reference "#PWR0185") (unit 1)
         )
       )
     )
@@ -10846,7 +10592,7 @@
           (reference "#PWR0142") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0183") (unit 1)
+          (reference "#PWR0177") (unit 1)
         )
       )
     )
@@ -10874,7 +10620,7 @@
           (reference "#PWR0105") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0140") (unit 1)
+          (reference "#PWR0138") (unit 1)
         )
       )
     )
@@ -10932,7 +10678,7 @@
           (reference "#PWR085") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0119") (unit 1)
+          (reference "#PWR0118") (unit 1)
         )
       )
     )
@@ -10962,7 +10708,7 @@
           (reference "U73") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "HALL70") (unit 1)
+          (reference "HALL67") (unit 1)
         )
       )
     )
@@ -11139,7 +10885,7 @@
           (reference "U83") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "HALL81") (unit 1)
+          (reference "HALL78") (unit 1)
         )
       )
     )
@@ -11199,7 +10945,7 @@
           (reference "#PWR0149") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0190") (unit 1)
+          (reference "#PWR0184") (unit 1)
         )
       )
     )
@@ -11286,7 +11032,7 @@
           (reference "U87") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "HALL74") (unit 1)
+          (reference "HALL71") (unit 1)
         )
       )
     )
@@ -11314,7 +11060,7 @@
           (reference "#PWR0107") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0142") (unit 1)
+          (reference "#PWR0140") (unit 1)
         )
       )
     )
@@ -11428,7 +11174,7 @@
           (reference "#PWR0137") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0174") (unit 1)
+          (reference "#PWR0169") (unit 1)
         )
       )
     )
@@ -11458,7 +11204,7 @@
           (reference "U81") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "HALL79") (unit 1)
+          (reference "HALL76") (unit 1)
         )
       )
     )
@@ -11517,34 +11263,6 @@
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
           (reference "#PWR0116") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "power:+3V3") (at 16.51 147.32 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid d17ad513-d5b5-4f94-be2d-d44c91312815)
-    (property "Reference" "#PWR0126" (at 16.51 151.13 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Value" "+3V3" (at 19.685 145.415 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Footprint" "" (at 16.51 147.32 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 16.51 147.32 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 7fc01104-54dc-40a3-a0eb-f40abf96ca12))
-    (instances
-      (project "MoonBoard"
-        (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
-          (reference "#PWR0126") (unit 1)
-        )
-        (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0164") (unit 1)
         )
       )
     )
@@ -11631,7 +11349,7 @@
           (reference "#PWR091") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0125") (unit 1)
+          (reference "#PWR0124") (unit 1)
         )
       )
     )
@@ -11779,7 +11497,7 @@
           (reference "U51") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "HALL46") (unit 1)
+          (reference "HALL45") (unit 1)
         )
       )
     )
@@ -11837,7 +11555,7 @@
           (reference "#PWR0121") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0158") (unit 1)
+          (reference "#PWR0155") (unit 1)
         )
       )
     )
@@ -11867,7 +11585,7 @@
           (reference "U62") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "HALL44") (unit 1)
+          (reference "HALL43") (unit 1)
         )
       )
     )
@@ -11897,7 +11615,7 @@
           (reference "U55") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "HALL50") (unit 1)
+          (reference "HALL49") (unit 1)
         )
       )
     )
@@ -12014,36 +11732,6 @@
     )
   )
 
-  (symbol (lib_id "MoonBoard:SLSS49E-3_with_switch") (at 18.415 154.94 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid dd0e171e-eef8-478b-9bb6-a4dcb7872525)
-    (property "Reference" "U63" (at 19.05 148.59 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Value" "SLSS49E-3" (at 13.335 154.305 90)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Footprint" "MoonBoard:SLSS49E-3 with 1.25u MX holes" (at 18.415 172.085 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 18.415 154.94 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid f3b6bbd2-c5f9-41e5-b2c9-ffc612a8f278))
-    (pin "2" (uuid 9cc4fbe9-661f-4a34-9757-e65eb6b0a415))
-    (pin "3" (uuid 74a3032c-e8c1-4c3c-bbd8-40fba14baf67))
-    (instances
-      (project "MoonBoard"
-        (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
-          (reference "U63") (unit 1)
-        )
-        (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "HALL59") (unit 1)
-        )
-      )
-    )
-  )
-
   (symbol (lib_id "Device:C_Small") (at 114.3 220.345 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid dda81786-576b-4ca4-949d-7388e4c81d0d)
@@ -12124,7 +11812,7 @@
           (reference "#PWR099") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0118") (unit 1)
+          (reference "#PWR0117") (unit 1)
         )
       )
     )
@@ -12210,7 +11898,7 @@
           (reference "#PWR0188") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0224") (unit 1)
+          (reference "#PWR0218") (unit 1)
         )
       )
     )
@@ -12238,7 +11926,7 @@
           (reference "#PWR097") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0131") (unit 1)
+          (reference "#PWR0130") (unit 1)
         )
       )
     )
@@ -12294,7 +11982,7 @@
           (reference "#PWR0112") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0134") (unit 1)
+          (reference "#PWR0132") (unit 1)
         )
       )
     )
@@ -12351,7 +12039,7 @@
           (reference "#PWR0119") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0156") (unit 1)
+          (reference "#PWR0153") (unit 1)
         )
       )
     )
@@ -12466,7 +12154,7 @@
           (reference "#PWR0184") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0220") (unit 1)
+          (reference "#PWR0214") (unit 1)
         )
       )
     )
@@ -12494,7 +12182,7 @@
           (reference "#PWR0143") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0184") (unit 1)
+          (reference "#PWR0178") (unit 1)
         )
       )
     )
@@ -12547,7 +12235,7 @@
           (reference "#PWR0134") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0171") (unit 1)
+          (reference "#PWR0166") (unit 1)
         )
       )
     )
@@ -12575,7 +12263,7 @@
           (reference "#PWR0109") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0144") (unit 1)
+          (reference "#PWR0142") (unit 1)
         )
       )
     )
@@ -12602,7 +12290,7 @@
           (reference "S3") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "S78") (unit 1)
+          (reference "S75") (unit 1)
         )
       )
     )
@@ -12630,31 +12318,7 @@
           (reference "#PWR0182") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0216") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "PCM_marbastlib-mx:MX_stab") (at 351.79 125.73 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid e8aff5f3-9063-48a2-8974-c2b8beb877ad)
-    (property "Reference" "S57" (at 354.33 124.46 90)
-      (effects (font (size 1.27 1.27)) (justify right))
-    )
-    (property "Value" "MX_stab" (at 354.33 127 90)
-      (effects (font (size 1.27 1.27)) (justify right))
-    )
-    (property "Footprint" "PCM_marbastlib-mx:STAB_MX_P_2.25u" (at 351.79 125.73 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 351.79 125.73 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (instances
-      (project "MoonBoard"
-        (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "S57") (unit 1)
+          (reference "#PWR0210") (unit 1)
         )
       )
     )
@@ -12742,7 +12406,7 @@
           (reference "U59") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "HALL54") (unit 1)
+          (reference "HALL53") (unit 1)
         )
       )
     )
@@ -12776,34 +12440,6 @@
     )
   )
 
-  (symbol (lib_id "power:GND") (at 393.065 132.715 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid ec889bfd-68f6-437f-8744-03742a89d28a)
-    (property "Reference" "#PWR0127" (at 393.065 139.065 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Value" "GND" (at 396.24 134.62 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Footprint" "" (at 393.065 132.715 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 393.065 132.715 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid a1f3aa8c-c37b-44e7-8292-41d4b2cabfdc))
-    (instances
-      (project "MoonBoard"
-        (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4"
-          (reference "#PWR0127") (unit 1)
-        )
-        (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0163") (unit 1)
-        )
-      )
-    )
-  )
-
   (symbol (lib_id "MoonBoard:SLSS49E-3_with_switch") (at 176.53 184.785 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ee72b230-3de4-44cf-826f-726e989ea249)
@@ -12828,7 +12464,7 @@
           (reference "U89") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "HALL78") (unit 1)
+          (reference "HALL75") (unit 1)
         )
       )
     )
@@ -12944,7 +12580,7 @@
           (reference "#PWR0106") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0141") (unit 1)
+          (reference "#PWR0139") (unit 1)
         )
       )
     )
@@ -12972,7 +12608,7 @@
           (reference "#PWR0160") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0198") (unit 1)
+          (reference "#PWR0192") (unit 1)
         )
       )
     )
@@ -13000,7 +12636,7 @@
           (reference "#PWR0139") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0176") (unit 1)
+          (reference "#PWR0171") (unit 1)
         )
       )
     )
@@ -13056,7 +12692,7 @@
           (reference "#PWR0152") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0166") (unit 1)
+          (reference "#PWR0161") (unit 1)
         )
       )
     )
@@ -13142,7 +12778,7 @@
           (reference "U76") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "HALL72") (unit 1)
+          (reference "HALL69") (unit 1)
         )
       )
     )
@@ -13200,7 +12836,7 @@
           (reference "#PWR0178") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0199") (unit 1)
+          (reference "#PWR0193") (unit 1)
         )
       )
     )
@@ -13288,7 +12924,7 @@
           (reference "U84") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "HALL82") (unit 1)
+          (reference "HALL79") (unit 1)
         )
       )
     )
@@ -13388,7 +13024,7 @@
     (property "Value" "SLSS49E-3" (at 34.925 154.305 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "MoonBoard:SLSS49E-3 with MX holes" (at 40.005 172.085 0)
+    (property "Footprint" "MoonBoard:SLSS49E-3 with 1.25u MX holes" (at 40.005 172.085 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 40.005 154.94 0)
@@ -13403,7 +13039,7 @@
           (reference "U75") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "HALL60") (unit 1)
+          (reference "HALL57") (unit 1)
         )
       )
     )
@@ -13489,7 +13125,7 @@
           (reference "#PWR0176") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0178") (unit 1)
+          (reference "#PWR0173") (unit 1)
         )
       )
     )
@@ -13547,7 +13183,7 @@
           (reference "#PWR0123") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0160") (unit 1)
+          (reference "#PWR0157") (unit 1)
         )
       )
     )
@@ -13604,7 +13240,7 @@
           (reference "#PWR0170") (unit 1)
         )
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/a3ff23f6-e197-442a-be06-c537bf3e0b1c"
-          (reference "#PWR0205") (unit 1)
+          (reference "#PWR0199") (unit 1)
         )
       )
     )
