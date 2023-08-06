@@ -1,4 +1,4 @@
-22313720598487189
+22315411972523193
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -61235,6 +61235,13 @@ SLSS49E-3 with MX holes
 0
 3
 3
+MoonBoard
+key_power
+
+
+0
+0
+0
 Motors
 Vybronics_VZ30C1T8219732L
 Vibration motor, 2.3-3.2V, 14000rpm, 0.7G, https://www.vybronics.com/wp-content/uploads/datasheet-files/Vybronics-VZ30C1T8219732L-datasheet.pdf
