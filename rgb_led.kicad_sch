@@ -1414,7 +1414,7 @@
   (symbol (lib_id "Device:C_Small") (at 37.465 146.05 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 02d204a7-9f58-43f6-adbf-e4bfd8b6f6c7)
-    (property "Reference" "C230" (at 37.465 141.605 90)
+    (property "Reference" "C221" (at 37.465 141.605 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100n" (at 37.465 143.51 90)
@@ -1431,7 +1431,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
-          (reference "C230") (unit 1)
+          (reference "C221") (unit 1)
         )
       )
     )
@@ -1446,7 +1446,7 @@
     (property "Value" "MX_SK6812MINI-E" (at 133.985 17.145 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "PCM_marbastlib-mx:LED_MX_6028R-ROT" (at 133.985 31.75 0)
+    (property "Footprint" "PCM_marbastlib-mx:LED_MX_6028R" (at 133.985 31.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 133.985 31.75 0)
@@ -1543,7 +1543,7 @@
   (symbol (lib_id "Device:C_Small") (at 139.065 115.57 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 0723c22e-55c1-4020-af50-870e6c88b6fc)
-    (property "Reference" "C225" (at 139.065 111.125 90)
+    (property "Reference" "C216" (at 139.065 111.125 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100n" (at 139.065 113.03 90)
@@ -1560,7 +1560,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
-          (reference "C225") (unit 1)
+          (reference "C216") (unit 1)
         )
       )
     )
@@ -1594,7 +1594,7 @@
   (symbol (lib_id "Device:C_Small") (at 139.065 146.05 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 07af1846-26fd-40f3-bfb8-ee78a064ee7a)
-    (property "Reference" "C235" (at 139.065 141.605 90)
+    (property "Reference" "C226" (at 139.065 141.605 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100n" (at 139.065 143.51 90)
@@ -1611,7 +1611,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
-          (reference "C235") (unit 1)
+          (reference "C226") (unit 1)
         )
       )
     )
@@ -1620,7 +1620,7 @@
   (symbol (lib_id "Device:C_Small") (at 118.745 237.49 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 07c9d5b9-ad33-4614-938c-e4efcc617c99)
-    (property "Reference" "C264" (at 118.745 233.045 90)
+    (property "Reference" "C255" (at 118.745 233.045 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100n" (at 118.745 234.95 90)
@@ -1637,7 +1637,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
-          (reference "C264") (unit 1)
+          (reference "C255") (unit 1)
         )
       )
     )
@@ -1803,7 +1803,7 @@
     (property "Value" "MX_SK6812MINI-E" (at 73.025 17.145 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "PCM_marbastlib-mx:LED_MX_6028R-ROT" (at 73.025 31.75 0)
+    (property "Footprint" "PCM_marbastlib-mx:LED_MX_6028R" (at 73.025 31.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 73.025 31.75 0)
@@ -1850,7 +1850,7 @@
   (symbol (lib_id "Device:C_Small") (at 57.785 176.53 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 0fb50060-f9fa-471e-a6f8-9d9b3c100c80)
-    (property "Reference" "C241" (at 57.785 172.085 90)
+    (property "Reference" "C232" (at 57.785 172.085 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100n" (at 57.785 173.99 90)
@@ -1867,7 +1867,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
-          (reference "C241") (unit 1)
+          (reference "C232") (unit 1)
         )
       )
     )
@@ -1951,7 +1951,7 @@
   (symbol (lib_id "Device:C_Small") (at 220.345 54.61 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 15beb73d-8f2a-4911-a093-e71cb45f1604)
-    (property "Reference" "C209" (at 220.345 50.165 90)
+    (property "Reference" "C200" (at 220.345 50.165 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100n" (at 220.345 52.07 90)
@@ -1968,7 +1968,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
-          (reference "C209") (unit 1)
+          (reference "C200") (unit 1)
         )
       )
     )
@@ -2102,7 +2102,7 @@
   (symbol (lib_id "Device:C_Small") (at 200.025 85.09 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 19311b97-11d3-4666-889f-38ea6a284171)
-    (property "Reference" "C218" (at 200.025 80.645 90)
+    (property "Reference" "C209" (at 200.025 80.645 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100n" (at 200.025 82.55 90)
@@ -2119,7 +2119,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
-          (reference "C218") (unit 1)
+          (reference "C209") (unit 1)
         )
       )
     )
@@ -2134,7 +2134,7 @@
     (property "Value" "MX_SK6812MINI-E" (at 215.265 108.585 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "PCM_marbastlib-mx:LED_MX_6028R-ROT" (at 215.265 123.19 0)
+    (property "Footprint" "PCM_marbastlib-mx:LED_MX_6028R" (at 215.265 123.19 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 215.265 123.19 0)
@@ -2206,7 +2206,7 @@
   (symbol (lib_id "Device:C_Small") (at 118.745 146.05 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 1b7d8ca0-d17d-461b-85ce-86f4b7d8fb84)
-    (property "Reference" "C234" (at 118.745 141.605 90)
+    (property "Reference" "C225" (at 118.745 141.605 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100n" (at 118.745 143.51 90)
@@ -2223,7 +2223,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
-          (reference "C234") (unit 1)
+          (reference "C225") (unit 1)
         )
       )
     )
@@ -2394,10 +2394,10 @@
     (property "Datasheet" "" (at 93.345 92.71 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f887c7f9-c496-4c88-ac99-542eed8534f9))
-    (pin "2" (uuid 16a709da-4814-4561-94a0-ba08dc2d9f43))
-    (pin "3" (uuid f4e24479-5034-4f02-ac14-9039e3fbf28d))
-    (pin "4" (uuid ebe0ea23-f2b6-4810-b450-555646154128))
+    (pin "1" (uuid f4f7265e-294a-4b01-ac43-0447a807a2a4))
+    (pin "2" (uuid f7fa2cc1-5d1e-4d0c-bc56-96db55b12c8e))
+    (pin "3" (uuid 185d526c-bed2-4557-b1bf-0b10ce28b2fa))
+    (pin "4" (uuid e795c428-5588-4bad-abcb-4c49e7539836))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
@@ -2516,7 +2516,7 @@
     (property "Value" "MX_SK6812MINI-E" (at 32.385 17.145 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "PCM_marbastlib-mx:LED_MX_6028R-ROT" (at 32.385 31.75 0)
+    (property "Footprint" "PCM_marbastlib-mx:LED_MX_6028R" (at 32.385 31.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 32.385 31.75 0)
@@ -2550,10 +2550,10 @@
     (property "Datasheet" "" (at 133.985 62.23 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 0e459669-0a1a-4bdd-8679-d2bb71caae7b))
-    (pin "2" (uuid 49fb2e80-68c2-412b-b5f2-f5c36473f097))
-    (pin "3" (uuid e395c0e3-17b2-490a-8d7c-75affd94158a))
-    (pin "4" (uuid 19db8671-a55f-4341-89d0-d0b9f19ea2c1))
+    (pin "1" (uuid f466f64f-e400-41e3-b72d-f1ebf7167e5e))
+    (pin "2" (uuid 094ecdb8-dd60-4777-b5fd-36f5ca7b00c9))
+    (pin "3" (uuid 4f9f5218-2892-4eed-992f-e27341fbfef3))
+    (pin "4" (uuid bd1c5c55-961c-4d0f-8f68-db86142fbe48))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
@@ -2678,10 +2678,10 @@
     (property "Datasheet" "" (at 215.265 62.23 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid baa52bd7-3541-4a35-9061-23b980e8a510))
-    (pin "2" (uuid 7d741530-be3d-4493-a77e-ca55afe74ce9))
-    (pin "3" (uuid 3360a5e5-cb57-4d6a-9a9c-80f2ece8f255))
-    (pin "4" (uuid ac2c009f-0c0d-414c-930e-773f0ce34b67))
+    (pin "1" (uuid 33c17375-518e-4c87-8a82-da25bff47e86))
+    (pin "2" (uuid 94352459-5d08-42d3-8f26-39f65e9a62d7))
+    (pin "3" (uuid 63b6e594-d9d2-47f0-8dc1-f5ead928e099))
+    (pin "4" (uuid d915f38e-28db-4628-b072-aec430f660c5))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
@@ -2756,10 +2756,10 @@
     (property "Datasheet" "" (at 113.665 62.23 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e22c91be-1ae7-4311-88ef-a7e5368d9af5))
-    (pin "2" (uuid 3374fe93-d871-4a3b-bd52-01c9f0549d0a))
-    (pin "3" (uuid baae30fa-0901-4895-8b37-34f977e4f5ea))
-    (pin "4" (uuid 221f9da7-2e1a-4bdd-8654-ad463bd9440f))
+    (pin "1" (uuid e61f8bc5-670a-4bd4-96db-321fbd2aa526))
+    (pin "2" (uuid c7490af9-83c1-4a7d-b9fa-8cd6391ee2bf))
+    (pin "3" (uuid 2047ab86-400f-4b6e-bd7b-96ab5ed0d618))
+    (pin "4" (uuid e6d69102-d11c-44d2-99c7-98007c0d4ca3))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
@@ -2778,7 +2778,7 @@
     (property "Value" "MX_SK6812MINI-E" (at 215.265 17.145 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "PCM_marbastlib-mx:LED_MX_6028R-ROT" (at 215.265 31.75 0)
+    (property "Footprint" "PCM_marbastlib-mx:LED_MX_6028R" (at 215.265 31.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 215.265 31.75 0)
@@ -2962,10 +2962,10 @@
     (property "Datasheet" "" (at 154.305 92.71 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 7f39aafa-b1fd-4a46-bc78-a1fb7840a5b5))
-    (pin "2" (uuid a496eb07-af0e-4a10-85e4-6c2297fa2774))
-    (pin "3" (uuid 136603ee-44ad-4af9-b61c-b09703ec3315))
-    (pin "4" (uuid 5d28fffe-f29d-41a6-a583-b7a29dfb66eb))
+    (pin "1" (uuid bb190888-50c5-403a-9676-651ec7279dc0))
+    (pin "2" (uuid a779aafa-813c-4d8c-9052-0dc9bbc70d45))
+    (pin "3" (uuid bf7cd36a-f0b0-4d1d-8189-736c711da4d0))
+    (pin "4" (uuid 0cbcf868-671c-4c3b-ac22-6e092e1fb95b))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
@@ -2984,7 +2984,7 @@
     (property "Value" "MX_SK6812MINI-E" (at 215.265 230.505 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "PCM_marbastlib-mx:LED_MX_6028R-ROT" (at 215.265 245.11 0)
+    (property "Footprint" "PCM_marbastlib-mx:LED_MX_6028R" (at 215.265 245.11 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 215.265 245.11 0)
@@ -3006,7 +3006,7 @@
   (symbol (lib_id "Device:C_Small") (at 159.385 115.57 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2f91b8ba-7ebc-42bb-86d2-07107cbfb1bc)
-    (property "Reference" "C226" (at 159.385 111.125 90)
+    (property "Reference" "C217" (at 159.385 111.125 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100n" (at 159.385 113.03 90)
@@ -3023,7 +3023,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
-          (reference "C226") (unit 1)
+          (reference "C217") (unit 1)
         )
       )
     )
@@ -3210,7 +3210,7 @@
   (symbol (lib_id "Device:C_Small") (at 37.465 176.53 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 32308668-9369-4e12-b7da-935306a378b0)
-    (property "Reference" "C240" (at 37.465 172.085 90)
+    (property "Reference" "C231" (at 37.465 172.085 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100n" (at 37.465 173.99 90)
@@ -3227,7 +3227,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
-          (reference "C240") (unit 1)
+          (reference "C231") (unit 1)
         )
       )
     )
@@ -3261,7 +3261,7 @@
   (symbol (lib_id "Device:C_Small") (at 37.465 54.61 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 334a81e0-16f7-486d-b7d6-e969ae4285a0)
-    (property "Reference" "C200" (at 37.465 50.165 90)
+    (property "Reference" "C191" (at 37.465 50.165 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100n" (at 37.465 52.07 90)
@@ -3278,7 +3278,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
-          (reference "C200") (unit 1)
+          (reference "C191") (unit 1)
         )
       )
     )
@@ -3287,7 +3287,7 @@
   (symbol (lib_id "Device:C_Small") (at 118.745 176.53 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 33a9c39e-3801-4691-8439-a0fa46121acb)
-    (property "Reference" "C244" (at 118.745 172.085 90)
+    (property "Reference" "C235" (at 118.745 172.085 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100n" (at 118.745 173.99 90)
@@ -3304,7 +3304,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
-          (reference "C244") (unit 1)
+          (reference "C235") (unit 1)
         )
       )
     )
@@ -3338,7 +3338,7 @@
   (symbol (lib_id "Device:C_Small") (at 179.705 237.49 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 33b8d4d2-977b-449c-8269-95d4f512b167)
-    (property "Reference" "C267" (at 179.705 233.045 90)
+    (property "Reference" "C258" (at 179.705 233.045 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100n" (at 179.705 234.95 90)
@@ -3355,7 +3355,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
-          (reference "C267") (unit 1)
+          (reference "C258") (unit 1)
         )
       )
     )
@@ -3395,7 +3395,7 @@
     (property "Value" "MX_SK6812MINI-E" (at 174.625 17.145 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "PCM_marbastlib-mx:LED_MX_6028R-ROT" (at 174.625 31.75 0)
+    (property "Footprint" "PCM_marbastlib-mx:LED_MX_6028R" (at 174.625 31.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 174.625 31.75 0)
@@ -3501,7 +3501,7 @@
     (property "Value" "MX_SK6812MINI-E" (at 215.265 169.545 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "PCM_marbastlib-mx:LED_MX_6028R-ROT" (at 215.265 184.15 0)
+    (property "Footprint" "PCM_marbastlib-mx:LED_MX_6028R" (at 215.265 184.15 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 215.265 184.15 0)
@@ -3523,7 +3523,7 @@
   (symbol (lib_id "Device:C_Small") (at 159.385 176.53 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 383e4eb5-c8de-4236-bc4c-e625eefca0f7)
-    (property "Reference" "C246" (at 159.385 172.085 90)
+    (property "Reference" "C237" (at 159.385 172.085 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100n" (at 159.385 173.99 90)
@@ -3540,7 +3540,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
-          (reference "C246") (unit 1)
+          (reference "C237") (unit 1)
         )
       )
     )
@@ -3574,7 +3574,7 @@
   (symbol (lib_id "Device:C_Small") (at 78.105 207.01 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 39a52c4b-4483-47a5-86dd-464478e701fe)
-    (property "Reference" "C252" (at 78.105 202.565 90)
+    (property "Reference" "C243" (at 78.105 202.565 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100n" (at 78.105 204.47 90)
@@ -3591,7 +3591,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
-          (reference "C252") (unit 1)
+          (reference "C243") (unit 1)
         )
       )
     )
@@ -3753,7 +3753,7 @@
   (symbol (lib_id "Device:C_Small") (at 98.425 24.13 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 3d9da738-984c-4bf7-b224-8dc2be55085c)
-    (property "Reference" "C193" (at 98.425 19.685 90)
+    (property "Reference" "C184" (at 98.425 19.685 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100n" (at 98.425 21.59 90)
@@ -3770,7 +3770,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
-          (reference "C193") (unit 1)
+          (reference "C184") (unit 1)
         )
       )
     )
@@ -3832,7 +3832,7 @@
   (symbol (lib_id "Device:C_Small") (at 57.785 237.49 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 3f83b092-45e0-4b8b-8878-eec53e046b7a)
-    (property "Reference" "C261" (at 57.785 233.045 90)
+    (property "Reference" "C252" (at 57.785 233.045 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100n" (at 57.785 234.95 90)
@@ -3849,7 +3849,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
-          (reference "C261") (unit 1)
+          (reference "C252") (unit 1)
         )
       )
     )
@@ -3864,7 +3864,7 @@
     (property "Value" "MX_SK6812MINI-E" (at 154.305 17.145 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "PCM_marbastlib-mx:LED_MX_6028R-ROT" (at 154.305 31.75 0)
+    (property "Footprint" "PCM_marbastlib-mx:LED_MX_6028R" (at 154.305 31.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 154.305 31.75 0)
@@ -3936,7 +3936,7 @@
   (symbol (lib_id "Device:C_Small") (at 37.465 85.09 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 42b6cc71-6279-410e-8632-5f0f696fa4c3)
-    (property "Reference" "C210" (at 37.465 80.645 90)
+    (property "Reference" "C201" (at 37.465 80.645 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100n" (at 37.465 82.55 90)
@@ -3953,7 +3953,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
-          (reference "C210") (unit 1)
+          (reference "C201") (unit 1)
         )
       )
     )
@@ -3974,10 +3974,10 @@
     (property "Datasheet" "" (at 154.305 62.23 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 74a3b8c4-14ad-4636-b3c5-6d3333df9f04))
-    (pin "2" (uuid 7fd9380b-6e80-4c12-a8ea-9ef187f241df))
-    (pin "3" (uuid f647299f-26a5-4541-a208-c532ac7dd1a6))
-    (pin "4" (uuid 63f86c41-46fd-4342-8a4b-d1231fd66423))
+    (pin "1" (uuid 08c4b934-188b-4437-bb94-d6793c95ade7))
+    (pin "2" (uuid 2fc2e934-8338-4114-95e7-0b1c28e558b8))
+    (pin "3" (uuid 3bfdec6b-14f5-45fb-a8e8-a81453ca74c1))
+    (pin "4" (uuid feea4177-c1ae-4b39-8248-90db336bce3a))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
@@ -4015,7 +4015,7 @@
   (symbol (lib_id "Device:C_Small") (at 200.025 176.53 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 45758ba8-c69a-4410-bc16-b36d74157a81)
-    (property "Reference" "C248" (at 200.025 172.085 90)
+    (property "Reference" "C239" (at 200.025 172.085 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100n" (at 200.025 173.99 90)
@@ -4032,7 +4032,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
-          (reference "C248") (unit 1)
+          (reference "C239") (unit 1)
         )
       )
     )
@@ -4041,7 +4041,7 @@
   (symbol (lib_id "Device:C_Small") (at 78.105 24.13 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 459ba027-2aec-4e84-8305-464548658dab)
-    (property "Reference" "C192" (at 78.105 19.685 90)
+    (property "Reference" "C183" (at 78.105 19.685 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100n" (at 78.105 21.59 90)
@@ -4058,7 +4058,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
-          (reference "C192") (unit 1)
+          (reference "C183") (unit 1)
         )
       )
     )
@@ -4067,7 +4067,7 @@
   (symbol (lib_id "Device:C_Small") (at 37.465 24.13 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 45f3a639-88f1-42f3-918a-a5888bc00a71)
-    (property "Reference" "C190" (at 37.465 19.685 90)
+    (property "Reference" "C181" (at 37.465 19.685 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100n" (at 37.465 21.59 90)
@@ -4084,7 +4084,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
-          (reference "C190") (unit 1)
+          (reference "C181") (unit 1)
         )
       )
     )
@@ -4093,7 +4093,7 @@
   (symbol (lib_id "Device:C_Small") (at 220.345 237.49 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 46a238a3-8a2a-4de7-93c6-6ee0e3b327b0)
-    (property "Reference" "C269" (at 220.345 233.045 90)
+    (property "Reference" "C260" (at 220.345 233.045 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100n" (at 220.345 234.95 90)
@@ -4110,7 +4110,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
-          (reference "C269") (unit 1)
+          (reference "C260") (unit 1)
         )
       )
     )
@@ -4125,7 +4125,7 @@
     (property "Value" "MX_SK6812MINI-E" (at 93.345 108.585 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "PCM_marbastlib-mx:LED_MX_6028R-ROT" (at 93.345 123.19 0)
+    (property "Footprint" "PCM_marbastlib-mx:LED_MX_6028R" (at 93.345 123.19 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 93.345 123.19 0)
@@ -4197,7 +4197,7 @@
   (symbol (lib_id "Device:C_Small") (at 78.105 176.53 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 48d0b793-f1c5-4fdf-ac3e-f345923d9269)
-    (property "Reference" "C242" (at 78.105 172.085 90)
+    (property "Reference" "C233" (at 78.105 172.085 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100n" (at 78.105 173.99 90)
@@ -4214,7 +4214,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
-          (reference "C242") (unit 1)
+          (reference "C233") (unit 1)
         )
       )
     )
@@ -4229,7 +4229,7 @@
     (property "Value" "MX_SK6812MINI-E" (at 215.265 78.105 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "PCM_marbastlib-mx:LED_MX_6028R-ROT" (at 215.265 92.71 0)
+    (property "Footprint" "PCM_marbastlib-mx:LED_MX_6028R" (at 215.265 92.71 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 215.265 92.71 0)
@@ -4438,10 +4438,10 @@
     (property "Datasheet" "" (at 32.385 92.71 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 8f4c0b2e-ac37-49ad-b02c-b9cd4b33879a))
-    (pin "2" (uuid 194bcfc6-43bf-4304-a3c4-612c84669ff8))
-    (pin "3" (uuid 2321a6c1-29e5-4d9e-a7d2-a9e406a0813c))
-    (pin "4" (uuid a4bc00c8-2909-45b5-8271-493cde0198f4))
+    (pin "1" (uuid 386aad07-c829-4bc6-b514-c731623d322e))
+    (pin "2" (uuid ffd8aae5-dedb-44c5-97d4-1bcd07ca1d27))
+    (pin "3" (uuid 9148157e-ff6e-428b-b7cb-e28765e2e2d5))
+    (pin "4" (uuid 0e5f8610-9ffc-428f-bf71-44e7725396c9))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
@@ -4613,7 +4613,7 @@
     (property "Value" "MX_SK6812MINI-E" (at 73.025 47.625 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "PCM_marbastlib-mx:LED_MX_6028R-ROT" (at 73.025 62.23 0)
+    (property "Footprint" "PCM_marbastlib-mx:LED_MX_6028R" (at 73.025 62.23 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 73.025 62.23 0)
@@ -4716,7 +4716,7 @@
     (property "Value" "MX_SK6812MINI-E" (at 194.945 78.105 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "PCM_marbastlib-mx:LED_MX_6028R-ROT" (at 194.945 92.71 0)
+    (property "Footprint" "PCM_marbastlib-mx:LED_MX_6028R" (at 194.945 92.71 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 194.945 92.71 0)
@@ -4866,7 +4866,7 @@
   (symbol (lib_id "Device:C_Small") (at 159.385 146.05 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 58de8a8e-36b7-4ce7-94e6-a25e783cf542)
-    (property "Reference" "C236" (at 159.385 141.605 90)
+    (property "Reference" "C227" (at 159.385 141.605 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100n" (at 159.385 143.51 90)
@@ -4883,7 +4883,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
-          (reference "C236") (unit 1)
+          (reference "C227") (unit 1)
         )
       )
     )
@@ -4970,7 +4970,7 @@
   (symbol (lib_id "Device:C_Small") (at 179.705 54.61 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 5c4e48df-f14c-44c7-80c5-e8744f35dbaa)
-    (property "Reference" "C207" (at 179.705 50.165 90)
+    (property "Reference" "C198" (at 179.705 50.165 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100n" (at 179.705 52.07 90)
@@ -4987,7 +4987,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
-          (reference "C207") (unit 1)
+          (reference "C198") (unit 1)
         )
       )
     )
@@ -5002,7 +5002,7 @@
     (property "Value" "MX_SK6812MINI-E" (at 133.985 108.585 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "PCM_marbastlib-mx:LED_MX_6028R-ROT" (at 133.985 123.19 0)
+    (property "Footprint" "PCM_marbastlib-mx:LED_MX_6028R" (at 133.985 123.19 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 133.985 123.19 0)
@@ -5036,10 +5036,10 @@
     (property "Datasheet" "" (at 113.665 92.71 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 39947fd0-b1e1-4990-b338-ef2e07c2ea24))
-    (pin "2" (uuid 3d955d3c-76bf-43ef-bce5-0084bee18a54))
-    (pin "3" (uuid 7dfbe5da-5d0c-444a-8045-c4b2ab1c6386))
-    (pin "4" (uuid 7ffb098b-582d-4a4a-b9d5-65dfcc77be52))
+    (pin "1" (uuid f7594b4e-93d7-4aee-8f4e-f8dbf0f6e02e))
+    (pin "2" (uuid 8c2326ea-deb2-457d-88e1-8b4d3294313c))
+    (pin "3" (uuid 156a4ffd-5a7e-4cc8-89cc-d06220540f31))
+    (pin "4" (uuid 41013a84-4037-4e8f-8869-f53989e89746))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
@@ -5155,7 +5155,7 @@
   (symbol (lib_id "Device:C_Small") (at 37.465 267.97 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 5fd3c84a-98d2-43b1-9ad4-11e7ff0a5430)
-    (property "Reference" "C270" (at 37.465 263.525 90)
+    (property "Reference" "C261" (at 37.465 263.525 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100n" (at 37.465 265.43 90)
@@ -5172,7 +5172,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
-          (reference "C270") (unit 1)
+          (reference "C261") (unit 1)
         )
       )
     )
@@ -5362,7 +5362,7 @@
   (symbol (lib_id "Device:C_Small") (at 159.385 85.09 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 62728754-605b-4f12-a08b-a52959326afb)
-    (property "Reference" "C216" (at 159.385 80.645 90)
+    (property "Reference" "C207" (at 159.385 80.645 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100n" (at 159.385 82.55 90)
@@ -5379,7 +5379,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
-          (reference "C216") (unit 1)
+          (reference "C207") (unit 1)
         )
       )
     )
@@ -5444,7 +5444,7 @@
     (property "Value" "MX_SK6812MINI-E" (at 154.305 200.025 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "PCM_marbastlib-mx:LED_MX_6028R-ROT" (at 154.305 214.63 0)
+    (property "Footprint" "PCM_marbastlib-mx:LED_MX_6028R" (at 154.305 214.63 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 154.305 214.63 0)
@@ -5472,7 +5472,7 @@
     (property "Value" "MX_SK6812MINI-E" (at 52.705 47.625 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "PCM_marbastlib-mx:LED_MX_6028R-ROT" (at 52.705 62.23 0)
+    (property "Footprint" "PCM_marbastlib-mx:LED_MX_6028R" (at 52.705 62.23 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 52.705 62.23 0)
@@ -5494,7 +5494,7 @@
   (symbol (lib_id "Device:C_Small") (at 220.345 207.01 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 63f0d709-154c-49ad-8ef5-821e5de646d7)
-    (property "Reference" "C259" (at 220.345 202.565 90)
+    (property "Reference" "C250" (at 220.345 202.565 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100n" (at 220.345 204.47 90)
@@ -5511,7 +5511,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
-          (reference "C259") (unit 1)
+          (reference "C250") (unit 1)
         )
       )
     )
@@ -5526,7 +5526,7 @@
     (property "Value" "MX_SK6812MINI-E" (at 194.945 17.145 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "PCM_marbastlib-mx:LED_MX_6028R-ROT" (at 194.945 31.75 0)
+    (property "Footprint" "PCM_marbastlib-mx:LED_MX_6028R" (at 194.945 31.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 194.945 31.75 0)
@@ -5548,7 +5548,7 @@
   (symbol (lib_id "Device:C_Small") (at 37.465 115.57 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 64e35cda-ffdb-480a-9040-9fb66233c807)
-    (property "Reference" "C220" (at 37.465 111.125 90)
+    (property "Reference" "C211" (at 37.465 111.125 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100n" (at 37.465 113.03 90)
@@ -5565,7 +5565,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
-          (reference "C220") (unit 1)
+          (reference "C211") (unit 1)
         )
       )
     )
@@ -5611,10 +5611,10 @@
     (property "Datasheet" "" (at 93.345 62.23 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 66c6337a-ce46-4164-be31-47b887422290))
-    (pin "2" (uuid 26ad4fde-1965-48bd-8a23-3d498e4c4a80))
-    (pin "3" (uuid be533437-0080-45e5-a76b-e863dd75e987))
-    (pin "4" (uuid 330498cc-cfb8-4b31-94ed-49820143f379))
+    (pin "1" (uuid 2ba68a80-914c-4ed4-82c8-0f24a8f375d1))
+    (pin "2" (uuid 3064ad37-700d-49a1-a7cf-a423603c751e))
+    (pin "3" (uuid 80aea68c-2197-4a39-b683-ff0646dddc3a))
+    (pin "4" (uuid bf26e426-fd6f-4fd9-a021-ff85540ac4ea))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
@@ -5683,7 +5683,7 @@
     (property "Value" "MX_SK6812MINI-E" (at 133.985 200.025 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "PCM_marbastlib-mx:LED_MX_6028R-ROT" (at 133.985 214.63 0)
+    (property "Footprint" "PCM_marbastlib-mx:LED_MX_6028R" (at 133.985 214.63 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 133.985 214.63 0)
@@ -5730,7 +5730,7 @@
   (symbol (lib_id "Device:C_Small") (at 78.105 237.49 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 6b2497ad-88bc-489c-b638-f06ef2cf92c5)
-    (property "Reference" "C262" (at 78.105 233.045 90)
+    (property "Reference" "C253" (at 78.105 233.045 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100n" (at 78.105 234.95 90)
@@ -5747,7 +5747,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
-          (reference "C262") (unit 1)
+          (reference "C253") (unit 1)
         )
       )
     )
@@ -5787,7 +5787,7 @@
     (property "Value" "MX_SK6812MINI-E" (at 32.385 47.625 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "PCM_marbastlib-mx:LED_MX_6028R-ROT" (at 32.385 62.23 0)
+    (property "Footprint" "PCM_marbastlib-mx:LED_MX_6028R" (at 32.385 62.23 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 32.385 62.23 0)
@@ -5809,7 +5809,7 @@
   (symbol (lib_id "Device:C_Small") (at 98.425 207.01 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 6bcf90e8-7249-4663-8e78-0e1c7731e8bc)
-    (property "Reference" "C253" (at 98.425 202.565 90)
+    (property "Reference" "C244" (at 98.425 202.565 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100n" (at 98.425 204.47 90)
@@ -5826,7 +5826,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
-          (reference "C253") (unit 1)
+          (reference "C244") (unit 1)
         )
       )
     )
@@ -5891,7 +5891,7 @@
     (property "Value" "MX_SK6812MINI-E" (at 52.705 17.145 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "PCM_marbastlib-mx:LED_MX_6028R-ROT" (at 52.705 31.75 0)
+    (property "Footprint" "PCM_marbastlib-mx:LED_MX_6028R" (at 52.705 31.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 52.705 31.75 0)
@@ -5913,7 +5913,7 @@
   (symbol (lib_id "Device:C_Small") (at 159.385 237.49 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 6fd086b3-17d8-4749-aa8e-081986bc7afd)
-    (property "Reference" "C266" (at 159.385 233.045 90)
+    (property "Reference" "C257" (at 159.385 233.045 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100n" (at 159.385 234.95 90)
@@ -5930,7 +5930,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
-          (reference "C266") (unit 1)
+          (reference "C257") (unit 1)
         )
       )
     )
@@ -6045,7 +6045,7 @@
     (property "Value" "MX_SK6812MINI-E" (at 113.665 17.145 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "PCM_marbastlib-mx:LED_MX_6028R-ROT" (at 113.665 31.75 0)
+    (property "Footprint" "PCM_marbastlib-mx:LED_MX_6028R" (at 113.665 31.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 113.665 31.75 0)
@@ -6092,7 +6092,7 @@
   (symbol (lib_id "Device:C_Small") (at 78.105 54.61 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 739fcae4-9068-4273-8ca9-07bcb668dccb)
-    (property "Reference" "C202" (at 78.105 50.165 90)
+    (property "Reference" "C193" (at 78.105 50.165 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100n" (at 78.105 52.07 90)
@@ -6109,7 +6109,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
-          (reference "C202") (unit 1)
+          (reference "C193") (unit 1)
         )
       )
     )
@@ -6118,7 +6118,7 @@
   (symbol (lib_id "Device:C_Small") (at 179.705 146.05 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 73c015f9-c038-48a7-8f9a-773da10174ab)
-    (property "Reference" "C237" (at 179.705 141.605 90)
+    (property "Reference" "C228" (at 179.705 141.605 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100n" (at 179.705 143.51 90)
@@ -6135,7 +6135,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
-          (reference "C237") (unit 1)
+          (reference "C228") (unit 1)
         )
       )
     )
@@ -6144,7 +6144,7 @@
   (symbol (lib_id "Device:C_Small") (at 220.345 24.13 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 74202534-8f7c-49a5-8ff0-8bfa65dcacb7)
-    (property "Reference" "C199" (at 220.345 19.685 90)
+    (property "Reference" "C190" (at 220.345 19.685 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100n" (at 220.345 21.59 90)
@@ -6161,7 +6161,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
-          (reference "C199") (unit 1)
+          (reference "C190") (unit 1)
         )
       )
     )
@@ -6195,7 +6195,7 @@
   (symbol (lib_id "Device:C_Small") (at 200.025 237.49 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 74816a26-9c74-47f4-94b2-3eab1b1379bb)
-    (property "Reference" "C268" (at 200.025 233.045 90)
+    (property "Reference" "C259" (at 200.025 233.045 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100n" (at 200.025 234.95 90)
@@ -6212,7 +6212,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
-          (reference "C268") (unit 1)
+          (reference "C259") (unit 1)
         )
       )
     )
@@ -6246,7 +6246,7 @@
   (symbol (lib_id "Device:C_Small") (at 78.105 146.05 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 77d51eab-b5d9-4cea-b95c-20b041d37509)
-    (property "Reference" "C232" (at 78.105 141.605 90)
+    (property "Reference" "C223" (at 78.105 141.605 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100n" (at 78.105 143.51 90)
@@ -6263,7 +6263,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
-          (reference "C232") (unit 1)
+          (reference "C223") (unit 1)
         )
       )
     )
@@ -6347,7 +6347,7 @@
   (symbol (lib_id "Device:C_Small") (at 98.425 115.57 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 79de64d9-8dac-4afb-9f02-dacea57f3df7)
-    (property "Reference" "C223" (at 98.425 111.125 90)
+    (property "Reference" "C214" (at 98.425 111.125 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100n" (at 98.425 113.03 90)
@@ -6364,7 +6364,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
-          (reference "C223") (unit 1)
+          (reference "C214") (unit 1)
         )
       )
     )
@@ -6373,7 +6373,7 @@
   (symbol (lib_id "Device:C_Small") (at 78.105 85.09 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7a79cd95-1e03-4380-80e1-43382e53b69a)
-    (property "Reference" "C212" (at 78.105 80.645 90)
+    (property "Reference" "C203" (at 78.105 80.645 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100n" (at 78.105 82.55 90)
@@ -6390,7 +6390,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
-          (reference "C212") (unit 1)
+          (reference "C203") (unit 1)
         )
       )
     )
@@ -6430,7 +6430,7 @@
     (property "Value" "MX_SK6812MINI-E" (at 113.665 169.545 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "PCM_marbastlib-mx:LED_MX_6028R-ROT" (at 113.665 184.15 0)
+    (property "Footprint" "PCM_marbastlib-mx:LED_MX_6028R" (at 113.665 184.15 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 113.665 184.15 0)
@@ -6552,7 +6552,7 @@
   (symbol (lib_id "Device:C_Small") (at 139.065 237.49 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7e0aec5f-1d38-47cc-a6ab-20baa5ef72e2)
-    (property "Reference" "C265" (at 139.065 233.045 90)
+    (property "Reference" "C256" (at 139.065 233.045 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100n" (at 139.065 234.95 90)
@@ -6569,7 +6569,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
-          (reference "C265") (unit 1)
+          (reference "C256") (unit 1)
         )
       )
     )
@@ -6653,7 +6653,7 @@
   (symbol (lib_id "Device:C_Small") (at 57.785 24.13 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 82935d5c-b940-47e5-b9e0-9e058b07119c)
-    (property "Reference" "C191" (at 57.785 19.685 90)
+    (property "Reference" "C182" (at 57.785 19.685 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100n" (at 57.785 21.59 90)
@@ -6670,7 +6670,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
-          (reference "C191") (unit 1)
+          (reference "C182") (unit 1)
         )
       )
     )
@@ -6729,7 +6729,7 @@
   (symbol (lib_id "Device:C_Small") (at 159.385 24.13 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 833c9052-3f4c-4645-b345-869e59b433b1)
-    (property "Reference" "C196" (at 159.385 19.685 90)
+    (property "Reference" "C187" (at 159.385 19.685 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100n" (at 159.385 21.59 90)
@@ -6746,7 +6746,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
-          (reference "C196") (unit 1)
+          (reference "C187") (unit 1)
         )
       )
     )
@@ -6786,7 +6786,7 @@
     (property "Value" "MX_SK6812MINI-E" (at 73.025 200.025 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "PCM_marbastlib-mx:LED_MX_6028R-ROT" (at 73.025 214.63 0)
+    (property "Footprint" "PCM_marbastlib-mx:LED_MX_6028R" (at 73.025 214.63 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 73.025 214.63 0)
@@ -6864,7 +6864,7 @@
     (property "Value" "MX_SK6812MINI-E" (at 194.945 169.545 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "PCM_marbastlib-mx:LED_MX_6028R-ROT" (at 194.945 184.15 0)
+    (property "Footprint" "PCM_marbastlib-mx:LED_MX_6028R" (at 194.945 184.15 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 194.945 184.15 0)
@@ -6936,7 +6936,7 @@
   (symbol (lib_id "Device:C_Small") (at 57.785 115.57 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 86c4d84b-1b61-489a-ada8-a31ac5d7717a)
-    (property "Reference" "C221" (at 57.785 111.125 90)
+    (property "Reference" "C212" (at 57.785 111.125 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100n" (at 57.785 113.03 90)
@@ -6953,7 +6953,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
-          (reference "C221") (unit 1)
+          (reference "C212") (unit 1)
         )
       )
     )
@@ -6987,7 +6987,7 @@
   (symbol (lib_id "Device:C_Small") (at 139.065 85.09 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 877e4dc2-224d-42cb-9473-3f61567c6d02)
-    (property "Reference" "C215" (at 139.065 80.645 90)
+    (property "Reference" "C206" (at 139.065 80.645 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100n" (at 139.065 82.55 90)
@@ -7004,7 +7004,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
-          (reference "C215") (unit 1)
+          (reference "C206") (unit 1)
         )
       )
     )
@@ -7038,7 +7038,7 @@
   (symbol (lib_id "Device:C_Small") (at 118.745 85.09 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 88a9f2f9-6fef-4392-adb6-2f719b435688)
-    (property "Reference" "C214" (at 118.745 80.645 90)
+    (property "Reference" "C205" (at 118.745 80.645 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100n" (at 118.745 82.55 90)
@@ -7055,7 +7055,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
-          (reference "C214") (unit 1)
+          (reference "C205") (unit 1)
         )
       )
     )
@@ -7095,7 +7095,7 @@
     (property "Value" "MX_SK6812MINI-E" (at 32.385 108.585 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "PCM_marbastlib-mx:LED_MX_6028R-ROT" (at 32.385 123.19 0)
+    (property "Footprint" "PCM_marbastlib-mx:LED_MX_6028R" (at 32.385 123.19 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 32.385 123.19 0)
@@ -7129,10 +7129,10 @@
     (property "Datasheet" "" (at 194.945 62.23 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 007e3979-e022-4a36-ada6-8bb0a4b8697a))
-    (pin "2" (uuid d4779c93-4aff-42c7-91ed-ad0c7321368d))
-    (pin "3" (uuid d77252fc-fb2d-4084-a68a-e67f108b97fd))
-    (pin "4" (uuid 49a69c7d-61f1-400b-bff1-f750bef877b2))
+    (pin "1" (uuid fc8cd227-c3b5-46bf-b2e3-4bec5e804158))
+    (pin "2" (uuid 5fb19f47-36f3-499a-b273-e329bb508009))
+    (pin "3" (uuid c70d6fb0-d003-4b77-ae38-fe9192bc45bd))
+    (pin "4" (uuid e875e746-1155-4e7b-bbdb-9a898a0e53c3))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
@@ -7151,7 +7151,7 @@
     (property "Value" "MX_SK6812MINI-E" (at 133.985 169.545 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "PCM_marbastlib-mx:LED_MX_6028R-ROT" (at 133.985 184.15 0)
+    (property "Footprint" "PCM_marbastlib-mx:LED_MX_6028R" (at 133.985 184.15 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 133.985 184.15 0)
@@ -7223,7 +7223,7 @@
   (symbol (lib_id "Device:C_Small") (at 98.425 176.53 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8cb16dc9-b41f-44f3-9d2d-b8cdf92338bc)
-    (property "Reference" "C243" (at 98.425 172.085 90)
+    (property "Reference" "C234" (at 98.425 172.085 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100n" (at 98.425 173.99 90)
@@ -7240,7 +7240,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
-          (reference "C243") (unit 1)
+          (reference "C234") (unit 1)
         )
       )
     )
@@ -7342,10 +7342,10 @@
     (property "Datasheet" "" (at 52.705 92.71 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 2b2c33b1-9ab5-4130-9bf8-a0136f443ca0))
-    (pin "2" (uuid 508687a7-0eb1-4773-9150-d336bc07d62b))
-    (pin "3" (uuid e7284acb-2e2a-4922-9c58-805f1bd75246))
-    (pin "4" (uuid d9c45533-a445-4429-bd1c-6ca5181b1bc7))
+    (pin "1" (uuid 2ff8e8ce-4da3-4a40-aaa1-da3855d38b3b))
+    (pin "2" (uuid 4ced8aa5-e881-446a-a195-669d9fe49914))
+    (pin "3" (uuid f10c24f3-ac41-46cb-8d1f-b9658a14c859))
+    (pin "4" (uuid 3825a35c-3ac8-439e-b655-2e7dd5793eba))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
@@ -7414,7 +7414,7 @@
     (property "Value" "MX_SK6812MINI-E" (at 73.025 108.585 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "PCM_marbastlib-mx:LED_MX_6028R-ROT" (at 73.025 123.19 0)
+    (property "Footprint" "PCM_marbastlib-mx:LED_MX_6028R" (at 73.025 123.19 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 73.025 123.19 0)
@@ -7442,7 +7442,7 @@
     (property "Value" "MX_SK6812MINI-E" (at 52.705 200.025 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "PCM_marbastlib-mx:LED_MX_6028R-ROT" (at 52.705 214.63 0)
+    (property "Footprint" "PCM_marbastlib-mx:LED_MX_6028R" (at 52.705 214.63 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 52.705 214.63 0)
@@ -7489,7 +7489,7 @@
   (symbol (lib_id "Device:C_Small") (at 118.745 24.13 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 9451396a-65fc-4fc4-97b1-694737460b34)
-    (property "Reference" "C194" (at 118.745 19.685 90)
+    (property "Reference" "C185" (at 118.745 19.685 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100n" (at 118.745 21.59 90)
@@ -7506,7 +7506,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
-          (reference "C194") (unit 1)
+          (reference "C185") (unit 1)
         )
       )
     )
@@ -7565,7 +7565,7 @@
   (symbol (lib_id "Device:C_Small") (at 139.065 24.13 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 964c8a8d-2d60-4ddb-9372-9a8ec11f8b43)
-    (property "Reference" "C195" (at 139.065 19.685 90)
+    (property "Reference" "C186" (at 139.065 19.685 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100n" (at 139.065 21.59 90)
@@ -7582,7 +7582,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
-          (reference "C195") (unit 1)
+          (reference "C186") (unit 1)
         )
       )
     )
@@ -7694,7 +7694,7 @@
   (symbol (lib_id "Device:C_Small") (at 98.425 237.49 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 9a93723e-23c9-44db-9ba6-5119672cce01)
-    (property "Reference" "C263" (at 98.425 233.045 90)
+    (property "Reference" "C254" (at 98.425 233.045 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100n" (at 98.425 234.95 90)
@@ -7711,7 +7711,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
-          (reference "C263") (unit 1)
+          (reference "C254") (unit 1)
         )
       )
     )
@@ -7745,7 +7745,7 @@
   (symbol (lib_id "Device:C_Small") (at 57.785 207.01 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 9c2b37c3-43ee-44ae-b118-88efcddc9a8f)
-    (property "Reference" "C251" (at 57.785 202.565 90)
+    (property "Reference" "C242" (at 57.785 202.565 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100n" (at 57.785 204.47 90)
@@ -7762,7 +7762,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
-          (reference "C251") (unit 1)
+          (reference "C242") (unit 1)
         )
       )
     )
@@ -7796,7 +7796,7 @@
   (symbol (lib_id "Device:C_Small") (at 159.385 207.01 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 9d5423cb-465e-4207-9028-128ca824d3eb)
-    (property "Reference" "C256" (at 159.385 202.565 90)
+    (property "Reference" "C247" (at 159.385 202.565 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100n" (at 159.385 204.47 90)
@@ -7813,7 +7813,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
-          (reference "C256") (unit 1)
+          (reference "C247") (unit 1)
         )
       )
     )
@@ -7822,7 +7822,7 @@
   (symbol (lib_id "Device:C_Small") (at 37.465 237.49 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 9de52c4a-2a80-4a10-a63c-0325259bc3e3)
-    (property "Reference" "C260" (at 37.465 233.045 90)
+    (property "Reference" "C251" (at 37.465 233.045 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100n" (at 37.465 234.95 90)
@@ -7839,7 +7839,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
-          (reference "C260") (unit 1)
+          (reference "C251") (unit 1)
         )
       )
     )
@@ -7848,7 +7848,7 @@
   (symbol (lib_id "Device:C_Small") (at 57.785 54.61 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 9ebad85a-7e9d-42c6-a1ca-83ace1a13220)
-    (property "Reference" "C201" (at 57.785 50.165 90)
+    (property "Reference" "C192" (at 57.785 50.165 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100n" (at 57.785 52.07 90)
@@ -7865,7 +7865,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
-          (reference "C201") (unit 1)
+          (reference "C192") (unit 1)
         )
       )
     )
@@ -8024,7 +8024,7 @@
   (symbol (lib_id "Device:C_Small") (at 139.065 207.01 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a0ce68f3-64ce-438d-b5d3-8b49b04f3187)
-    (property "Reference" "C255" (at 139.065 202.565 90)
+    (property "Reference" "C246" (at 139.065 202.565 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100n" (at 139.065 204.47 90)
@@ -8041,7 +8041,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
-          (reference "C255") (unit 1)
+          (reference "C246") (unit 1)
         )
       )
     )
@@ -8075,7 +8075,7 @@
   (symbol (lib_id "Device:C_Small") (at 200.025 24.13 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a127164f-a745-4634-b010-e032a1e351ce)
-    (property "Reference" "C198" (at 200.025 19.685 90)
+    (property "Reference" "C189" (at 200.025 19.685 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100n" (at 200.025 21.59 90)
@@ -8092,7 +8092,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
-          (reference "C198") (unit 1)
+          (reference "C189") (unit 1)
         )
       )
     )
@@ -8126,7 +8126,7 @@
   (symbol (lib_id "Device:C_Small") (at 57.785 146.05 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a3846f38-b3fe-424e-a023-6233ae759dba)
-    (property "Reference" "C231" (at 57.785 141.605 90)
+    (property "Reference" "C222" (at 57.785 141.605 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100n" (at 57.785 143.51 90)
@@ -8143,7 +8143,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
-          (reference "C231") (unit 1)
+          (reference "C222") (unit 1)
         )
       )
     )
@@ -8180,7 +8180,7 @@
   (symbol (lib_id "Device:C_Small") (at 98.425 146.05 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a42a28c2-dfb5-40f4-aeff-07e1a8122295)
-    (property "Reference" "C233" (at 98.425 141.605 90)
+    (property "Reference" "C224" (at 98.425 141.605 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100n" (at 98.425 143.51 90)
@@ -8197,7 +8197,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
-          (reference "C233") (unit 1)
+          (reference "C224") (unit 1)
         )
       )
     )
@@ -8206,7 +8206,7 @@
   (symbol (lib_id "Device:C_Small") (at 118.745 54.61 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a43bfe93-ebea-4843-9174-fbb53ddfe7f2)
-    (property "Reference" "C204" (at 118.745 50.165 90)
+    (property "Reference" "C195" (at 118.745 50.165 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100n" (at 118.745 52.07 90)
@@ -8223,7 +8223,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
-          (reference "C204") (unit 1)
+          (reference "C195") (unit 1)
         )
       )
     )
@@ -8307,7 +8307,7 @@
   (symbol (lib_id "Device:C_Small") (at 179.705 85.09 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a767544f-ce6b-48a7-b68c-428fa6b53611)
-    (property "Reference" "C217" (at 179.705 80.645 90)
+    (property "Reference" "C208" (at 179.705 80.645 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100n" (at 179.705 82.55 90)
@@ -8324,7 +8324,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
-          (reference "C217") (unit 1)
+          (reference "C208") (unit 1)
         )
       )
     )
@@ -8464,7 +8464,7 @@
     (property "Value" "MX_SK6812MINI-E" (at 174.625 78.105 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "PCM_marbastlib-mx:LED_MX_6028R-ROT" (at 174.625 92.71 0)
+    (property "Footprint" "PCM_marbastlib-mx:LED_MX_6028R" (at 174.625 92.71 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 174.625 92.71 0)
@@ -8511,7 +8511,7 @@
   (symbol (lib_id "Device:C_Small") (at 118.745 207.01 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ae3f4fa3-6465-4f13-b8bf-c2c97e6000ff)
-    (property "Reference" "C254" (at 118.745 202.565 90)
+    (property "Reference" "C245" (at 118.745 202.565 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100n" (at 118.745 204.47 90)
@@ -8528,7 +8528,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
-          (reference "C254") (unit 1)
+          (reference "C245") (unit 1)
         )
       )
     )
@@ -8765,7 +8765,7 @@
   (symbol (lib_id "Device:C_Small") (at 200.025 54.61 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b22aa44e-be2a-47ba-b618-a06bb0c3d826)
-    (property "Reference" "C208" (at 200.025 50.165 90)
+    (property "Reference" "C199" (at 200.025 50.165 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100n" (at 200.025 52.07 90)
@@ -8782,7 +8782,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
-          (reference "C208") (unit 1)
+          (reference "C199") (unit 1)
         )
       )
     )
@@ -8922,7 +8922,7 @@
     (property "Value" "MX_SK6812MINI-E" (at 93.345 200.025 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "PCM_marbastlib-mx:LED_MX_6028R-ROT" (at 93.345 214.63 0)
+    (property "Footprint" "PCM_marbastlib-mx:LED_MX_6028R" (at 93.345 214.63 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 93.345 214.63 0)
@@ -9122,7 +9122,7 @@
   (symbol (lib_id "Device:C_Small") (at 220.345 146.05 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid bbc1cb84-c1f7-4f38-a0c3-6301b495c25a)
-    (property "Reference" "C239" (at 220.345 141.605 90)
+    (property "Reference" "C230" (at 220.345 141.605 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100n" (at 220.345 143.51 90)
@@ -9139,7 +9139,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
-          (reference "C239") (unit 1)
+          (reference "C230") (unit 1)
         )
       )
     )
@@ -9301,7 +9301,7 @@
   (symbol (lib_id "Device:C_Small") (at 179.705 176.53 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid bf4ac621-e392-4cb3-ba99-c704502f4fc7)
-    (property "Reference" "C247" (at 179.705 172.085 90)
+    (property "Reference" "C238" (at 179.705 172.085 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100n" (at 179.705 173.99 90)
@@ -9318,7 +9318,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
-          (reference "C247") (unit 1)
+          (reference "C238") (unit 1)
         )
       )
     )
@@ -9352,7 +9352,7 @@
   (symbol (lib_id "Device:C_Small") (at 200.025 146.05 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c1766906-79c9-4175-8565-e7665f0b23ce)
-    (property "Reference" "C238" (at 200.025 141.605 90)
+    (property "Reference" "C229" (at 200.025 141.605 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100n" (at 200.025 143.51 90)
@@ -9369,7 +9369,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
-          (reference "C238") (unit 1)
+          (reference "C229") (unit 1)
         )
       )
     )
@@ -9456,7 +9456,7 @@
   (symbol (lib_id "Device:C_Small") (at 78.105 115.57 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c4b15592-f386-41db-a0ff-d694f50318a1)
-    (property "Reference" "C222" (at 78.105 111.125 90)
+    (property "Reference" "C213" (at 78.105 111.125 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100n" (at 78.105 113.03 90)
@@ -9473,7 +9473,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
-          (reference "C222") (unit 1)
+          (reference "C213") (unit 1)
         )
       )
     )
@@ -9610,7 +9610,7 @@
   (symbol (lib_id "Device:C_Small") (at 179.705 115.57 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c79cb285-862d-4f3b-8b31-712201eac9d4)
-    (property "Reference" "C227" (at 179.705 111.125 90)
+    (property "Reference" "C218" (at 179.705 111.125 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100n" (at 179.705 113.03 90)
@@ -9627,7 +9627,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
-          (reference "C227") (unit 1)
+          (reference "C218") (unit 1)
         )
       )
     )
@@ -9686,7 +9686,7 @@
   (symbol (lib_id "Device:C_Small") (at 179.705 24.13 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c9ad42f0-b2ab-48a6-b271-08c0cafa1f7c)
-    (property "Reference" "C197" (at 179.705 19.685 90)
+    (property "Reference" "C188" (at 179.705 19.685 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100n" (at 179.705 21.59 90)
@@ -9703,7 +9703,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
-          (reference "C197") (unit 1)
+          (reference "C188") (unit 1)
         )
       )
     )
@@ -9718,7 +9718,7 @@
     (property "Value" "MX_SK6812MINI-E" (at 154.305 108.585 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "PCM_marbastlib-mx:LED_MX_6028R-ROT" (at 154.305 123.19 0)
+    (property "Footprint" "PCM_marbastlib-mx:LED_MX_6028R" (at 154.305 123.19 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 154.305 123.19 0)
@@ -9746,7 +9746,7 @@
     (property "Value" "MX_SK6812MINI-E" (at 174.625 169.545 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "PCM_marbastlib-mx:LED_MX_6028R-ROT" (at 174.625 184.15 0)
+    (property "Footprint" "PCM_marbastlib-mx:LED_MX_6028R" (at 174.625 184.15 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 174.625 184.15 0)
@@ -9768,7 +9768,7 @@
   (symbol (lib_id "Device:C_Small") (at 98.425 54.61 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ca229cfb-9fa3-42da-bc95-41bc5db756da)
-    (property "Reference" "C203" (at 98.425 50.165 90)
+    (property "Reference" "C194" (at 98.425 50.165 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100n" (at 98.425 52.07 90)
@@ -9785,7 +9785,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
-          (reference "C203") (unit 1)
+          (reference "C194") (unit 1)
         )
       )
     )
@@ -9794,7 +9794,7 @@
   (symbol (lib_id "Device:C_Small") (at 159.385 54.61 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ca4eddf9-0db3-4b4e-8d50-f5a98d84b85b)
-    (property "Reference" "C206" (at 159.385 50.165 90)
+    (property "Reference" "C197" (at 159.385 50.165 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100n" (at 159.385 52.07 90)
@@ -9811,7 +9811,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
-          (reference "C206") (unit 1)
+          (reference "C197") (unit 1)
         )
       )
     )
@@ -9820,7 +9820,7 @@
   (symbol (lib_id "Device:C_Small") (at 179.705 207.01 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ca59b1db-51b3-4049-b2a0-f2c5ce48056b)
-    (property "Reference" "C257" (at 179.705 202.565 90)
+    (property "Reference" "C248" (at 179.705 202.565 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100n" (at 179.705 204.47 90)
@@ -9837,7 +9837,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
-          (reference "C257") (unit 1)
+          (reference "C248") (unit 1)
         )
       )
     )
@@ -9846,7 +9846,7 @@
   (symbol (lib_id "Device:C_Small") (at 220.345 85.09 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid cb0ed7d7-2d10-43c6-8d88-3208f446556d)
-    (property "Reference" "C219" (at 220.345 80.645 90)
+    (property "Reference" "C210" (at 220.345 80.645 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100n" (at 220.345 82.55 90)
@@ -9863,7 +9863,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
-          (reference "C219") (unit 1)
+          (reference "C210") (unit 1)
         )
       )
     )
@@ -10000,7 +10000,7 @@
   (symbol (lib_id "Device:C_Small") (at 139.065 54.61 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d4041c83-d69f-4aec-b701-f36131d3c1e5)
-    (property "Reference" "C205" (at 139.065 50.165 90)
+    (property "Reference" "C196" (at 139.065 50.165 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100n" (at 139.065 52.07 90)
@@ -10017,7 +10017,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
-          (reference "C205") (unit 1)
+          (reference "C196") (unit 1)
         )
       )
     )
@@ -10026,7 +10026,7 @@
   (symbol (lib_id "Device:C_Small") (at 98.425 85.09 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d467ad89-5f40-477f-9288-3aa1f7c3edda)
-    (property "Reference" "C213" (at 98.425 80.645 90)
+    (property "Reference" "C204" (at 98.425 80.645 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100n" (at 98.425 82.55 90)
@@ -10043,7 +10043,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
-          (reference "C213") (unit 1)
+          (reference "C204") (unit 1)
         )
       )
     )
@@ -10264,10 +10264,10 @@
     (property "Datasheet" "" (at 133.985 92.71 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid eef40eb6-f887-4830-aba8-12122bd9319c))
-    (pin "2" (uuid 19090082-c9aa-4bbd-b03f-5218e66dfafc))
-    (pin "3" (uuid 8d9310e3-5bf4-4fb6-8c89-95b506766a78))
-    (pin "4" (uuid 93517386-fe6d-46cb-ade9-73f841aa9d17))
+    (pin "1" (uuid 10878849-697d-4e24-bd47-0fc1a5432124))
+    (pin "2" (uuid d2711ce0-84d7-426d-ac29-27edb99ec780))
+    (pin "3" (uuid f7c31273-eb63-4123-9732-7668320d7195))
+    (pin "4" (uuid c2b6ebdb-7c2c-41e2-9318-ad8e6a6750f9))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
@@ -10361,7 +10361,7 @@
     (property "Value" "MX_SK6812MINI-E" (at 174.625 108.585 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "PCM_marbastlib-mx:LED_MX_6028R-ROT" (at 174.625 123.19 0)
+    (property "Footprint" "PCM_marbastlib-mx:LED_MX_6028R" (at 174.625 123.19 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 174.625 123.19 0)
@@ -10439,7 +10439,7 @@
     (property "Value" "MX_SK6812MINI-E" (at 93.345 17.145 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "PCM_marbastlib-mx:LED_MX_6028R-ROT" (at 93.345 31.75 0)
+    (property "Footprint" "PCM_marbastlib-mx:LED_MX_6028R" (at 93.345 31.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 93.345 31.75 0)
@@ -10486,7 +10486,7 @@
   (symbol (lib_id "Device:C_Small") (at 200.025 207.01 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid df32aff9-0117-4390-9a94-55a376e2d1c1)
-    (property "Reference" "C258" (at 200.025 202.565 90)
+    (property "Reference" "C249" (at 200.025 202.565 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100n" (at 200.025 204.47 90)
@@ -10503,7 +10503,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
-          (reference "C258") (unit 1)
+          (reference "C249") (unit 1)
         )
       )
     )
@@ -10518,7 +10518,7 @@
     (property "Value" "MX_SK6812MINI-E" (at 113.665 108.585 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "PCM_marbastlib-mx:LED_MX_6028R-ROT" (at 113.665 123.19 0)
+    (property "Footprint" "PCM_marbastlib-mx:LED_MX_6028R" (at 113.665 123.19 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 113.665 123.19 0)
@@ -10571,7 +10571,7 @@
     (property "Value" "MX_SK6812MINI-E" (at 154.305 169.545 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "PCM_marbastlib-mx:LED_MX_6028R-ROT" (at 154.305 184.15 0)
+    (property "Footprint" "PCM_marbastlib-mx:LED_MX_6028R" (at 154.305 184.15 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 154.305 184.15 0)
@@ -10649,7 +10649,7 @@
     (property "Value" "MX_SK6812MINI-E" (at 32.385 200.025 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "PCM_marbastlib-mx:LED_MX_6028R-ROT" (at 32.385 214.63 0)
+    (property "Footprint" "PCM_marbastlib-mx:LED_MX_6028R" (at 32.385 214.63 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 32.385 214.63 0)
@@ -10796,7 +10796,7 @@
   (symbol (lib_id "Device:C_Small") (at 139.065 176.53 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e7e985f0-2540-4944-8c64-e28afd2fbdfc)
-    (property "Reference" "C245" (at 139.065 172.085 90)
+    (property "Reference" "C236" (at 139.065 172.085 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100n" (at 139.065 173.99 90)
@@ -10813,7 +10813,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
-          (reference "C245") (unit 1)
+          (reference "C236") (unit 1)
         )
       )
     )
@@ -10828,7 +10828,7 @@
     (property "Value" "MX_SK6812MINI-E" (at 52.705 108.585 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "PCM_marbastlib-mx:LED_MX_6028R-ROT" (at 52.705 123.19 0)
+    (property "Footprint" "PCM_marbastlib-mx:LED_MX_6028R" (at 52.705 123.19 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 52.705 123.19 0)
@@ -10928,7 +10928,7 @@
   (symbol (lib_id "Device:C_Small") (at 37.465 207.01 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ea1035e9-783b-4934-9c0b-d895f8acb328)
-    (property "Reference" "C250" (at 37.465 202.565 90)
+    (property "Reference" "C241" (at 37.465 202.565 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100n" (at 37.465 204.47 90)
@@ -10945,7 +10945,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
-          (reference "C250") (unit 1)
+          (reference "C241") (unit 1)
         )
       )
     )
@@ -11010,7 +11010,7 @@
     (property "Value" "MX_SK6812MINI-E" (at 32.385 139.065 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "PCM_marbastlib-mx:LED_MX_6028R-ROT" (at 32.385 153.67 0)
+    (property "Footprint" "PCM_marbastlib-mx:LED_MX_6028R" (at 32.385 153.67 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 32.385 153.67 0)
@@ -11057,7 +11057,7 @@
   (symbol (lib_id "Device:C_Small") (at 118.745 115.57 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ee4bde28-405a-43fd-ac66-e5a684b3c3f1)
-    (property "Reference" "C224" (at 118.745 111.125 90)
+    (property "Reference" "C215" (at 118.745 111.125 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100n" (at 118.745 113.03 90)
@@ -11074,7 +11074,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
-          (reference "C224") (unit 1)
+          (reference "C215") (unit 1)
         )
       )
     )
@@ -11083,7 +11083,7 @@
   (symbol (lib_id "Device:C_Small") (at 57.785 85.09 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ee984cfe-f852-423c-aa32-e79f7d46be39)
-    (property "Reference" "C211" (at 57.785 80.645 90)
+    (property "Reference" "C202" (at 57.785 80.645 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100n" (at 57.785 82.55 90)
@@ -11100,7 +11100,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
-          (reference "C211") (unit 1)
+          (reference "C202") (unit 1)
         )
       )
     )
@@ -11218,7 +11218,7 @@
     (property "Value" "MX_SK6812MINI-E" (at 113.665 200.025 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "PCM_marbastlib-mx:LED_MX_6028R-ROT" (at 113.665 214.63 0)
+    (property "Footprint" "PCM_marbastlib-mx:LED_MX_6028R" (at 113.665 214.63 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 113.665 214.63 0)
@@ -11252,10 +11252,10 @@
     (property "Datasheet" "" (at 174.625 62.23 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 51552d61-6a0d-42f4-b7df-4f5c2064d4c6))
-    (pin "2" (uuid 2d5148bd-a5ad-4afe-a2ea-3d847b75dc57))
-    (pin "3" (uuid e9330c89-3b18-42b8-a63d-d29b7dd4e2b6))
-    (pin "4" (uuid 92f03f52-1674-4c9a-a726-4dd912fc7f6c))
+    (pin "1" (uuid 8e36bb7b-bb5e-410e-8c5c-6579d2899479))
+    (pin "2" (uuid 58d3146e-937e-48d4-a901-c2db988f2274))
+    (pin "3" (uuid e902fc5e-35e3-49c6-8ce8-069481bfb6c1))
+    (pin "4" (uuid 53d03290-82f7-43a1-82f8-e3a975d8f191))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
@@ -11346,7 +11346,7 @@
   (symbol (lib_id "Device:C_Small") (at 220.345 115.57 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f653b9d2-06a5-4612-a82a-69e65254ebbf)
-    (property "Reference" "C229" (at 220.345 111.125 90)
+    (property "Reference" "C220" (at 220.345 111.125 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100n" (at 220.345 113.03 90)
@@ -11363,7 +11363,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
-          (reference "C229") (unit 1)
+          (reference "C220") (unit 1)
         )
       )
     )
@@ -11447,7 +11447,7 @@
   (symbol (lib_id "Device:C_Small") (at 200.025 115.57 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f84a5b20-f7f5-4936-a115-be1882fb7069)
-    (property "Reference" "C228" (at 200.025 111.125 90)
+    (property "Reference" "C219" (at 200.025 111.125 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100n" (at 200.025 113.03 90)
@@ -11464,7 +11464,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
-          (reference "C228") (unit 1)
+          (reference "C219") (unit 1)
         )
       )
     )
@@ -11554,7 +11554,7 @@
     (property "Value" "MX_SK6812MINI-E" (at 194.945 108.585 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "PCM_marbastlib-mx:LED_MX_6028R-ROT" (at 194.945 123.19 0)
+    (property "Footprint" "PCM_marbastlib-mx:LED_MX_6028R" (at 194.945 123.19 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 194.945 123.19 0)
@@ -11588,10 +11588,10 @@
     (property "Datasheet" "" (at 73.025 92.71 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ea481d4e-7f0f-4199-b19b-d5fcd3d7c3d1))
-    (pin "2" (uuid c5706397-2a87-4f16-9415-2f286aeccc61))
-    (pin "3" (uuid 9ef6bd85-9c9c-4215-a1c3-ff096de4fb02))
-    (pin "4" (uuid 150460c2-897c-4380-b07e-2ba60047dc7a))
+    (pin "1" (uuid de01ab9b-7aa4-42ae-b12d-82a98575a228))
+    (pin "2" (uuid 5930d667-51b8-4208-9174-92ae0f83365a))
+    (pin "3" (uuid d508d0e7-dc82-4543-aace-5325e17c0ee9))
+    (pin "4" (uuid cda251c1-f1e9-4ad9-ab6f-e17456609a05))
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
@@ -11729,7 +11729,7 @@
   (symbol (lib_id "Device:C_Small") (at 220.345 176.53 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid fd67c9ec-17aa-44d2-b515-98503722c633)
-    (property "Reference" "C249" (at 220.345 172.085 90)
+    (property "Reference" "C240" (at 220.345 172.085 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100n" (at 220.345 173.99 90)
@@ -11746,7 +11746,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/d2906eb2-d0c1-4658-a93b-b7d5f640b9d6"
-          (reference "C249") (unit 1)
+          (reference "C240") (unit 1)
         )
       )
     )
