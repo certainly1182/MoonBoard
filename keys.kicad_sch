@@ -10900,7 +10900,7 @@
     (property "Value" "RotaryEncoder_Switch" (at 369.57 55.88 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm" (at 365.76 59.436 0)
+    (property "Footprint" "PCM_marbastlib-various:ROT_Alps_EC11E-Switch" (at 365.76 59.436 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 369.57 56.896 0)
