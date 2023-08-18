@@ -2394,7 +2394,7 @@
   (symbol (lib_id "PCM_marbastlib-mx:MX_stab") (at 351.155 101.6 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 715fb33b-dd33-4936-a1f9-4427622656b8)
-    (property "Reference" "S41" (at 353.695 100.33 90)
+    (property "Reference" "S2" (at 353.695 100.33 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "STAB_MX_ISO" (at 353.695 102.87 90)
@@ -2418,7 +2418,7 @@
   (symbol (lib_id "power:GND") (at 359.41 36.195 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 8dd06ff4-df42-4d27-9bbe-bdfe259f1e4d)
-    (property "Reference" "#PWR058" (at 359.41 42.545 0)
+    (property "Reference" "#PWR0285" (at 359.41 42.545 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 359.41 40.64 0)
@@ -2472,7 +2472,7 @@
   (symbol (lib_id "PCM_marbastlib-mx:MX_stab") (at 339.09 58.42 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a73584e0-ce2c-4bbe-b8d0-04d47a50eb74)
-    (property "Reference" "S27" (at 344.17 55.88 0)
+    (property "Reference" "S1" (at 344.17 55.88 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "STAB_MX_2u" (at 344.17 57.785 0)
@@ -2496,7 +2496,7 @@
   (symbol (lib_id "power:GND") (at 383.54 71.12 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid bbfbd45c-96b5-45fe-a963-7b9669933886)
-    (property "Reference" "#PWR0220" (at 383.54 77.47 0)
+    (property "Reference" "#PWR0288" (at 383.54 77.47 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 383.54 76.2 0)
@@ -2584,7 +2584,7 @@
   (symbol (lib_id "power:+3V3") (at 377.19 60.96 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid dc745525-4449-4041-9ee2-92a1492d274d)
-    (property "Reference" "#PWR086" (at 373.38 60.96 0)
+    (property "Reference" "#PWR0286" (at 373.38 60.96 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3" (at 381 60.96 90)
@@ -2609,7 +2609,7 @@
   (symbol (lib_id "power:+5V") (at 359.41 33.655 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e68c1a2f-37b0-4614-b38e-0949425fa91c)
-    (property "Reference" "#PWR057" (at 363.22 33.655 0)
+    (property "Reference" "#PWR0284" (at 363.22 33.655 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+5V" (at 355.6 33.655 90)
@@ -2675,7 +2675,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4" (page "5"))
-        (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/fb2aaba3-3842-4616-b174-96769827734e/b2a83ed0-9058-4027-92bf-863dcf5366cb" (page "77"))
+        (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/fb2aaba3-3842-4616-b174-96769827734e/b2a83ed0-9058-4027-92bf-863dcf5366cb" (page "23"))
       )
     )
   )
@@ -2763,7 +2763,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4" (page "5"))
-        (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/fb2aaba3-3842-4616-b174-96769827734e/b2a83ed0-9058-4027-92bf-863dcf5366cb" (page "67"))
+        (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/fb2aaba3-3842-4616-b174-96769827734e/b2a83ed0-9058-4027-92bf-863dcf5366cb" (page "84"))
       )
     )
   )
@@ -2785,7 +2785,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4" (page "5"))
-        (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/fb2aaba3-3842-4616-b174-96769827734e/b2a83ed0-9058-4027-92bf-863dcf5366cb" (page "80"))
+        (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/fb2aaba3-3842-4616-b174-96769827734e/b2a83ed0-9058-4027-92bf-863dcf5366cb" (page "18"))
       )
     )
   )
@@ -2807,7 +2807,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4" (page "5"))
-        (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/fb2aaba3-3842-4616-b174-96769827734e/b2a83ed0-9058-4027-92bf-863dcf5366cb" (page "79"))
+        (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/fb2aaba3-3842-4616-b174-96769827734e/b2a83ed0-9058-4027-92bf-863dcf5366cb" (page "57"))
       )
     )
   )
@@ -2895,7 +2895,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4" (page "5"))
-        (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/fb2aaba3-3842-4616-b174-96769827734e/b2a83ed0-9058-4027-92bf-863dcf5366cb" (page "81"))
+        (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/fb2aaba3-3842-4616-b174-96769827734e/b2a83ed0-9058-4027-92bf-863dcf5366cb" (page "17"))
       )
     )
   )
@@ -2961,7 +2961,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4" (page "5"))
-        (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/fb2aaba3-3842-4616-b174-96769827734e/b2a83ed0-9058-4027-92bf-863dcf5366cb" (page "55"))
+        (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/fb2aaba3-3842-4616-b174-96769827734e/b2a83ed0-9058-4027-92bf-863dcf5366cb" (page "31"))
       )
     )
   )
@@ -3093,7 +3093,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4" (page "5"))
-        (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/fb2aaba3-3842-4616-b174-96769827734e/b2a83ed0-9058-4027-92bf-863dcf5366cb" (page "64"))
+        (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/fb2aaba3-3842-4616-b174-96769827734e/b2a83ed0-9058-4027-92bf-863dcf5366cb" (page "59"))
       )
     )
   )
@@ -3159,7 +3159,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4" (page "5"))
-        (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/fb2aaba3-3842-4616-b174-96769827734e/b2a83ed0-9058-4027-92bf-863dcf5366cb" (page "82"))
+        (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/fb2aaba3-3842-4616-b174-96769827734e/b2a83ed0-9058-4027-92bf-863dcf5366cb" (page "53"))
       )
     )
   )
@@ -3423,7 +3423,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4" (page "5"))
-        (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/fb2aaba3-3842-4616-b174-96769827734e/b2a83ed0-9058-4027-92bf-863dcf5366cb" (page "52"))
+        (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/fb2aaba3-3842-4616-b174-96769827734e/b2a83ed0-9058-4027-92bf-863dcf5366cb" (page "24"))
       )
     )
   )
@@ -3445,7 +3445,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4" (page "5"))
-        (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/fb2aaba3-3842-4616-b174-96769827734e/b2a83ed0-9058-4027-92bf-863dcf5366cb" (page "53"))
+        (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/fb2aaba3-3842-4616-b174-96769827734e/b2a83ed0-9058-4027-92bf-863dcf5366cb" (page "22"))
       )
     )
   )
@@ -3467,7 +3467,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4" (page "5"))
-        (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/fb2aaba3-3842-4616-b174-96769827734e/b2a83ed0-9058-4027-92bf-863dcf5366cb" (page "69"))
+        (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/fb2aaba3-3842-4616-b174-96769827734e/b2a83ed0-9058-4027-92bf-863dcf5366cb" (page "38"))
       )
     )
   )
@@ -3643,7 +3643,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4" (page "5"))
-        (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/fb2aaba3-3842-4616-b174-96769827734e/b2a83ed0-9058-4027-92bf-863dcf5366cb" (page "73"))
+        (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/fb2aaba3-3842-4616-b174-96769827734e/b2a83ed0-9058-4027-92bf-863dcf5366cb" (page "69"))
       )
     )
   )
@@ -3753,7 +3753,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4" (page "5"))
-        (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/fb2aaba3-3842-4616-b174-96769827734e/b2a83ed0-9058-4027-92bf-863dcf5366cb" (page "78"))
+        (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/fb2aaba3-3842-4616-b174-96769827734e/b2a83ed0-9058-4027-92bf-863dcf5366cb" (page "65"))
       )
     )
   )
@@ -3797,7 +3797,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4" (page "5"))
-        (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/fb2aaba3-3842-4616-b174-96769827734e/b2a83ed0-9058-4027-92bf-863dcf5366cb" (page "70"))
+        (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/fb2aaba3-3842-4616-b174-96769827734e/b2a83ed0-9058-4027-92bf-863dcf5366cb" (page "60"))
       )
     )
   )
@@ -3819,7 +3819,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4" (page "5"))
-        (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/fb2aaba3-3842-4616-b174-96769827734e/b2a83ed0-9058-4027-92bf-863dcf5366cb" (page "65"))
+        (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/fb2aaba3-3842-4616-b174-96769827734e/b2a83ed0-9058-4027-92bf-863dcf5366cb" (page "79"))
       )
     )
   )
@@ -3841,7 +3841,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4" (page "5"))
-        (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/fb2aaba3-3842-4616-b174-96769827734e/b2a83ed0-9058-4027-92bf-863dcf5366cb" (page "54"))
+        (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/fb2aaba3-3842-4616-b174-96769827734e/b2a83ed0-9058-4027-92bf-863dcf5366cb" (page "73"))
       )
     )
   )
@@ -3973,7 +3973,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4" (page "5"))
-        (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/fb2aaba3-3842-4616-b174-96769827734e/b2a83ed0-9058-4027-92bf-863dcf5366cb" (page "68"))
+        (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/fb2aaba3-3842-4616-b174-96769827734e/b2a83ed0-9058-4027-92bf-863dcf5366cb" (page "76"))
       )
     )
   )
@@ -3995,7 +3995,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4" (page "5"))
-        (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/fb2aaba3-3842-4616-b174-96769827734e/b2a83ed0-9058-4027-92bf-863dcf5366cb" (page "74"))
+        (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/fb2aaba3-3842-4616-b174-96769827734e/b2a83ed0-9058-4027-92bf-863dcf5366cb" (page "71"))
       )
     )
   )
@@ -4083,7 +4083,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4" (page "5"))
-        (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/fb2aaba3-3842-4616-b174-96769827734e/b2a83ed0-9058-4027-92bf-863dcf5366cb" (page "57"))
+        (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/fb2aaba3-3842-4616-b174-96769827734e/b2a83ed0-9058-4027-92bf-863dcf5366cb" (page "30"))
       )
     )
   )
@@ -4259,7 +4259,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4" (page "5"))
-        (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/fb2aaba3-3842-4616-b174-96769827734e/b2a83ed0-9058-4027-92bf-863dcf5366cb" (page "63"))
+        (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/fb2aaba3-3842-4616-b174-96769827734e/b2a83ed0-9058-4027-92bf-863dcf5366cb" (page "70"))
       )
     )
   )
@@ -4303,7 +4303,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4" (page "5"))
-        (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/fb2aaba3-3842-4616-b174-96769827734e/b2a83ed0-9058-4027-92bf-863dcf5366cb" (page "60"))
+        (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/fb2aaba3-3842-4616-b174-96769827734e/b2a83ed0-9058-4027-92bf-863dcf5366cb" (page "36"))
       )
     )
   )
@@ -4325,7 +4325,7 @@
     (instances
       (project "MoonBoard"
         (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4" (page "5"))
-        (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/fb2aaba3-3842-4616-b174-96769827734e/b2a83ed0-9058-4027-92bf-863dcf5366cb" (page "83"))
+        (path "/bb706f4b-6d11-4e29-ae30-1a1ffddaf9f4/fb2aaba3-3842-4616-b174-96769827734e/b2a83ed0-9058-4027-92bf-863dcf5366cb" (page "55"))
       )
     )
   )
