@@ -1,4 +1,4 @@
-22322186291555082
+22340811615508393
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -61208,6 +61208,13 @@ ESP8266 WiFi microcontroller
 16
 16
 MoonBoard
+HRO-TYPE-C-31-M-12-Assembly
+
+
+0
+16
+13
+MoonBoard
 MOLEX_0482580002
 
 
@@ -61216,6 +61223,41 @@ MOLEX_0482580002
 8
 MoonBoard
 OLED Module
+
+
+0
+4
+4
+MoonBoard
+PicoEZMate-Reinforced-Alt
+Molex Pico-EZmate series connector, 78171-0004 (http://www.molex.com/pdm_docs/sd/781710002_sd.pdf), generated with kicad-footprint-generator
+connector Molex Pico-EZmate side entry
+0
+22
+4
+MoonBoard
+PicoEZMate-Reinforced-Lite
+Molex Pico-EZmate series connector, 78171-0004 (http://www.molex.com/pdm_docs/sd/781710002_sd.pdf), generated with kicad-footprint-generator
+connector Molex Pico-EZmate side entry
+0
+22
+4
+MoonBoard
+RollerEncoder_Panasonic_EVQWGD001
+
+
+0
+6
+6
+MoonBoard
+SK 6812 MINI-EA
+
+
+0
+4
+4
+MoonBoard
+SK 6812 MINI-EA-ROT
 
 
 0
@@ -61250,6 +61292,13 @@ SLSS49E-3 with MX holes
 3
 3
 MoonBoard
+SOD-123FL_L2.8-W1.8-LS3.7-BI
+
+
+0
+2
+2
+MoonBoard
 SSOP-16_L4.6-W2.6-P0.53-LS4.0-BL
 
 
@@ -61269,7 +61318,35 @@ USB-A-SMD_AF-APPLE-10.6
 
 0
 8
-8
+5
+MoonBoard
+USON-10_2.5x1.0mm_P0.5mm
+USON-10 2.5x1.0mm_ Pitch 0.5mm http://www.ti.com/lit/ds/symlink/tpd4e02b04.pdf
+USON-10 2.5x1.0mm Pitch 0.5mm
+0
+10
+10
+MoonBoard
+Unified-Daughterboard-Logo.pretty
+
+
+0
+0
+0
+MoonBoard
+Unified-Daughterboard-Name.pretty
+
+
+0
+9
+1
+MoonBoard
+UnifiedLogo
+
+
+0
+0
+0
 Motors
 Vybronics_VZ30C1T8219732L
 Vibration motor, 2.3-3.2V, 14000rpm, 0.7G, https://www.vybronics.com/wp-content/uploads/datasheet-files/Vybronics-VZ30C1T8219732L-datasheet.pdf

@@ -448,7 +448,7 @@
     (property "Value" "MX_SK6812MINI-E" (at 41.91 25.4 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "PCM_marbastlib-mx:LED_MX_6028R" (at 41.91 40.005 0)
+    (property "Footprint" "MoonBoard:SK 6812 MINI-EA" (at 41.91 40.005 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 41.91 40.005 0)
