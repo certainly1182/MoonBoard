@@ -95,4 +95,9 @@
   (pad "2" smd roundrect (at -2.82 -0.720001 270) (size 0.75 0.84) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1) (tstamp 6bbb69fa-c550-496f-961f-681c6e579d08))
   (pad "3" smd roundrect (at 2.82 0.719999 270) (size 0.75 0.84) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1) (tstamp 16721e67-c980-4eb1-b1f3-a31b6a7af6f7))
   (pad "4" smd roundrect (at 2.82 -0.720001 270) (size 0.75 0.84) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1) (tstamp 9bfb8863-6936-41d5-bb66-8817613868cc))
+  (model "${KICAD7_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/LED_SK6812MINI-E.step"
+    (offset (xyz 0 -5.1 -1.75))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 180 180))
+  )
 )
