@@ -1,4 +1,4 @@
-22340813180602733
+22342508401568876
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -92602,6 +92602,13 @@ varistor
 0
 2
 2
+fox
+SH1107 OLED Module
+
+
+0
+4
+4
 fox
 SLSS49E
 3-pin TSOT23 package, http://www.analog.com.tw/pdf/All_In_One.pdf

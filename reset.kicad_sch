@@ -649,7 +649,7 @@
     (property "Value" "10u" (at 63.5 33.02 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A" (at 68.58 31.115 0)
+    (property "Footprint" "Capacitor_SMD:C_1206_3216Metric" (at 68.58 31.115 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 68.58 31.115 0)
