@@ -4,6 +4,10 @@
 
   (paper "A4")
 
+  (title_block
+    (title "MoonBoard")
+  )
+
   (lib_symbols
     (symbol "74xx:CD74HC4067M" (in_bom yes) (on_board yes)
       (property "Reference" "U" (at -8.89 22.86 0)
@@ -2006,7 +2010,7 @@
     (uuid ff24aae4-1d26-45ee-930b-40efe8465ce5)
   )
 
-  (text "Mux supplies" (at 74.93 180.975 0)
+  (text "Mux decoupling" (at 74.93 180.975 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 9990d7ef-e3f7-423c-9a95-83c4c2e06350)
   )

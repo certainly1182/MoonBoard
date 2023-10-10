@@ -4,6 +4,10 @@
 
   (paper "A3")
 
+  (title_block
+    (title "MoonBoard")
+  )
+
   (lib_symbols
     (symbol "PCM_marbastlib-mx:MX_stab" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
       (property "Reference" "S" (at -5.08 6.35 0)
@@ -73,6 +77,8 @@
     )
   )
 
+
+  (no_connect (at 390.525 66.04) (uuid 187a5059-57be-4bc9-8f70-61c3c5ca1608))
 
   (bus_entry (at 75.565 21.59) (size 2.54 -2.54)
     (stroke (width 0) (type default))

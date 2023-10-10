@@ -4,6 +4,10 @@
 
   (paper "A4")
 
+  (title_block
+    (title "MoonBoard")
+  )
+
   (lib_symbols
     (symbol "Device:C_Small" (pin_numbers hide) (pin_names (offset 0.254) hide) (in_bom yes) (on_board yes)
       (property "Reference" "C" (at 0.254 1.778 0)
@@ -643,10 +647,10 @@
   (symbol (lib_id "Device:C_Small") (at 68.58 31.115 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 62d9ca4b-e0f6-4f5c-a87e-dffd231e4e71)
-    (property "Reference" "C5" (at 63.5 30.48 0)
+    (property "Reference" "C5" (at 61.595 30.48 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "10u" (at 63.5 33.02 0)
+    (property "Value" "10u" (at 61.595 33.02 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitor_SMD:C_1206_3216Metric" (at 68.58 31.115 0)
@@ -985,10 +989,10 @@
   (symbol (lib_id "Device:R_Small") (at 61.595 27.305 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c619daee-fafc-4e3c-a9b5-272222b4cf35)
-    (property "Reference" "R1" (at 62.23 22.225 90)
+    (property "Reference" "R1" (at 61.595 22.225 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "330k" (at 62.23 24.765 90)
+    (property "Value" "330k" (at 61.595 24.765 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 61.595 27.305 0)

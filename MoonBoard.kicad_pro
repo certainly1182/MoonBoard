@@ -481,7 +481,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "MoonBoard.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
