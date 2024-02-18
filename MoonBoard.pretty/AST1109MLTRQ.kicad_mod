@@ -49,12 +49,8 @@
     (stroke (width 0.05) (type default)) (fill none) (layer "F.CrtYd") (tstamp e6c0d580-d501-481e-8f84-837f19d61f63))
   (pad "1" smd rect (at -6.752 0) (size 2.2 2.2) (layers "F.Cu" "F.Mask")
     (thermal_bridge_angle 45) (tstamp c033a2ed-9f3f-452c-860a-1449446ba7ba))
-  (pad "1" smd rect (at -6.752 0) (size 2.2 2.2) (layers "B.Cu" "B.Mask")
-    (thermal_bridge_angle 45) (tstamp 9e1228bc-093c-405b-b0b3-704a7358e21a))
   (pad "2" smd rect (at 6.752 0) (size 2.2 2.2) (layers "F.Cu" "F.Mask")
     (thermal_bridge_angle 45) (tstamp d1269164-c2ae-4858-a800-405f8270483d))
-  (pad "2" smd rect (at 6.752 0) (size 2.2 2.2) (layers "B.Cu" "B.Mask")
-    (thermal_bridge_angle 45) (tstamp c131ee45-b756-4a38-8f72-e44824cdae1b))
   (group "" (id 6356cb13-4e72-4f3f-a953-836fc957f248)
     (members
       5d42112e-8a14-46df-a4d0-dd8d3766856a

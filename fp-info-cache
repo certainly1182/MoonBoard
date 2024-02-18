@@ -1,4 +1,4 @@
-22359497725510229
+22361219765266469
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -61208,6 +61208,13 @@ ESP8266 WiFi microcontroller
 16
 16
 MoonBoard
+2.2mm hole
+
+
+0
+0
+0
+MoonBoard
 5.5_5x2.5mm
 
 
@@ -61276,7 +61283,7 @@ Molex Pico-EZmate series connector, 78171-0004 (http://www.molex.com/pdm_docs/sd
 connector Molex Pico-EZmate side entry
 0
 22
-4
+5
 MoonBoard
 PicoEZMate-Reinforced-Lite
 Molex Pico-EZmate series connector, 78171-0004 (http://www.molex.com/pdm_docs/sd/781710002_sd.pdf), generated with kicad-footprint-generator
