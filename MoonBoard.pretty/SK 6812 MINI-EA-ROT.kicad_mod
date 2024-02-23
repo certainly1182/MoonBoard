@@ -2,7 +2,7 @@
   (layer "F.Cu")
   (attr smd)
   (fp_text reference "REF**" (at 0 2.793999 unlocked) (layer "F.SilkS")
-      (effects (font (size 1 1) (thickness 0.1)))
+      (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 707a817a-ea96-4249-be69-8795196c249c)
   )
   (fp_text value "SK 6812 MINI-EA-ROT" (at -0.508 3.555999 unlocked) (layer "F.Fab")
@@ -52,6 +52,8 @@
   (fp_line (start 0.25 -4.830001) (end 0 -5.080001)
     (stroke (width 0.12) (type solid)) (layer "Cmts.User") (tstamp 69456b3e-c138-4666-9208-def1869f6355))
   (fp_line (start -1.699999 -0.702842) (end -1.699999 0.702842)
+    (stroke (width 0.1) (type solid)) (layer "Edge.Cuts") (tstamp 5e697948-71bc-4728-a5ed-849861b56994))
+  (fp_line (start -1.699999 -0.702842) (end -1.699999 0.702842)
     (stroke (width 0.1) (type solid)) (layer "Edge.Cuts") (tstamp a03871ad-f09f-4a0c-90bf-0bf71613da16))
   (fp_line (start -0.794452 1.499999) (end 0.794453 1.499999)
     (stroke (width 0.1) (type solid)) (layer "Edge.Cuts") (tstamp c171304c-0f28-4be1-b327-9a2f93bfa57a))
@@ -91,45 +93,10 @@
     (stroke (width 0.05) (type solid)) (layer "F.CrtYd") (tstamp b28cbf25-7f9d-453d-9ea0-22824e53d678))
   (fp_line (start 3.8 2) (end -3.8 2)
     (stroke (width 0.05) (type solid)) (layer "F.CrtYd") (tstamp 8e0628cd-0b61-4322-981c-04f57dd221d0))
-  (pad "1" smd roundrect (at -2.775 0.754999 180) (size 0.75 0.82) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1) (tstamp 2b6efa87-634b-473c-bec9-456b98f46a89))
-  (pad "2" smd roundrect (at -2.775 -0.755001 180) (size 0.75 0.82) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1) (tstamp 4fe10715-6d36-49f3-a1bc-2462bf355182))
-  (pad "3" smd roundrect (at 2.775 -0.755001 180) (size 0.75 0.82) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1) (tstamp ccbd0293-e3a2-4aea-9115-4b39b8b1fe48))
-  (pad "4" smd roundrect (at 2.775 0.754999 180) (size 0.75 0.82) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1) (tstamp 7292d724-048d-4968-b136-24565fd0a1e5))
-  (group "" (id 4a598df3-c8df-4d59-96bd-74c481c6f92c)
-    (members
-      0351a486-42d7-4d94-b033-7a187541b27a
-      12682e27-c9a2-4d14-8de6-38b1435863a2
-      29aef3df-eabc-4228-a1a8-354ecb7d2bd4
-      2b6efa87-634b-473c-bec9-456b98f46a89
-      415875d1-bef1-4f88-b9cb-a06473ad723e
-      447d1b21-6b64-4cc1-ad84-ea755723f0bb
-      468e3040-e52e-47f6-94f2-56848ff53d2d
-      4fe10715-6d36-49f3-a1bc-2462bf355182
-      62ff2503-244e-4aea-ac78-5df2a1c9989f
-      7292d724-048d-4968-b136-24565fd0a1e5
-      7572aaf7-e310-4d3b-a5af-4e5c479fe2ef
-      767bbf7f-31eb-4766-aa63-a2d98068581c
-      81626536-d096-4756-8a74-bf7fdccc8c48
-      81b037e2-9a6c-490e-823f-8d5b30bdac93
-      8754ec07-42a2-414f-8225-1b1c47af3fc6
-      87980cd3-198c-4401-815b-ce71a5eff118
-      882ff9e9-91a3-48fb-85c5-04d06e5ac2ba
-      8adaac37-0a4f-41bf-be9d-c2fb67965785
-      8df8431d-cfb9-4ec8-926e-c5396384ebb8
-      8e0628cd-0b61-4322-981c-04f57dd221d0
-      91f35c8c-4e80-49af-9cc9-1618dfc26884
-      940a991a-47c6-47f5-914e-34fdfdf68c56
-      a03871ad-f09f-4a0c-90bf-0bf71613da16
-      b28cbf25-7f9d-453d-9ea0-22824e53d678
-      c171304c-0f28-4be1-b327-9a2f93bfa57a
-      ccbd0293-e3a2-4aea-9115-4b39b8b1fe48
-      d4143de8-b4aa-44c1-aec0-4ea80b29feb8
-      e76f5872-b5c4-4707-90ac-f8c8d2d865c6
-      f306bc57-87d5-49a2-a89c-b4863c08a50e
-      fa533c9e-007f-4f9e-9134-454356dd19dc
-      fe05ae98-57e5-4de9-ac8e-4e6011e50903
-    )
-  )
+  (pad "1" smd roundrect (at -2.725 0.755001) (size 1.65 0.82) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1) (tstamp 385d4efc-5c78-4029-8549-613f5720fd34))
+  (pad "2" smd roundrect (at -2.725 -0.754996) (size 1.65 0.819994) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1) (tstamp 1e9dbe8a-e82f-4918-a9c2-ab97a3dd7a8e))
+  (pad "3" smd roundrect (at 2.725 -0.754999) (size 1.65 0.82) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1) (tstamp 11729a33-a919-450c-8e57-c2d7aaa6d19a))
+  (pad "4" smd roundrect (at 2.725 0.755001) (size 1.65 0.82) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1) (tstamp 4e7d94f6-ba68-45e8-95f1-b1ed404884fe))
   (model "${KICAD7_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/LED_SK6812MINI-E.step"
     (offset (xyz 0 -5.1 -1.75))
     (scale (xyz 1 1 1))
