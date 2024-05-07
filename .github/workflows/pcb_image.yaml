@@ -10,7 +10,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: render pcb image
-        uses: linalinn/kicad-render@main
+        uses: linalinn/kicad-render@v0.1
         with:
         pcb_file: MoonBoard.kicad_pcb
         output_path: ${{ github.workspace }}/images
