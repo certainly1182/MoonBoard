@@ -12,5 +12,5 @@ This repository contains the hardware for a 75% ISO keyboard powered by hall eff
 - Powered by QMK Firmware.
 
 ## Images
-![top](<github_username>.github.io/<repo_name>/top.png)
-![bottom](<github_username>.github.io/<repo_name>/bottom.png)
+![top](certainly1182.github.io/moonboard/top.png)
+![bottom](certainly1182.github.io/moonboard/bottom.png)
