@@ -12,8 +12,8 @@ jobs:
       - name: render pcb image
         uses: linalinn/kicad-render@v0.1
         with:
-        pcb_file: MoonBoard.kicad_pcb
-        output_path: ${{ github.workspace }}/images
+          pcb_file: MoonBoard.kicad_pcb
+          output_path: ${{ github.workspace }}/images
         
       - name: Setup Pages
         if: github.ref == 'refs/heads/main'
@@ -23,7 +23,7 @@ jobs:
         if: github.ref == 'refs/heads/main'
         uses: actions/upload-pages-artifact@v1
         with:
-        path: "images"
+          path: "images"
 
   deploy-pages:
     if: github.ref == 'refs/heads/main'
