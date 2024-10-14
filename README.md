@@ -1,5 +1,6 @@
 # MoonBoard - 75% ISO Keyboard with Hall Effect Sensors
 This repository contains the hardware for a 75% ISO keyboard powered by hall effect sensors.
+[Click here for the firmware repository!](https://github.com/RephlexZero/qmk_firmware/tree/adc_testing)
 
 ## Features
 - Hall Effect Sensors for configurable trigger point & "rapid trigger" functionality.
